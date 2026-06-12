@@ -1,10 +1,12 @@
 # Ask & Prompt Participant Data Viewer
 
+Link to viewer: https://anikanb-32.github.io/ask-prompt-viewer/
+
 Browse diary and in-lab interactions for each participant, view conversations in a chat interface, detect sycophantic responses, and continue conversations with an AI model.
 
 ## GitHub Pages (online, no server needed)
 
-`index.html` is a fully static version that runs on GitHub Pages. It fetches data files directly and calls AI APIs from the browser. No Python server required.
+`index.html` is a fully static version that runs on GitHub Pages. It fetches data files directly and calls AI APIs from the browser.
 
 **To enable GitHub Pages:**
 1. Push this repo to GitHub
@@ -12,11 +14,7 @@ Browse diary and in-lab interactions for each participant, view conversations in
 3. Set Source to **Deploy from a branch**, branch `main`, folder `/` (root)
 4. Your viewer will be live at `https://<username>.github.io/<repo-name>/`
 
-API keys are entered via ⚙ and stored in browser session memory (cleared when the tab closes — never sent to any server).
-
 ## Local server (full features, private data)
-
-**Requirements:** Python 3.8+, no external packages needed.
 
 ```bash
 # 1. Clone the repo
