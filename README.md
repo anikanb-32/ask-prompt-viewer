@@ -1,16 +1,20 @@
-# Ask & Prompt — Participant Data Viewer
+# Ask & Prompt Participant Data Viewer
 
-An interactive browser-based viewer for the Ask & Prompt study dataset. Browse diary and in-lab interactions for each participant, view conversations in a chat interface, detect sycophantic responses, and continue conversations with an AI model.
+Browse diary and in-lab interactions for each participant, view conversations in a chat interface, detect sycophantic responses, and continue conversations with an AI model.
 
-## Features
+## GitHub Pages (online, no server needed)
 
-- Browse all participants (P1–P11) across diary and in-lab sessions
-- Chat-style conversation view with inline images
-- Sycophancy detection — flags interactions where Be My AI aligns with user opinion over factual accuracy
-- Continue any conversation using GPT-4o, Claude, or Gemini (full image + text context sent)
-- Save flagged interactions to a personal folder (persisted in browser localStorage)
+`index.html` is a fully static version that runs on GitHub Pages. It fetches data files directly and calls AI APIs from the browser. No Python server required.
 
-## Setup
+**To enable GitHub Pages:**
+1. Push this repo to GitHub
+2. Go to **Settings → Pages** in your repo
+3. Set Source to **Deploy from a branch**, branch `main`, folder `/` (root)
+4. Your viewer will be live at `https://<username>.github.io/<repo-name>/`
+
+API keys are entered via ⚙ and stored in browser session memory (cleared when the tab closes — never sent to any server).
+
+## Local server (full features, private data)
 
 **Requirements:** Python 3.8+, no external packages needed.
 
@@ -30,14 +34,14 @@ python3 viewer.py
 
 Then open [http://localhost:8765](http://localhost:8765) in your browser.
 
-API keys can also be entered through the ⚙ settings modal in the viewer UI — no restart required.
-
 ## Project Structure
 
 ```
 .
+├── index.html         # Static viewer — works on GitHub Pages
 ├── viewer.py          # Local HTTP server (no external dependencies)
-├── viewer.html        # Frontend — chat UI, sycophancy analysis, saved folder
+├── viewer.html        # Frontend for local server
+├── participants.json  # Participant list for static viewer
 ├── P1/ … P11/
 │   ├── diary_data/
 │   │   ├── P*.json          # Interaction turns + annotations
@@ -46,7 +50,3 @@ API keys can also be entered through the ⚙ settings modal in the viewer UI —
 │       ├── P*_inlab.json
 │       └── P*_inlab_images/
 ```
-
-## API Keys
-
-Keys are **never stored on disk** — they live in server memory and clear on restart. You can set them via environment variables (recommended) or paste them into the ⚙ modal at runtime.
