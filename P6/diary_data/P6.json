@@ -1,0 +1,2222 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "7",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a packet of McCormick Brown Gravy mix. The packaging is primarily brown with a red top. It features an image of mashed potatoes with brown gravy and green beans on a plate. The text on the packet reads \"McCormick Brown Gravy\" with \"with McCormick Spices | No Artificial Flavors\" below it. In the bottom left corner, it says \"Gravy Mix\" and in the bottom right corner, it states \"Net Wt 0.87 oz (24g)\". The packet is placed on a countertop with a speckled pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Directions",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The directions on the packet are not visible in the image. If you need the preparation instructions, you might find them on the back of the packet. Alternatively, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_1_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The text on the packet is a bit blurry, but here is what I can make out:\n\nYou Will Need:\n1 pkg McCormick Gravy Mix\n1 cup cold water\n\nStove Top Directions:\n1. Stir water gradually into Gravy Mix with whisk in small saucepan.\n2. Stirring frequently, cook on medium heat until gravy comes to boil. Reduce heat and simmer 1 minute. (Gravy will thicken upon standing.)\n\nMicrowave Directions:\n1. Stir water into Gravy Mix in 1 1/2-quart microwavable bowl.\n2. Microwave on high 2 to 3 minutes or until thickened, stirring after each minute. Microwave ovens vary; time is approximate.\n\nPlease note that some parts of the text might be unclear due to the image quality. If you need precise instructions, you might want to press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:How many carbs?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the nutrition facts, but it's a bit blurry. It looks like the total carbohydrates per serving are 4 grams. If you need to confirm this information, you might want to press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:What other nutrition?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:From what I can make out in the image, here are the nutrition facts per serving:\n\n- Calories: 20\n- Total Fat: 0.5g\n- Sodium: 230mg\n- Total Carbohydrates: 4g\n- Protein: 0g\n\nPlease note that some details might be unclear due to the image quality. If you need precise information, you might want to press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:How many servings does it make?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The packet indicates that it makes 1 cup of gravy, but the specific number of servings is not clearly visible in the image. If you need exact details, you might want to press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "User:I\u2019d rather not call a volunteer, do you have any tips so I can get all the information from a picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:To capture all the information clearly in a picture, try the following tips:\n\n1. Ensure good lighting: Take the picture in a well-lit area to reduce shadows and improve clarity.\n2. Hold the camera steady: Keep your hand steady or use a stable surface to avoid blurriness.\n3. Get closer: Move closer to the text to ensure it's readable, but make sure the entire area of interest is in the frame.\n4. Focus: Make sure the camera is focused on the text. Most smartphones allow you to tap the screen to focus.\n5. Avoid glare: Adjust the angle to prevent light reflections on glossy surfaces.\n6. Take multiple shots: Capture several images from different angles or distances to increase the chance of getting a clear shot.\n\nIf you try these tips and still have difficulty, feel free to share another picture, and I'll do my best to help!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "grounding"
+            ],
+            "question_category": "Reading, Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_2_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a part of a box or packaging with text in both English and French. The text includes:\n\nIn English:\n- 1 User Guide\n- 4 AAA Batteries\n\nIn French:\n- Contenu de la bo\u00eete\n- 1 Tensiom\u00e8tre\n- 1 Brassard\n- 1 Guide d'utilisation\n- 4 Piles AAA\n\nThere is also a logo or branding on the right side, but it is not entirely clear. If you need more information or a clearer view, you might consider taking another picture.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I think this is a blood pressure monitor, I need to know the directions and if there\u2019s an app that I need to download",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image you provided shows the contents of the box, but it doesn't include specific directions or mention an app. To find out the directions for using the blood pressure monitor and whether an app is needed, you might want to look for a user manual or guide that came with the device. If you have the manual, you could take a picture of it, and I can help transcribe or summarize the information for you. Alternatively, you could check the manufacturer's website for more details or instructions. If you're still unsure, you might consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen countertop with a dark, speckled granite pattern. On the countertop, there is a crumpled piece of paper or napkin towards the right side. In the background, there is a white plate with some brownish food remnants or crumbs on it. The countertop is in front of wooden kitchen cabinets and a stainless steel appliance, possibly an oven or stove.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How much food is on the plate?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is a small amount of brownish food remnants or crumbs on the plate. It doesn't appear to be a large quantity, just some leftover bits.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_3_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a black cat eating from a white plate on a wooden floor. The cat is positioned near a wooden cabinet. There is another white plate on the floor to the left of the cat, and a black tray with a paper plate on it is against the wall. A green, hollow, spherical toy is also visible on the floor near the wall.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:which plate has more food on it",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The plate the cat is eating from appears to have some food on it, while the paper plate on the black tray looks empty. Therefore, the plate the cat is eating from has more food on it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop screen displaying the Dell logo, which is a white circle with the word \"DELL\" inside it. Below the logo, there is a spinning loading icon, indicating that the computer is in the process of booting up. The lower part of the image shows a portion of the laptop's keyboard.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is it booting up?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the presence of the Dell logo along with the spinning loading icon suggests that the laptop is in the process of booting up.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_4_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a computer lock screen with a scenic background of a lush green landscape surrounding a blue body of water. The time displayed is 10:01, and the date is Monday, February 3. Below the time and date, there is a message: \"Try the new, streamlined, and speedier Copilot, with tools to simplify tasks and inspire your creativity.\" \n\nAt the bottom of the screen, there are widgets displaying information:\n- Markets: S&P 500 is down 1.59% at 5,944.75, DOW is down 1.45% at 43,899.36, and NASDAQ is down 1.99% at 19,236.38.\n- Traffic near you: Leesburg shows light traffic.\n- Trending in News: Final Grizzlies Bucks.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Is this for login screen?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, this appears to be a login or lock screen on a computer. It displays the time, date, and additional information, which is typical for a screen you would see before logging into your user account.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a computer screen displaying a message about updates. The text on the screen reads: \"Updates are underway. 23% complete. Please keep your computer on.\" There is a circular loading icon above the text, indicating that the update process is in progress. The background of the screen is dark.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does it say how long the update will take?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There was an error processing your request. Please try again later. (code: 8)",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a computer screen with a message indicating that updates are in progress. The text on the screen reads: \"Updates are underway. 100% complete. Please keep your computer on.\" There is a circular loading icon above the text. The background is a dark gradient, and the screen appears to be in a dimly lit room.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_6_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a computer screen with a message about updates. The text on the screen reads: \"Working on updates 0%. Please keep your computer on.\" Below this, there is additional text that says: \"Your computer may restart a few times.\" There is a circular loading icon above the main text. The background is a dark gradient, and the screen appears to be in a dimly lit room.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Does it say how long it will take?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the screen does not provide any information about how long the updates will take. It only indicates that the updates are at 0% and advises to keep the computer on, mentioning that the computer may restart a few times.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a computer screen displaying a message about updates. The text reads: \"Working on updates 13%. Please keep your computer on.\" Below that, it says: \"Your computer may restart a few times.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:He doesn\u2019t say what the updates are?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the screen does not specify what the updates are for. It only indicates that the computer is working on updates and is currently at 13%.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_7_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The screen now shows that the updates are at 16%. The message remains the same: \"Working on updates 16%. Please keep your computer on.\" Below it, the text says: \"Your computer may restart a few times.\" There is still no information about what the updates are specifically for.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a computer screen displaying a news and information feed. At the top, there is a section labeled \"Discover\" with options like Following, Watch, and Play. Below that, there is a large news card from IFLScience with a headline that reads: \"We've Caught A Glimpse Into What Early Human Relatives Ate 3 Million Years Ago.\" It features an image of an early human ancestor's face.\n\nBelow this, there are two smaller cards. The first one is from CNBC with a headline that says: \"Trump pauses Mexico tariffs for one month after agreement on border troops,\" accompanied by an image of a woman speaking. The second card is an advertisement for a Microsoft Store app called \"PDF Reader - View and Edit PDF,\" featuring a large red PDF icon. \n\nAt the bottom of the screen, there is a \"Top stories\" section and a \"See more\" button.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What kind of page is this? I thought I already logged in. I think the computer is acting up.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:This page appears to be a news and information feed, possibly from a web browser's homepage or a news app on your computer. It shows various news articles and advertisements. If you were expecting a different page, like a login screen or a specific website, it might be helpful to check if the browser opened to the correct homepage or if there are any tabs open that might have redirected you. If the issue persists, you might want to try restarting the browser or the computer. If you're still having trouble, consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_9": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(action)"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_9_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bright sun shining in a clear blue sky, with its light creating a starburst effect. In the foreground, there are bare tree branches silhouetted against the sky. The lower part of the image appears to be obscured by a hazy or foggy layer, which blurs the view of what seems to be a fence and possibly some trees or shrubs in the background. The overall effect is a mix of bright sunlight and a soft, diffused foreground.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there furniture in the picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be any furniture in the picture. The image mainly shows the bright sun, tree branches, and a hazy view of a fence and possibly some trees or shrubs. If you need a clearer identification, you might consider taking another picture from a different angle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_9_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image shows a wooden deck with some outdoor furniture. There is a large piece of furniture covered with a beige cover, possibly a table or a set of chairs. Next to it, there is a closed red patio umbrella. On the right side of the image, there is a metal chair with a simple design. In the background, there is a wooden fence and some tall evergreen trees. The sky is clear and blue, and the sun casts shadows on the deck.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Tell me about the furniture that\u2019s not covered",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The uncovered furniture in the image includes a metal chair. The chair has a simple design with a curved backrest and armrests. It appears to be made of metal, possibly wrought iron or a similar material, and is positioned on the wooden deck to the right side of the covered furniture.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:We have a winter weather advisory, should I cover that furniture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, it would be a good idea to cover the metal chair if you have a winter weather advisory. Covering it can help protect it from snow, ice, and moisture, which can cause rust or other damage over time. If you have a cover or can move it to a sheltered area, that would be beneficial.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "decomposition"
+            ],
+            "question_category": "Description, Ask for advise, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a small indoor hydroponic garden system with several plants growing in it. The plants appear to be a mix of herbs and possibly some decorative foliage. The leaves of the plants vary in color, with some being green and others having a mix of green and purple hues. The system has a black and silver base with three buttons on the front: a green button, a blue button, and a white button with a snowflake symbol. There is also a small cylindrical component on the base. The garden is placed on a wooden surface, and there is some paperwork partially visible at the bottom left corner of the image. The plants are receiving sunlight from a nearby window.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What kind of plants are they?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The plants in the image appear to be a mix of herbs and possibly some decorative foliage. The plant on the right with broad, glossy green leaves looks like basil. The plant in the middle with thin, needle-like leaves could be rosemary. The plant on the left with multicolored leaves, including green and purple, might be a type of coleus, which is often used for decorative purposes. However, to be certain about the plant types, it might be helpful to consult a plant identification app or expert.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_10_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The new image provides a closer view of the plant on the left side of the hydroponic garden system. This plant has leaves that are a mix of green and purple, with some leaves showing a variegated pattern. The leaves have a textured, slightly wrinkled appearance, which is characteristic of coleus plants. Coleus is often grown for its colorful foliage and is commonly used as a decorative plant. If you need a precise identification, you might consider using a plant identification app or consulting with a gardening expert.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_10_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of the control panel on the hydroponic garden system, which is branded as \"AeroGarden.\" There are three buttons on the panel:\n\n- The green button on the left is labeled \"Add Plant Food.\"\n- The blue button in the middle is labeled \"Add Water.\"\n- The white button on the right, with a sun symbol, is labeled \"Light On/Off.\"\n\nThese buttons are used to manage the functions of the AeroGarden, such as adding nutrients, refilling water, and controlling the grow lights.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Do I need to do anything? Are any of the buttons lit up?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the blue button labeled \"Add Water\" is lit up. This indicates that the water level in the AeroGarden is low and needs to be refilled. You should add water to the system to ensure the plants continue to grow properly. The other buttons, \"Add Plant Food\" and \"Light On/Off,\" are not lit up, so no action is needed for those at the moment.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:Excellent!",
+                "text_ai": null,
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "binary"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "maybe",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a wooden cabinet with glass doors. The cabinet has a rich, dark wood finish and features decorative handles. The glass doors have a diamond-shaped frosted design. Inside the cabinet, there are several shelves displaying various glassware, including wine glasses, tumblers, and bowls. There are also some decorative plates and a silver pitcher on the lower shelf. The glassware and dishes are neatly arranged, and the cabinet appears to be part of a dining room or living room setting.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How many shelves are in this cabinet?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cabinet has three visible shelves.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:How many sections?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cabinet has two sections, as indicated by the two glass doors.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_11_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cabinet has three sections. The left section is narrower and has a single glass door, while the middle and right sections are wider and share two glass doors. There is also a lower part of the cabinet with solid wood doors, which appears to have additional storage space.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Thank you",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a pan with sliced mushrooms and onions being cooked. The mushrooms are browned, suggesting they are being saut\u00e9ed. There is a red spatula in the pan, likely being used to stir the ingredients. The onions appear to be caramelized, adding a golden color to the dish. The pan is on a stovetop.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are the mushrooms brown? he",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the mushrooms in the pan are brown, indicating they have been cooked and are likely being saut\u00e9ed.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a product package. The top left corner has a red oval with the text \"Betty Crocker\" inside it. Next to it, in red script, it says \"Gel Food\". The image on the package features three cupcakes with swirled frosting in different colors: blue, yellow, and pink. The background is a speckled countertop. The image is slightly blurry.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_13_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the back of a product package. At the top, it reads \"Gel Food Color\" followed by \"PASTEL COLORS\" in smaller text. The rest of the text is difficult to read due to the blurriness of the image, but it appears to include instructions or information about the product. There is also a small image of what looks like colored frosting or icing on the right side. If you need detailed information, it might be helpful to take a clearer picture or press the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_13_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the back of a Betty Crocker Gel Food Color package. The text reads:\n\n\"Gel Food Color\nPASTEL COLORS\n\nEASY COLOR BLENDING & MIXING\n- Gel base won't dilute even the most delicate recipes.\n- Squeeze tubes make dispensing and color mixing simple.\n\nDIRECTIONS FOR COLORING DOUGH, ICING, FROSTING, AND WHITE CAKE BATTER:\n- Add small amount of selected gel food color to dough, icing, frosting, or white cake batter.\n- Mix until color is well blended.\n- Continue to add gel food color until preferred color is achieved.\n- Bake dough or batter after desired color is achieved.\n\nTIP: To achieve the perfect pastel, simply add 1 tube of Betty Crocker\u2122 gel food color to 1 tub of Betty Crocker\u2122 White frosting or 1 box of Betty Crocker\u2122 White cake mix.\"\n\nThere is also a small image of colored frosting or icing, and a section labeled \"Nutrition Facts\" indicating 15 calories per serving. The ingredients list is present but too small to read clearly.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:What colors are in the pack?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The package indicates that there are four pastel colors included. At the top right, it shows small circles representing the colors: pink, yellow, green, and blue.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:I need the ingredients",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The text in the image is a bit blurry, making it difficult to read the ingredients clearly. If possible, you might want to try taking a clearer picture or use the \"Call a volunteer\" button for more precise assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_13_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is still a bit blurry, but I will do my best to transcribe the ingredients section for you:\n\nIngredients: Corn Syrup, Sugar, Water, Modified Cornstarch, Glycerin, Contains 2% or less of: Citric Acid, Sodium Benzoate (Preservative), Potassium Sorbate (Preservative), Artificial Color including Yellow 5, Red 40, Blue 1, Yellow 6, Xanthan Gum.\n\nIf you need further assistance, you might consider pressing the \"Call a volunteer\" button for more accurate help.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a living room setting with a gray two-seater sofa against a brown wall. On the left side of the sofa, there is a pink keyboard resting on the seat. To the right of the sofa, there is a small wooden side table with a Z-shaped design. On the table, there is a laptop, a water bottle, and some electronic devices with cables. The floor is carpeted, and there are a few items scattered on the floor, including a white object under the sofa and a pair of socks on the left side of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I want to get a slip cover for this couch. What size should I get?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:To determine the correct size for a slipcover, you'll need to measure your sofa. Here are the key measurements you should take:\n\n1. Measure the width of the sofa from the outer edge of one arm to the outer edge of the other arm.\n2. Measure the height from the floor to the top of the backrest.\n3. Measure the depth from the front of the seat cushion to the backrest.\n\nOnce you have these measurements, you can compare them to the dimensions provided by slipcover manufacturers to find the best fit. Most slipcovers are labeled as small, medium, or large, and include a range of measurements they fit. If you're unsure or need more specific guidance, you might consider contacting the slipcover manufacturer or pressing the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Are you able to tell the size of this couch?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:I can't determine the exact size of the couch just from the image. It would be best to measure the couch as described earlier to ensure you get the correct slipcover size. If you need assistance with measuring, you might consider asking someone to help or pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_15": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_15_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a small, light gray sofa with two seat cushions and two back cushions. On the left side of the sofa, there is a pink keyboard resting on the seat cushion. To the right of the sofa, there is a small table with a dark surface. On the table, there is a laptop, a water bottle, and some cables. There is also a power strip with a few plugs connected to it. The wall behind the sofa is plain and has a neutral color. There are a few decorative items hanging on the wall, which appear to be leaf-shaped. On the floor, there are a couple of crumpled tissues or pieces of paper.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What style couch is this?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The couch in the image appears to be a modern or contemporary style. It has clean lines and a simple design, with straight arms and a uniform color, which are typical characteristics of modern furniture. The light gray fabric also gives it a neutral and versatile look that fits well with various decor styles.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:I\u2019m trying to look for a furniture cover and wondering what size I should get?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:To choose the right size furniture cover for your sofa, you'll need to measure the dimensions of the sofa. Here are the key measurements you should take:\n\n1. **Width**: Measure the distance from the outer edge of one arm to the outer edge of the other arm.\n2. **Height**: Measure from the floor to the top of the backrest.\n3. **Depth**: Measure from the front edge of the seat cushion to the backrest.\n\nOnce you have these measurements, you can look for a furniture cover that fits within these dimensions. It's often helpful to check the product details of the cover for specific size recommendations. If you're unsure, consider getting a cover with some stretch or adjustable features to ensure a good fit. If you need further assistance, you might want to press the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Based on the first response, what kind of furniture cover should I get?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Based on the description of the sofa as modern or contemporary with clean lines and a light gray color, you might want to consider a furniture cover that complements this style. Here are a few suggestions:\n\n- **Stretch Slipcover**: A stretch slipcover can provide a snug fit and maintain the clean lines of the sofa. Look for a cover in a neutral color or a subtle pattern to match the modern aesthetic.\n- **Quilted Cover**: If you're looking for added protection, a quilted cover can offer durability while still maintaining a sleek look. Choose a color that complements the light gray of the sofa.\n- **Reversible Cover**: A reversible cover can offer versatility in style, allowing you to switch between two looks. This can be useful if you want to change up the decor occasionally.\n\nMake sure to choose a cover that fits the dimensions of your sofa for the best appearance and protection.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the control panel of a treadmill. The display is lit up with blue lights. At the top, there is a section that mentions \"Bluetooth Equipped\" and \"Pair with Devices.\" Below that, there is a digital display with numbers showing \"88:88\" and \"99.99,\" which are likely placeholders or default settings. The words \"SAFETY KEY OFF\" are visible on the display, indicating that the safety key is not engaged. Below this, there are three sections with blue digital numbers showing \"0:00,\" \"0.0,\" and \"0.0,\" which are likely indicating time, distance, and speed or another metric. The brand \"Horizon Fitness\" is visible on the panel.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I need to replace the safety key, what do I need?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:To replace the safety key on a treadmill, you typically need a compatible replacement key that matches your treadmill model. Here are the general steps you might follow:\n\n1. Identify the treadmill model: Check the brand and model number of your treadmill, which is usually found on the frame or in the user manual.\n\n2. Purchase a replacement key: You can buy a replacement safety key from the treadmill manufacturer, a fitness equipment store, or online retailers. Make sure it is compatible with your specific treadmill model.\n\n3. Install the new key: Insert the new safety key into the designated slot on the treadmill's console. It should fit snugly and allow the treadmill to operate.\n\nIf you're unsure about the compatibility or installation, consider contacting the treadmill manufacturer or pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_16_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the control panel of a treadmill, similar to the previous one. The display is illuminated with blue lights. The top section mentions \"Bluetooth Equipped\" and \"Pair with Devices.\" The digital display shows \"88:88\" and \"99.99,\" which are likely placeholders. The words \"SAFETY KEY OFF\" are visible, indicating the safety key is not engaged. Below, there are blue digital numbers displaying \"0:00,\" \"0.0,\" and \"0.00,\" likely representing time, distance, and speed or another metric. The brand \"Horizon Fitness\" is visible, and the model appears to be \"7.0 AT TREADMILL.\" To replace the safety key, ensure you get a compatible key for this specific model.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:What model is this?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The treadmill model appears to be the \"7.0 AT TREADMILL\" from Horizon Fitness.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Excellent thank you",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "decomposition",
+                "binary"
+            ],
+            "question_category": "Identification, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bottle of Marukan Organic Rice Vinegar. The label on the bottle reads \"Marukan\" at the top, with a gold emblem and the year \"1649\" below it. The words \"ORGANIC Rice Vinegar\" are prominently displayed in the center. Below that, it mentions \"from select California grown rice\" and the volume \"12 FL OZ (355 mL)\". At the bottom of the label, it says \"ALL NATURAL\". The bottle is being held by a hand, and the background is a speckled countertop.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I\u2019m looking for apple cider vinegar to make deviled eggs. Could this be a substitute?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Rice vinegar can be used as a substitute for apple cider vinegar in recipes like deviled eggs. It has a milder and slightly sweeter flavor compared to apple cider vinegar, so it might alter the taste slightly, but it should still work well. If you prefer a more tangy flavor, you might want to add a bit more rice vinegar than the amount of apple cider vinegar called for in the recipe.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_17_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bottle of Bragg Organic Apple Cider Vinegar. The label is yellow with red accents. The text \"APPLE CIDER VINEGAR\" is visible on the left side of the label. There is also a nutrition facts section visible on the right side of the label. The bottle appears to be held by a hand. This apple cider vinegar would be suitable for making deviled eggs.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Excellent I found my apple cider vinegar now. Thank you.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! If you have any more questions or need further assistance, feel free to ask. Enjoy making your deviled eggs!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "binary"
+            ],
+            "question_category": "Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen with a granite countertop. On the countertop, there is a white rice cooker with steam coming out of it, a glass with some liquid inside, a green and pink water bottle, a partially filled bottle of Diet Coke, and a blue bowl with some food in it. In the background, there is a stainless steel oven with a striped towel hanging on its handle. The kitchen has wooden cabinets and large windows. There are also various kitchen items like a coffee maker, a pot, and a tomato on the counter near the sink. The word \"GRATEFUL\" is partially visible on the wall above the windows.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a rice cooker?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a white rice cooker on the countertop with steam coming out of it.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What brand is it?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The brand of the rice cooker is not visible in the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:I want to buy a rice cooker like this. I wanna know what the brand is?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:I understand you're interested in purchasing a similar rice cooker. Unfortunately, the brand is not visible in the image. You might want to look for rice cookers with a similar design or ask someone who can see the image in person for more details. Alternatively, you can press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_18_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The rice cooker in the image is a \"Tiger\" brand.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:I want to buy one Where can I buy one?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:You can purchase a Tiger rice cooker from various places:\n\n- Online retailers like Amazon, Walmart, or Best Buy often have a selection of Tiger rice cookers.\n- Check the official Tiger Corporation website for authorized dealers or online purchasing options.\n- Local appliance or kitchenware stores may also carry Tiger rice cookers.\n\nIt's a good idea to compare prices and read reviews to find the model that best suits your needs.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "User:Are there any links to get one?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:I can't provide direct links, but you can visit websites like Amazon, Walmart, or Best Buy and search for \"Tiger rice cooker\" in their search bars. This should give you a list of available models and purchasing options. Additionally, you can visit the official Tiger Corporation website for more information on where to buy their products.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "intention"
+            ],
+            "question_category": "Identification, Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "7",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a young man standing in a kitchen. He has curly brown hair and is wearing a white t-shirt with a small logo on the left side of his chest. He is also wearing a necklace with a cross pendant. The kitchen has wooden cabinets, and there is a refrigerator on the left side with various magnets and notes on it. On the right side, there is a countertop with several items, including a black bag of protein powder, a colorful water bottle, a can of something, and a few other containers. There is also a decorative wooden piece on the wall that says \"Enjoy Happiness\" and \"And That's That.\" The lighting in the room is warm, and there is a ceiling light above the young man.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What\u2019s his hairstyle cut?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The young man's hairstyle is a curly, textured cut with a lot of volume on top. The sides appear to be shorter, but the focus is on the full, curly hair on the top of his head.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:How do I describe the haircut?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:You can describe the haircut as a curly, voluminous top with shorter sides. The curls are left natural, giving the hairstyle a textured and full appearance. It's a modern, casual look that emphasizes the natural curl pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:How should I describe it to a barber when I take my son to get his haircut?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:When describing this haircut to a barber, you can say: \"I'd like a haircut with a lot of volume and texture on top, keeping the natural curls. The sides should be shorter, but not too short, to maintain a balanced look with the fuller top.\" You might also mention if you want any specific length on the sides or top, or if you want the curls to be more defined or left natural.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Love the response!",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found it helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "binary"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image appears to be taken through a window with blinds, creating horizontal lines across the view. Outside, there are some trees visible, possibly in a backyard or garden setting. The trees are bare, suggesting it might be winter or early spring. There is also a tall, dark object that looks like an outdoor umbrella or parasol, which is closed. The overall scene looks a bit blurry, possibly due to the focus on the blinds or the weather conditions outside.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_20_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a snow-covered backyard or patio area. There is a wooden railing and a fence in the background. A closed outdoor umbrella is standing next to a table, which is covered with a protective cover and also blanketed in snow. The ground is completely covered in snow, and there is a circular object partially visible at the bottom of the image, which could be a snow-covered pot or similar item. The trees in the background are also dusted with snow, indicating a recent snowfall.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:How many inches of snow is there?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to accurately determine the depth of the snow from the image alone, as there are no clear reference points or measurements visible. If you need an exact measurement, it would be best to use a ruler or measuring tape directly in the snow. Alternatively, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_21": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_21_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen countertop with various items. In the foreground, a hand is holding a box of soft spreadable cheese. The box has images of the cheese and text that reads \"2 Garlic & Herbs\" and \"2 Cracked Pepper.\" There is also a round container of cheese labeled \"Cracked Pepper\" on the counter. In the background, there is a tray of raw meat, possibly pork chops, a bottle of olive oil, a KFC drink cup, and a salt or pepper shaker. A person in a red shirt is visible in the background, partially obscured by the kitchen doorway. A white towel is also on the counter near the hand holding the cheese box.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Can you see the four containers of spread in front of the box? Which ones are wet?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there are four containers of spread in front of the box. The two containers on the left appear to have condensation on them, indicating that they are wet. The two containers on the right do not appear to have condensation and look dry.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Which are the peppercorn and which are the others?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The two containers on the left, which appear to be wet, are labeled \"Cracked Pepper.\" The two containers on the right, which appear to be dry, are labeled \"Garlic & Herbs.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Thank you! that\u2019s right!",
+                "text_ai": null,
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_22": {
+        "annotations": {
+            "customization_technique_used": [
+                "binary",
+                "decomposition"
+            ],
+            "question_category": "Description, Locational/retrieval",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_22_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen countertop with various items on it. There is a package of raw meat, possibly pork chops, on the left side, partially covered with plastic wrap. Next to it is a large bottle of olive oil and a cup with a KFC logo. In the center, there is a container of \"Culinary Cowgirls Whipped Dip\" with a picture of artichokes and spinach on the packaging. A block of butter, partially unwrapped, is nearby. There is also a paper towel, a disposable cup with a floral design, and a plate with some leftover food, a knife, and a fork. On the right side, there is a cutting board with a piece of meat and a pair of tongs. In the background, there are kitchen appliances, including a stove and a refrigerator, as well as some other kitchen items like a salt container and a spice jar.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Trying to see if my son put anything away and it doesn\u2019t look like he did or maybe just one or two thingsY",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_22_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the kitchen countertop still appears cluttered with many of the same items as before. The package of raw meat, the KFC cup, and the bottle of olive oil are still present. The \"Culinary Cowgirls Whipped Dip\" container and the block of butter are also still on the counter. The plate with leftover food and utensils remains as well. There is a person in a pink shirt visible in the background, possibly your son, standing near the counter. It doesn't seem like much has been put away, as most items from the previous image are still visible on the countertop.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "User:My son made dinner and I was trying to see if he cleaned up the island correctly. And then I got a phone call and had to walk upstairs so I didn\u2019t get to finish this.",
+                "text_ai": null,
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_24": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "decomposition"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "8",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_24_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a box of tea with a visible label that includes text and a signature. The box is positioned next to a bottle of wine and a container of Better Homes & Gardens Sea Salt & Sage wax cubes. The text on the tea box is upside down and includes a description of the tea, its origin, and tasting notes. The background is a wooden surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What kind of tea is this?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The tea is described as \"3 Minutes - Golden-Brown\" with \"Fragrant, Toasty, Creamy\" notes. The text mentions that the tea is a \"blend of teas from Assam, Sri Lanka, and China\" and is known for its \"rich, smooth, and full-bodied\" flavor.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_24_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a red package with text and a small picture. The text at the top reads \"Herbs That Work.\" Below that, there is a paragraph discussing the benefits of using high-quality herbs. The picture shows a field with people working in it, likely related to the cultivation of the herbs mentioned. The text is slightly blurry, making it difficult to read all the details clearly.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:What kind of tea is this? I\u2019m looking for Earl Grey.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The text is too blurry to clearly identify the specific type of tea. If you're looking for Earl Grey, it might be helpful to check for any distinct features or labels on the packaging that mention \"Earl Grey.\" Alternatively, you could try taking a clearer picture of the front of the package. If you're unable to determine the type, consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_24_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box in the image is labeled \"Earl Grey.\" This indicates that it is indeed Earl Grey tea.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:I\u2019m all out of coffee. Does Earl Grey tea have caffeine?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, Earl Grey tea does contain caffeine, although typically less than a cup of coffee. If you're looking for a caffeine boost, Earl Grey can be a good alternative to coffee.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "User:Excellent thank you",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! If you have any more questions, feel free to ask. Enjoy your Earl Grey tea!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_25": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "grounding",
+                "binary"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "7",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_25_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is quite dark and blurry, making it difficult to discern specific details. It appears to show a vertical object with a slightly rounded shape, possibly a bottle or container, against a dark background. The lighting is low, which adds to the challenge of identifying the object clearly. If possible, taking another picture with better lighting or from a different angle might help in providing a more accurate description.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_25_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Box for a Panasonic Wet/Dry Hair Removal System. The packaging features an image of the hair removal device, which is designed with three floating stainless steel blades for a close and comfortable shave. The text highlights features such as a pop-up trimmer for capturing stray hair, dual trimmer for bi-directional shaving, and the device being fully immersible for easy cleaning under water. The box also mentions a compact space-saving charger and states that the device offers 35 minutes of cordless operation. The design is described as wet/dry, hypoallergenic, and travel portable.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What are the direction?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show the directions for using the product. It only displays the features and specifications of the Panasonic Wet/Dry Hair Removal System. If you have a separate instruction manual or another part of the packaging that includes the directions, you could take a picture of that for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_25_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows another side of the Panasonic Close Curves Ladies Shaver box. It highlights the following features:\n\n- 3-blade system with floating blades that follow body curves for a close shave\n- Pop-up trimmer\n- Wet/dry waterproof shaver\n- Cordless and rechargeable\n\nHowever, it does not provide specific usage directions. If you have a manual or another part of the packaging with instructions, please share that for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_26": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_26_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is blurry, making it difficult to read any text or details on the label. It appears to be a close-up of a cylindrical container, possibly a bottle or jar, with a barcode visible at the bottom. If you need specific information from the label, you might want to try taking another picture with better focus.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_26_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The container is labeled \"Isopropyl Alcohol Wipes\" and includes the words \"Antiseptic\" and \"Do Not Flush.\" There is an icon showing a person throwing something into a bin, likely indicating proper disposal instructions. The container is being held in a hand, and the background shows a countertop.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_27": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_27_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Two bottles of hot sauce are placed on a wooden table in a kitchen setting. The bottle on the left is larger and has a label that reads \"FREE SAMPLE INGREDIENTS\" with some nutritional information visible. The smaller bottle on the right has a label with a QR code and text indicating it is made in the USA, medium heat, kosher, and gluten-free. The kitchen in the background has wooden cabinets, a stove, and a window with blinds.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What brand and type of hot sauce are these?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The larger bottle on the left is a Tabasco sauce, as indicated by the partial text visible on the label. The smaller bottle on the right is from Tabanero, as seen from the text on its label.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What are the differences in the two hot sauces? What flavors are they?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The larger bottle is a Tabasco sauce, which is typically known for its vinegar-based, tangy, and spicy flavor. The specific flavor isn't visible in the image, but Tabasco is commonly available in original red sauce, green jalape\u00f1o, and other varieties.\n\nThe smaller bottle is Tabanero hot sauce, which is described as medium heat. Tabanero sauces are known for their blend of habanero peppers, carrots, onions, and garlic, giving them a slightly sweet and tangy flavor profile. The specific flavor isn't mentioned on the visible part of the label, but Tabanero offers several varieties, including original and extra hot.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Are there carbs in these sauces?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The visible part of the nutritional information on the larger Tabasco bottle indicates that it contains 0g of carbohydrates. The smaller Tabanero bottle does not have visible nutritional information in the image, so I can't confirm the carbohydrate content for it. Generally, hot sauces like these tend to have very low or no carbohydrates, but it's best to check the full nutritional label for confirmation.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:I\u2019d like to make a sauce from the small bottle for chicken thighs. Do you have any suggestions?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Certainly! Here's a simple recipe suggestion using the Tabanero hot sauce for chicken thighs:\n\n1. **Ingredients:**\n   - 4-6 chicken thighs\n   - 1/4 cup Tabanero hot sauce\n   - 2 tablespoons olive oil\n   - 2 tablespoons honey (optional, for a touch of sweetness)\n   - 1 tablespoon soy sauce\n   - 2 cloves garlic, minced\n   - Salt and pepper to taste\n\n2. **Instructions:**\n   - In a bowl, mix the Tabanero hot sauce, olive oil, honey, soy sauce, and minced garlic to create a marinade.\n   - Season the chicken thighs with salt and pepper.\n   - Place the chicken thighs in a resealable plastic bag or a shallow dish and pour the marinade over them. Ensure the chicken is well-coated.\n   - Marinate in the refrigerator for at least 30 minutes, or up to 4 hours for more flavor.\n   - Preheat your oven to 400\u00b0F (200\u00b0C).\n   - Place the marinated chicken thighs on a baking sheet or in a baking dish.\n   - Bake in the preheated oven for 25-30 minutes, or until the chicken is cooked through and has a nice glaze.\n   - Optionally, you can finish them under the broiler for a couple of minutes to get a crispy skin.\n\nEnjoy your flavorful chicken thighs! Adjust the amount of Tabanero sauce to your heat preference.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:This sounds excellent! I\u2019m definitely going to use this recipe now.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you like it! I hope you enjoy your chicken thighs with the Tabanero sauce. If you have any more questions or need further assistance, feel free to ask. Happy cooking!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_28": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "binary",
+                "intention"
+            ],
+            "question_category": "Identification, Reading, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_28_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is blurry, but it appears to show part of a product or packaging with embossed text. The visible text seems to read \"ED 2\" and \"BASICS.\" The rest of the text is not clear due to the blurriness.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_28_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a rectangular object with embossed text. The text reads \"ED 2\" and \"BASICS.\" The object is placed on a light-colored surface, possibly a countertop or table. The lighting creates some reflections on the surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_28_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is blurry, making it difficult to read the text clearly. It appears to show the back or side of a rectangular object, possibly a box or packaging. There is some text printed on it, but due to the blurriness, the text is not legible. If you need more information, you might consider taking another picture with better focus.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_28_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a rectangular object, likely a makeup palette or similar product, with text on it. The text is still somewhat difficult to read, but it appears to include product information. The object is being held by a hand, and the background shows a tiled floor with a person's feet visible. The text on the object is clearer than before, but still not fully legible. If you need the text transcribed, a clearer image might be necessary.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_28_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an open makeup palette with several shades of eyeshadow. There are six visible shades, ranging from light to dark. Above the eyeshadows, there is a mirror reflecting a person's hand holding a phone. The palette is placed on a light-colored surface, and the lighting creates reflections on the surface. The names of the shades are printed below each one, but they are not clearly legible in this image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:Tell me about the colors of the eyeshadow",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The eyeshadow palette contains six shades. From left to right, the colors appear to be:\n\n1. A light, creamy beige or off-white shade.\n2. A slightly darker beige or light tan shade.\n3. A medium peach or warm nude shade.\n4. A light brown or taupe shade.\n5. A medium brown or olive-toned shade.\n6. A dark brown or charcoal shade.\n\nThese colors seem to be neutral and versatile, suitable for creating a variety of looks.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/[PII removed]"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:A woman with long brown hair and green eyes is looking directly at the camera. She appears to be wearing mascara, which is noticeable on her eyelashes, giving them a fuller look. Her skin tone is fair, and she has a neutral expression on her face. The background shows a white door and a light-colored wall, suggesting she is indoors, possibly in a bathroom or bedroom.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "User:What colors of the eyeshadow would look best on my eyes with my eye color?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:With green eyes, certain eyeshadow colors can enhance and complement your eye color beautifully. Here are some suggestions:\n\n- Purples and Lavenders: These shades can make green eyes pop and add a striking contrast.\n- Warm Browns and Coppers: These earthy tones can highlight the green in your eyes and create a natural look.\n- Golds and Bronzes: These metallic shades can add warmth and brightness, enhancing the green tones.\n- Deep Greens: A darker green can complement your eye color without overwhelming it.\n\nExperimenting with these shades can help you find the look that you feel best suits you.",
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": "User:Are there any eyeshadows in the previous picture that would look nice on my eyes?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the eyeshadow palette you have contains several shades that could complement your green eyes nicely:\n\n- The medium peach or warm nude shade could add a subtle warmth and enhance your natural eye color.\n- The light brown or taupe shade would work well for a natural look and can highlight the green in your eyes.\n- The dark brown or charcoal shade could be used to create depth and contrast, making your eyes stand out.\n\nThese shades can be used individually or blended together to create a variety of looks that enhance your green eyes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 19,
+                "text_usr": "User:Thank you!",
+                "text_ai": null,
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_29": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "9",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_29_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a bottle of Bragg Organic Apple Cider Vinegar. The label on the bottle shows nutritional information, indicating that it contains 0 calories, 0g of total fat, 0mg of sodium, 0g of total carbohydrates, and 0g of protein per serving. The ingredients listed are organic apple cider vinegar and water. The product is made by Bragg Live Food Products, Inc., located in Santa Barbara, CA, and is certified organic by Organic Certifiers. The label also states \"Product of USA.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I have heard that drinking apple cider vinegar can help your blood sugar. Is this true?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Some studies suggest that apple cider vinegar may help improve insulin sensitivity and lower blood sugar levels after meals, particularly in people with insulin resistance or type 2 diabetes. However, the evidence is not conclusive, and more research is needed to fully understand its effects. It's important to consult with a healthcare professional before using apple cider vinegar as a treatment for blood sugar management, as it may not be suitable for everyone and should not replace prescribed medications or treatments.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:I was wondering how much apple cider vinegar should I drink?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The amount of apple cider vinegar to consume can vary depending on individual health goals and tolerance. A common recommendation is to start with 1 to 2 tablespoons (15 to 30 milliliters) diluted in a large glass of water, taken once or twice a day. It's important to dilute it to prevent potential irritation to the throat and stomach. However, it's best to consult with a healthcare professional to determine the appropriate amount for your specific needs and to ensure it won't interfere with any medications or health conditions.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:I\u2019d like to make salad dressing with this. Do you have a simple recipe?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Certainly! Here's a simple apple cider vinegar salad dressing recipe:\n\nIngredients:\n- 1/4 cup apple cider vinegar\n- 1/2 cup olive oil\n- 1 tablespoon Dijon mustard\n- 1 tablespoon honey or maple syrup (optional, for sweetness)\n- 1 clove garlic, minced\n- Salt and pepper to taste\n\nInstructions:\n1. In a small bowl or jar, combine the apple cider vinegar, Dijon mustard, honey or maple syrup (if using), and minced garlic.\n2. Slowly whisk in the olive oil until the dressing is well combined and emulsified.\n3. Season with salt and pepper to taste.\n4. Adjust the ingredients to your preference, adding more honey for sweetness or more mustard for tanginess.\n5. Store in the refrigerator and shake well before using.\n\nEnjoy your homemade salad dressing!",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Excellent! Thank you!",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! Enjoy your salad dressing, and feel free to ask if you have any more questions.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_30": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "grounding",
+                "intention",
+                "binary"
+            ],
+            "question_category": "Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_30_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is blurry, but it appears to show a hand holding a bracelet or a piece of jewelry. The jewelry seems to have a dark band with some decorative elements, possibly including a blue stone or detail in the center. The background is a textured surface, possibly fabric. For a clearer understanding, you might consider taking another picture with better focus.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I want to know more about the bracelet. What does it look like? Describe it to me",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is quite blurry, making it difficult to see the details clearly. However, the bracelet seems to have a dark band with some ornate or decorative elements. There appears to be a central feature that might be a blue stone or design. The overall style suggests it could be a piece of costume or artisan jewelry. For a more accurate description, a clearer picture would be helpful.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_30_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bracelet is a cuff style with a silver or metallic finish. It features a series of decorative elements, including oval-shaped blue stones or designs set in the center. These stones are surrounded by intricate metalwork, possibly floral or scroll-like patterns, adding to the ornate appearance. The bracelet has a slightly curved shape to fit around the wrist. The overall design suggests a handcrafted or artisan style.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_30_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bracelet is a cuff style with a silver or metallic finish. It features a series of oval-shaped blue stones set into the band. These stones are surrounded by intricate metalwork, which includes small floral or circular patterns and decorative scroll-like designs. The bracelet has a slightly curved shape to fit comfortably around the wrist. The overall design gives it an artisan or handcrafted appearance, with a focus on detailed metalwork and vibrant blue stones.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:What kind of stones are they?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The stones in the bracelet appear to be blue and have an oval shape. Based on their appearance, they could potentially be turquoise, which is commonly used in jewelry for its vibrant blue color. However, without a clearer image or additional context, it's difficult to definitively identify the type of stone. If you need a precise identification, consulting a jeweler or gemstone expert would be advisable.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_30_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bracelet continues to show a cuff style with intricate metalwork and blue stones. The stones are oval-shaped and set into the band, surrounded by decorative patterns that include floral or circular motifs. The blue stones could potentially be turquoise, given their color and common use in similar jewelry styles. However, due to the image's blurriness, it's challenging to confirm the exact type of stone. For an accurate identification, consulting a jeweler might be necessary.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "User:What style is this? And what outfits could I wear with it?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bracelet has a bohemian or southwestern style, characterized by its use of blue stones and intricate metalwork. This style often incorporates elements like turquoise and silver, which are common in Native American and southwestern jewelry designs.\n\nFor outfits, you could pair this bracelet with:\n\n- Casual bohemian looks, such as flowy dresses or skirts with earthy tones and patterns.\n- Denim outfits, like jeans and a simple top, to add a pop of color and interest.\n- A white blouse or shirt to let the bracelet stand out as a statement piece.\n- Layered with other bohemian-style jewelry for a more eclectic look.\n\nThis bracelet can add a unique touch to both casual and slightly dressier outfits, depending on how you style it.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "User:So helpful! I love this!",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found the information helpful! If you have any more questions or need further assistance, feel free to ask. Enjoy styling your bracelet!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_31": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "decomposition",
+                "binary"
+            ],
+            "question_category": "Identification, Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "8",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/[PII removed]"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A woman with long brown hair is wearing large, brown-framed glasses. Her eyes are closed, and she has a calm expression on her face. She is wearing a black top and a gold necklace with a cross pendant. The lighting is warm and soft, creating a cozy atmosphere.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Tell me more about the glasses",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The glasses have large, rectangular frames with a translucent brown color. The frames are thick and have a slightly glossy finish. The temples of the glasses are also thick, and there is a small metallic detail near the hinges. The lenses appear clear and are reflecting some light.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Can you tell what brand they are?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The brand of the glasses is not visible in the image. There are no logos or distinctive markings that can be seen on the frames.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_31_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The woman is sitting on a couch with a light gray cushion behind her. Her glasses are the same large, brown-framed ones as before, but the brand is still not visible. She is looking slightly to the side with a neutral expression. The lighting remains warm and soft, and the background is a plain wall.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:What brand could they be?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Without visible logos or distinctive design elements, it's difficult to determine the exact brand of the glasses. However, many brands offer similar large, rectangular frames, such as Warby Parker, Ray-Ban, or Oliver Peoples. To identify the brand, you might need to check the inside of the temples for any markings or logos. If you're still unsure, consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_31_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of the glasses resting on a textured surface, possibly a fabric. The focus is on the frame, which is brown and translucent. However, the image is slightly out of focus, and there are no visible markings or logos on the frame that would indicate the brand.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_31_13.jpg"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding the glasses, focusing on the temple area. The glasses are brown and translucent, and there seems to be some text or markings on the inside of the temple. However, the image is not clear enough to read the text or identify the brand. You might need to take a clearer picture of the text for better identification.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_images/image_31_15.jpg"
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a clearer view of the inside of the temple of the glasses. There is a logo that appears to be the Ray-Ban logo, which suggests that the glasses are from the Ray-Ban brand. The text is still a bit blurry, but the distinctive script of the Ray-Ban logo is recognizable.",
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": "User:How can I tell if these are meta glasses",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:To determine if these are Meta smart glasses, you can look for specific features that are unique to Meta glasses, such as:\n\nBuilt-in cameras on the front of the frames.\nSpeakers or audio components integrated into the temples.\nA touchpad or button controls on the temples for interacting with the glasses.\nBranding or logos specific to Meta, which might be different from standard Ray-Ban logos.\nIf these features are not visible, you might need to check the packaging or any accompanying documentation for confirmation. If you're still unsure, consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 19,
+                "text_usr": "User:What could I do with Meta glasses?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 20,
+                "text_usr": null,
+                "text_ai": "Be My AI:Meta glasses, such as the Ray-Ban Stories, offer several features:\n\nCapture photos and videos with built-in cameras.\nListen to audio through integrated speakers.\nMake phone calls and send messages using voice commands.\nInteract with apps and services through voice control.\nShare content directly to social media platforms.\nThese features allow for hands-free interaction and capturing moments from your perspective.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

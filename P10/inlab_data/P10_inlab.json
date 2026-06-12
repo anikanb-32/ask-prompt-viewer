@@ -1,0 +1,267 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A laptop is open on a table, displaying a login screen with an orange and blue abstract background. The screen shows a profile picture and the name \"[PII removed]\" with the text \"Touch ID or Enter Password\" below it. In the background, a woman with glasses is focused on her own laptop. Behind her, there is a wall with a large sheet of paper covered in colorful sticky notes.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Office space with a beige carpeted floor and white walls. On the left, there is a wall with several framed pictures or posters hanging. Below them, a small wooden table holds a tissue box. In the background, there are several cubicles and a large printer or copier on the right. A colorful mural with a red and black design is visible on one of the cubicle walls. There are overhead fluorescent lights, and the space appears to be well-lit.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_2_3.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Office area with a beige carpeted floor and white walls. On the right, there are recycling and trash bins with labels. A framed picture is hanging on the wall above them. In the center, there are several gray armchairs and an orange armchair arranged around a small table. Behind the seating area, there are cubicles with partitions. A desk with a chair and a computer is visible on the left side. The space is well-lit with overhead fluorescent lights, and there is a large poster or bulletin board on the left wall.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_2_5.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:A large screen mounted on the wall displays a presentation slide with text and a colorful chart. Below the screen, there is a cardboard box with a poster taped to it. The poster reads: \"INFO COLLEGE BOOK DRIVE FEB 10 - APRIL 21.\" The box is likely intended for collecting books as part of the book drive. The floor is carpeted with a patterned design.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_2_7.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Corner of a room with a beige patterned carpet. There is a large glass door on the left, leading to another area with a light-colored floor. Next to the door, there is a large window with white curtains on the right wall. The walls are white, and the space appears to be part of an office or institutional setting.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "User:Confusing",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:I understand. Let me clarify. The image shows a corner of a room with a carpeted floor. On the left side, there is a large glass door that leads to another area with a different type of flooring. On the right side, there is a large window with white curtains. The walls are white, and the setting looks like it could be part of an office or a similar environment. If you need more details or another angle, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 11,
+                "text_usr": "User:Is there anything written on the door",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be any writing on the glass door itself. However, there is a small black panel on the wall next to the door, which might contain some information, but it's not clearly visible in the image. If you need to know what's on it, you might need a closer view.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Lipton Cup-a-Soup package featuring Cream of Chicken flavor with other natural flavors. The package is predominantly red with a white cup of creamy yellow soup on it, garnished with small green herbs. The text on the package indicates it contains 4 envelopes of instant soup, with a net weight of 2.4 oz (68g). Nutritional information per envelope is displayed: 70 calories, 1.5g of saturated fat (8% DV), 620mg of sodium (26% DV), and 1g of sugars.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_3_3.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Nutritional facts and ingredients for Lipton Cup-a-Soup Cream of Chicken flavor. \n\nNutritional information per serving:\n- Total Fat: 1.5g (2% DV)\n- Saturated Fat: 1.5g (8% DV)\n- Trans Fat: 0g\n- Cholesterol: 0mg (0% DV)\n- Sodium: 620mg (26% DV)\n- Total Carbohydrate: 12g (4% DV)\n- Dietary Fiber: 0g (0% DV)\n- Sugars: 1g\n- Protein: 0g\n- Vitamin A: 0%\n- Vitamin C: 0%\n- Calcium: 0%\n- Iron: 0%\n\nIngredients include maltodextrin, potato starch, creamer (coconut oil, corn syrup solids, sodium caseinate [milk]), mono and diglycerides, disodium inosinate and disodium guanylate, salt, sugar, gum arabic, high oleic sunflower oil, yeast extract, onion powder, hydrolyzed soy protein, chicken broth*, turmeric and paprika oleoresin (for color), parsley*, natural flavors (milk), chicken fat, spices*, whey, nonfat milk*, caramel color, soy lecithin, \"dehydrated\". May contain wheat and sulfites.\n\n*Ingredients not in regular chicken broth. \n\nThe package is produced by Unilever, Englewood Cliffs, NJ 07632 USA.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "User:How many grams of sugar are in this product",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is 1 gram of sugar per envelope in this product.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A conference room with a long, rectangular table surrounded by orange chairs. On the table, there is a small red box and some black headphones. The room has a beige carpet and white walls. On the wall to the left, there is a large window with blinds. The back wall has a wooden door with a frosted glass panel that has the letters \"HCIL\" on it. There are several framed pictures and certificates on the wall next to the door. A bright green chair is placed against the wall near the door. The ceiling has fluorescent lights and a projector screen.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:What is the small red box",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The small red box on the table is a box of Trident gum.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_4_5.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_4_7.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The small red box on the table is a box of Twinings Pure Peppermint tea.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 9,
+                "text_usr": "User:Only tell me about the Redbox and not the table the chairs and the walls",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The red box is a box of Twinings Pure Peppermint tea.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A wooden table with a gray finish, divided into sections. On the table, there is a pair of black over-ear headphones, a smartphone, and a folded white cane with a black handle. A person wearing a light green sweater is partially visible, working on a laptop. The chairs around the table are orange with black armrests.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:Is there an elastic band around the cane",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is an elastic band around the folded cane, keeping it together.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 5,
+                "text_usr": "User:Is the cane blue",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the cane is not blue. It is primarily white with a black handle.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

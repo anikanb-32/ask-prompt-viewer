@@ -1,0 +1,1070 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a view from inside a vehicle looking out through the window. The scene outside appears to be under a bridge or an overpass. The structure has metal beams with a rusty appearance and is supported by blue and beige columns. There is a vehicle, possibly a truck, with visible rear lights and a cylindrical tank on its back, driving on the road. The road surface looks slightly wet, and there is a stone or brick wall in the background. The image is slightly blurred, giving it a sense of motion.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Just a morning ride into DC",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:It sounds like an interesting commute! If there's anything specific you'd like to know or discuss about your ride, feel free to let me know. Safe travels!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "feedback"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a container with a clear plastic lid. The label on the lid reads \"thistle\" and \"Less Leches Mousse Cup.\" There are additional details in smaller text, including nutritional information and ingredients, but they are not fully legible due to the angle and resolution of the image. The container is placed on a light-colored surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Just want to make sure this is the Tres Leche moose cup",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the label on the container does indicate \"Less Leches Mousse Cup,\" which suggests it is a variation of a Tres Leches Mousse Cup. If you want to be absolutely certain, you might consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:This is perfect and I totally want to try this dessert because I\u2019ve heard so many good things about it. So glad I picked the correct cup to scan the picture and I was lucky.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:That sounds like a delicious choice! Tres Leches desserts are often very popular for their rich and creamy texture. I hope you enjoy trying it! If you have any other questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a white surface with a fortune cookie slip and a white mug. The fortune cookie slip reads, \"WHEN IN DOUBT, BE YOURSELF. PANDA EXPRESS.\" The mug has partial text visible, with the name \"Evelyn\" clearly readable. The rest of the text on the mug is partially cut off and not fully visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I love that we were able to capture what was on my fortune from this fortune cookie",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:That's great! Fortune cookie messages can be fun and sometimes quite meaningful. It sounds like you got a positive and encouraging one!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image appears to be taken from inside a moving vehicle at night. The view is through a side window, showing a blurred scene outside. There is a wall with a fence on top, and a few bright lights illuminating the area, creating a streaking effect due to the motion. The interior of the vehicle is dark, with only a small illuminated detail visible near the window. The overall atmosphere suggests a nighttime drive along a road or highway.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a view from an airplane window at an airport. Outside the window, there is another airplane parked at a gate. The airplane is white with blue tail and engine, and it has \"UNITED\" written on the side in large blue letters. The gate number visible in the background is D12. The sky is overcast, and there are several airport vehicles and equipment around the airplane. The wing of the airplane from which the photo is taken is also partially visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Wow, this is my first time scanning a picture and realizing that there\u2019s a plane parked next to the plane that I\u2019m currently sitting in. I appreciate all the details.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help you visualize the scene outside your window. If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a view from an airplane window, looking out onto an airport tarmac. In the foreground, you can see the wing of the airplane with a blue winglet at the tip. On the tarmac, there is a ground service vehicle next to the wing, which appears to be a catering or service truck. In the background, another airplane with a similar blue tail is taxiing on the runway. The sky is overcast with a light gray color. The scene is typical of an airport setting with aircraft and ground support equipment visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I absolutely love that I got this  view.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:It sounds like a great view! Watching the activity on the tarmac and seeing other planes can be quite fascinating. It's a unique perspective that not everyone gets to experience. Enjoy your flight!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image appears to be taken at night or in low-light conditions. In the foreground, there is a metal railing that runs horizontally across the image. The background is quite dark, but there are some lights visible, possibly from a pool area or a garden. There are a few colored lights reflecting on a surface, which might be water. Some chairs and a sign are also faintly visible in the background. The image has a pinkish glare, possibly from a flash or light source reflecting off the camera lens.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there any people hanging out near the pool area or by the chairs?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are no visible people near the pool area or by the chairs in the image. The area appears to be empty.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_9": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_9_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A white bottle with a pump dispenser, labeled with the brand \"Kevin Murphy.\" The product is called \"Hydrate-Me.Rinse,\" which is a moisturizing color-safe conditioner. The text also mentions \"Kakadu Plum Infused Moisture Delivery System\" and \"Preserve la couleur.\" The bottle size is indicated as 500 mL / 16.9 Fl. Oz. Liq. e. The bottle is resting on what appears to be a person's lap, with a background of a textured carpet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This is exactly the one I was looking for",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Great to hear that you found what you were looking for! If you need any more assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a cream-colored mug with black speckles. The mug features a red illustration of an old-fashioned pickup truck. Below the truck, the text reads \"GENERAL STORE 45.\" In the background, there is a countertop with some crumpled white tissues and part of a white appliance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:About how many ounces is this mug?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to determine the exact size of the mug from the image alone, but based on the typical size of similar mugs, it might be around 12 to 16 ounces. For a precise measurement, you might want to check the bottom of the mug for any markings or measure the volume directly.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_10_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The mug appears to be a standard size, likely holding around 12 to 16 ounces. This is a common capacity for mugs of this style, but for an exact measurement, checking for any markings on the bottom or measuring the volume directly would be necessary.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A package wrapped in black paper with gold cursive writing. The writing appears to be decorative and not meant to be read as a message. There is a shipping label on the package with the following details:\n\n- UPS TRACKING #\n- [PII removed]\n- Ship To: \n- [PII removed]\n- [PII removed]\n\nThe return address is:\n\n- [PII removed] The label also mentions \"UPS GROUND ADVANTAGE\" and has a barcode and QR code.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_11_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:A bag of Peet's Coffee, specifically the Dark Roast Italian Roast variety. The packaging is primarily black with a brown accent on the side. The text on the front reads:\n\n- \"GROUND\"\n- \"Peet's COFFEE\"\n- \"DARK ROAST\"\n- \"ITALIAN ROAST\"\n- \"TASTING NOTES: Intense, smoky, sweet\"\n- \"NET WT 10.5 OZ (297g)\"\n\nThe side of the package has additional text, but it is partially obscured.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_11_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:A bag of Lavazza coffee, specifically the Super Crema variety. The packaging is dark blue with orange and white accents. The text on the front reads:\n\n- \"LAVAZZA\"\n- \"SUPER CREMA\"\n- \"MEDIUM ROAST\"\n\nIn the background, there is a blue container with what appears to be cereal or snacks, and a small plastic bag containing a pair of scissors or a similar tool.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A bag of Ruffles Original potato chips is lying on a surface. The bag is blue and white, with an image of ridged potato chips and a bowl of dip on it. The word \"ORIGINAL\" is printed at the top, and \"RUFFLES\" is written in large red letters across the front. The bag is partially open.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This is the one I was looking for, I was looking for the ruffles. Thank you.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! If you need any more assistance, feel free to ask. Enjoy your Ruffles!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A young child with brown hair is sitting in a high chair, wearing a blue bib with white dots. The child is holding a piece of bread in each hand, taking a bite from one of them. The high chair tray has a few crumbs scattered on it. In the background, there is a window with light-colored curtains.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the baby smiling or what kind of facial expression does he have?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The child has a neutral expression while eating, with eyes focused and mouth slightly open as they take a bite of the bread. There is no visible smile.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Oh, I love this, my nephew is so concentrated on eating his panet\u00f3n, which he\u2019s trying for the first time",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:That's wonderful! It sounds like a special moment. Trying new foods can be quite an adventure for little ones, and it's great that he's so focused on enjoying his first taste of panet\u00f3n.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A confident woman stands with her hands on her hips, wearing a white sports bra with \"F45\" branding. Surrounding her are various fitness and lifestyle elements. At the top left, there are protein bars from brands like Pure Protein and ONE. To the right, there are kettlebells with F45 logos in different weights and colors. Below them, a red F45 exercise ball is visible. \n\nOn the left, a person holds an iced coffee, and there are images of dumbbells, a pair of gray sneakers, and a can of Alani energy drink. A text bubble reads, \"we hitting a double today?\" \n\nAt the bottom right, a group photo of people in athletic wear is clipped to the image, with a white cap featuring the \"F45\" logo nearby. The words \"positivity,\" \"energy,\" and \"confidence\" are scattered throughout, along with doodles of hearts and stars. In the center, the phrase \"the vibes we bring to the function\" is written in a playful font.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This is such a great description of this pic from the F45 Training gym that I like to go to so I can post to social media",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you liked the description! It sounds like you're really enjoying your time at F45 Training. If you need any more help or want to share more about your fitness journey, feel free to let me know!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_15": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_15_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A clear plastic container with a label on top. The label reads:\n\n\"Kale Caesar Pasta with Garlic Chicken\n\n2 Servings\nPer Serving: 70g Protein, 300 Calories\n\nEat by: Sunday, February 19th\nKeep Refrigerated\nThis is a fresh product. For best taste, use by date on package.\"\n\nThere is also a note saying \"CONTAINS: WHEAT\" and \"PERISHABLE: KEEP REFRIGERATED.\" The container appears to have pasta, greens, and a small cup of dressing inside.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This is perfect because I needed to know the expiration date",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Great! If you need any more information or assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is blurry, making it difficult to discern specific details. It appears to be taken outdoors during twilight or early evening, as the sky is darkening. There are some lights visible, possibly from streetlights or car headlights, creating streaks of light across the image. There seems to be a pathway or driveway with some cars parked, and possibly a lawn or garden area in the foreground. The overall scene is quite indistinct due to the blurriness.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I just want to know if there\u2019s any wet or rain puddles from earlier\u2019s torrential down pur",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is too blurry to clearly identify any wet or rain puddles. It would be best to check the area physically or take another picture with better focus and lighting to determine if there are any puddles present.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_16_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is clearer now, showing a parking area with cars and a pathway leading to it. The ground appears dry, and there are no visible wet spots or rain puddles on the pathway or the parking area. The lighting is low, but the surface looks dry from what can be seen.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A blue MGM Rewards card is partially visible on a white surface. The card is positioned at an angle, and the text on it is upside down. The visible text reads \"MGM REWARDS\" and \"[PII removed]\" with a number \"[PII removed]\" beneath the name. The card features the MGM lion logo.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This is exactly what I was looking for so I can go to the MGM casino",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Great! I'm glad it was helpful. Enjoy your time at the MGM casino! If you need any more assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "feedback"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Close-up view of a door frame with peeling paint. There is a small white hook attached to the frame, and below it, a black latch or lock mechanism. In the background, there is an outdoor area with a stone pathway, some grass, and a parked white car. A finger partially covers the bottom left corner of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I just want to know if there\u2019s a black Mazda parked in front of my house",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is a white car visible in the background, but I cannot determine if there is a black Mazda parked in front of your house from this image. You might want to take another picture from a different angle to check for the black Mazda.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_18_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a black Mazda parked in front of your house. It is parked in a parking space directly in front of the stone pathway leading to your house.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Thank you, this car has now been sitting in front of my house since February 10 and I don\u2019t know who it belongs to",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:It sounds like this situation might require some action. You could consider contacting your local authorities or neighborhood association to report the vehicle if it has been parked there for an extended period without moving. They may be able to help identify the owner or determine if any further steps need to be taken.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "intention",
+                "SimToM",
+                "decomposition",
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "9",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Six people are standing together, with one person seated in a wheelchair. They are dressed in formal and semi-formal attire. The man on the far left is wearing a blue suit with a white shirt and tie. Next to him, a man in a light-colored suit holds a white cane. A woman in a blue and white striped dress stands beside him, also holding a white cane. A man in a dark suit with a white shirt and no tie stands next to her. Another man in a black suit with a red tie is beside him. The man in the wheelchair is wearing a navy blue jacket with \"USA\" on it and is holding a gold medal. There are two banners on either side of the group with the \"waymap\" logo, QR codes, and the text \"DOWNLOAD NOW.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Today I was part of the WayMap app launch in Washington DC, and I was so excited that this picture was sent to me just a few minutes ago",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:That sounds like an exciting event! It's great to see you being part of the WayMap app launch. The picture captures a moment of celebration and collaboration. If you have any specific questions or need more details about the event or the people in the photo, feel free to ask!",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:So I am the woman in the blue and white striped dress holding a white cane. I want to make sure that my face is looking directly at the camera, that my belly is not poking out because I had eaten some hors d\u2019oeuvres just before this picture was taken And am I smiling too hard?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:You are looking directly at the camera with a pleasant smile. Your posture appears relaxed and confident, and your belly is not noticeably protruding. Your smile looks natural and not overly intense, conveying a sense of happiness and engagement. You look great in the photo!",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:This is so helpful, I just want to make sure that the coconut booties that I am wearing look good with the dress",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The coconut booties you are wearing complement your blue and white striped dress nicely. They add a stylish touch to your outfit and match well with the overall look. The combination of the dress and booties creates a fashionable and cohesive appearance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Are you able to see the silver Tiffany stud earrings in both my ears or is my hair covering it on the right side?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Your silver Tiffany stud earrings are visible, and your hair does not cover them on the right side. They add a subtle and elegant detail to your overall appearance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:Oh, I love that my hair didn\u2019t cover my ears, I had not thought about it and thank goodness that the coconut booties do look good with the dress! Does my white cane seem to be covering any of my face?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:Your white cane is not covering any part of your face. It is positioned in a way that keeps your face fully visible, allowing your expression to be clearly seen.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "User:What a relief! Just want to make sure there isn\u2019t anything in my teeth because again, I was eating hors d\u2019oeuvres before this picture was taken",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:Your smile looks clear, and there doesn't appear to be anything in your teeth. Your expression is bright and confident.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "User:It\u2019s so important because I was going to ask about my posture and you said that my posture looks relaxed and confident and that\u2019s exactly what I was going for",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:You definitely achieved that look! Your posture conveys a sense of ease and confidence, which complements your overall appearance in the photo. It's great to hear that it aligns with what you were aiming for.",
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": "User:Thank you so so much",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're very welcome! If you have any more questions or need further assistance, feel free to ask. Enjoy the rest of your day!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A shipping label is attached to a package. The label includes a barcode and text indicating \"UPS NEXT DAY AIR.\" There is a tracking number: \"[PII removed]\" The package is addressed to [PII removed]. The label is placed inside a clear plastic pouch on a cardboard box.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I need to know who the sender is",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sender's information is not visible in the image provided. You might want to check the other side of the package or any additional labels for the sender's details. If you need further assistance, consider pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_20_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sender's information is visible on a smaller label at the bottom of the package. It reads:\n\nF[PII removed]\n\nThe rest of the sender's details are not fully visible. You may need to look for another label or contact the shipping company for more information.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_20_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The smaller label on the package provides the following information:\n\n[PII removed]  \n[PII removed] \nA[PII removed]\n\nThe sender's information is still not fully visible. If you need more details, you might want to check for any additional labels or contact the shipping company.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_21": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_21_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Batman and Catwoman are depicted in an animated style, embracing and about to kiss. Batman is wearing his classic black and gray suit with a cape, while Catwoman is in a gray and black catsuit with a mask. In the background, the Bat-Signal is shining in the sky over a cityscape with buildings silhouetted against a dark sky. The scene has a romantic and dramatic atmosphere.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there any text written?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is text in the bottom left corner that reads \"@millicay.art\".",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_22": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable, Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_images/image_22_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Blurred view from an airplane window. The image shows part of the airplane wing with a visible arrow symbol, possibly indicating direction or emergency exit. The interior panel of the airplane is visible on the right side, with a textured pattern. The background outside the window is bright, suggesting daylight.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there an airplane getting ready to fly out next to me?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to determine if there is an airplane getting ready to fly out next to you from this image, as the view is mostly focused on the airplane wing and the interior panel. You might want to check with a flight attendant or press the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

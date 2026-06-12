@@ -1,0 +1,1448 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the back of a food package with a Nutrition Facts label and cooking directions. The Nutrition Facts label provides information for a serving size of 1/2 cup dry mix (64g) with about 2.5 servings per container. It lists the calories as 230 per serving and 320 per prepared portion. The label includes details on total fat, cholesterol, sodium, total carbohydrates, dietary fiber, total sugars, added sugars, and protein. It also provides information on vitamins and minerals such as Vitamin D, calcium, iron, potassium, thiamin, riboflavin, niacin, and folate.\n\nTo the right of the Nutrition Facts, there are stovetop and microwave directions for preparing the food. Below this, there is a section titled \"Our Promise\" and a QR code for scanning with a phone camera for more recipes and inspiration. The bottom of the package shows an image of a prepared dish with vegetables like tomatoes and zucchini.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the directions on how to make this item?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The package provides stovetop and microwave directions for preparation:\n\nStovetop Directions:\n1. In a medium saucepan, bring 1 3/4 cups of water, 2 tablespoons of margarine or butter, and contents of the package to a boil.\n2. Reduce heat and cover.\n3. Simmer for 7 minutes or until rice is tender.\n4. Stir and serve.\n\nMicrowave Directions:\n1. In a 2-quart microwave-safe bowl, combine 1 3/4 cups of water, 2 tablespoons of margarine or butter, and contents of the package.\n2. Microwave on high for 12 to 14 minutes or until rice is tender, stirring once halfway through cooking.\n3. Stir and serve.\n\nIt also notes that microwave ovens vary, so you may need to adjust the times as needed.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Locational or retrieval, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_2_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a living room with a large window at the far end, allowing natural light to enter. In front of the window, there is a dark brown leather sectional sofa with some blankets and clothes draped over it. A baby bassinet or playpen is positioned near the sofa. To the left of the window, there is a floor lamp and a red and blue exercise ball. The floor is made of wood, and there is a small piece of paper or card on it. A side table with a dark surface is next to the sofa, and a backpack is placed on it. The view outside the window shows some buildings and trees.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Help me find the remote",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_2_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:In the image, the remote is not clearly visible. It might be helpful to check around the sofa, under the blankets, or on the side table where the backpack is placed. If possible, you might want to take another picture focusing on those areas.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_2_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The remote is not visible on the sofa in this image. It might be hidden under the blankets or cushions. You could try checking underneath or moving the blankets to see if the remote is there.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_2_8.jpg"
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:The remote is on the side table next to the sofa. It is in front of the blue backpack with a pattern on it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a gray hooded sweatshirt with a colorful design on the front. The design features three cartoon monster trucks. The largest and most prominent truck is red with a smiling face and large wheels. Behind it, there is a blue truck and a yellow truck, both also with smiling faces. Above the trucks, there is text that reads \"START YOUR ENGINES!\" in bold, white and red letters. There are also two black and white checkered flags in the background, suggesting a racing theme. The sweatshirt is laid out on a bed with a patterned bedspread.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a dark marble table with a round, white object that appears to be a diffuser or humidifier on it. Next to the diffuser is a small remote control. The table is situated near a large window with blinds partially drawn, allowing some light to filter through. The floor is wooden, and outside the window, a building and a parking lot are visible in the background.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color is the diffuser?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The diffuser is white with a marbled pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Is the diffuser lighting up?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_4_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The diffuser does not appear to be lighting up in this image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a fabric with a pattern of horizontal stripes. The background is a light color, possibly white or light gray, and the stripes are dark blue. The stripes are evenly spaced and run across the fabric, creating a simple and classic striped design.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color is the fabric?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The fabric appears to be a light color, possibly white or light gray.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_5_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The fabric in this image is a light beige or cream color. It features horizontal dark blue stripes that are evenly spaced across the fabric. The pattern consists of several thin stripes grouped together, with larger gaps between these groups of stripes.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a view from a high-rise building, looking out through a window. In the foreground, there is a reflection of the building's exterior and a pair of purple dumbbells on the window ledge. Below, there is a parking lot with a few cars parked. Across the parking lot, there is a long, flat-roofed building with solar panels installed on the roof. The building has a brick facade with several windows and arched entrances. In the background, there are more buildings and a lot of trees, with a clear sky above, suggesting it is either early morning or late afternoon.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color are the cars in the parking lot?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:In the parking lot, there is a silver car and a dark-colored car, possibly black or dark gray.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "not sure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a view from a road, likely taken from inside a vehicle. In the foreground, there is a metal guardrail running parallel to the road. The road surface is dark asphalt with a white line marking. Beyond the guardrail, there is some greenery and trees. In the distance, there are buildings visible, possibly part of a town or cityscape. The sky is mostly clear with scattered fluffy white clouds, and the weather appears to be sunny. A tall streetlight pole is also visible on the left side of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color is the buildings?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The buildings in the distance appear to be a light color, possibly white or a light gray.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an intercom system mounted on a wall, typically used for entry into a building. The intercom has a metallic finish and includes a speaker, a numeric keypad, and three buttons labeled \"A\", \"Z\", and \"CALL\". Above the keypad, there is a small display screen showing the text \"Enter Code Or Press\". To the right of the intercom, there is a keyhole, likely for a physical key entry. Above the intercom, there is a black panel with a list of numbers, possibly apartment or unit numbers, arranged in columns. The background shows an outdoor setting with stairs and greenery.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Locational or retrieval",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an outdoor scene with a parking lot and a building in the background. In the foreground, there is a sidewalk with a brick wall on the left side. The parking lot has several parked cars, including a white SUV and a few sedans. There are trees lining the sidewalk and the parking lot, providing some shade. The building in the background is made of brick and has arched windows and doors. The sky is partly cloudy with patches of blue visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Find the trashcan",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The trashcan is located on the left side of the image, near the sidewalk. It is positioned next to a tree, slightly behind the brick wall in the foreground.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Locational or retrieval, Unanswerable",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a sidewalk next to a modern building. The building has a facade with a mix of yellow and gray panels. There is a large window on the left side, reflecting some outdoor elements. A red circular object, possibly a fire alarm or emergency button, is mounted on the gray section of the building. The sidewalk is made of large, light gray tiles. In the background, there is a person walking away, partially visible on the right side of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Find escalators to the subway",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_11_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a sidewalk with several people walking along it. There are trees lining the sidewalk, and a trash can is visible. To the right, there is a street with several vehicles, including a white van and a red and white truck. In the distance, there appears to be a structure that could be the entrance to a subway, possibly with escalators, but it's not clearly visible in this image. You might need to get closer or look for any signs indicating the subway entrance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_11_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image shows the entrance to a subway station with escalators. There is a large, curved glass canopy covering the entrance area. Underneath the canopy, there are multiple escalators leading down into the subway. A yellow barrier is placed in front of the escalators, possibly indicating that they are temporarily closed or directing foot traffic. There are a few people around the entrance, and trees are visible in the background.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a street scene with a crosswalk in the foreground. The crosswalk has white stripes that are somewhat worn. There is a traffic light on the left side of the image, showing a red light. The street has a bike lane marked with green paint. On the left side, there is a sidewalk with some trees and a bus stop shelter with an advertisement. In the background, there are more trees and a few parked cars along the street. The sky is clear with some clouds, and the overall setting appears to be a quiet, tree-lined urban area.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What street is this?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_12_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a street scene with a crosswalk and a traffic light. There is a sign on a pole next to the traffic light that reads \"Street NW\" and \"One Way.\" However, the specific name of the street is not visible in the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Locational or retrieval, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "professional",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a multi-story residential building with a brick facade and numerous windows. In front of the building, there is a parking lot with several cars parked, including a black SUV, a white car, and a red car. The parking lot is separated from the foreground by a low concrete wall with a black metal railing on top. The foreground also includes a small area with some dried leaves on the ground. The sky is clear, suggesting it is a sunny day.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Where is the front door to the building?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The front door to the building is located in the center of the image, at the base of the building. It is partially obscured by trees and parked cars, but you can see a small entrance area with a canopy above it.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:A",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_13_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image shows a sidewalk running alongside the building, which has a brick exterior. There are several trees planted along the sidewalk, and a black trash can is visible on the left side. The area between the sidewalk and the building is landscaped with mulch and some small shrubs. The sidewalk leads towards the parking lot seen in the background. The front door is not visible in this image, but the sidewalk likely leads to it.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:Where is the door to the building?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_13_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The door to the building is not visible in this image. The photo shows a sidewalk lined with trees and a landscaped area next to the building. The sidewalk continues toward the background, but the entrance is not in view. You may need to follow the sidewalk further to find the entrance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_13_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the entrance to the building. There is a recessed entryway with a canopy above it. The canopy has the address number \"3900\" displayed on it. There are steps leading up to the entrance, and a ramp is also visible for accessibility. A black trash can is placed near the entrance, and there are trees and a parking lot in the background.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a living room setup with a television placed on a wooden table. The TV screen displays the Netflix interface with the \"Choose a Profile\" screen visible. There is a profile named \"Kids\" selected, and in the background, there is an image from a show featuring animated characters. To the left of the TV, there is a baby bassinet or crib on wheels. To the right of the TV, there is a children's play tent with a colorful design. The floor is wooden, and the wall behind the TV is plain with a smoke detector mounted on it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_15": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_15_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a \"Field Trip Permission Form & Student Agreement\" from the [PII REMOVED]. The form is divided into two parts. \n\nPart 1, titled \"Trip Information to be Filled Out by the School,\" includes details such as:\n- Trip Destination: [PII REMOVED]\n- Departure Date and Time: 10/29/24 at 9:45 AM\n- Return Date and Time: 10/29/24 at 11:30 AM\n- School Staff Trip Sponsor Name & Contact Information: [PII REMOVED] and [PII REMOVED]\n- Transportation Arrangements: Walking\n- Trip Cost: Free\n\nPart 2, titled \"To be Completed by Parent/Guardian, or Adult (Age 18 or Over) Student,\" includes:\n- Student Name: [PII REMOVED]\n- Acknowledgment and agreement statements for the parent or guardian to sign, which include:\n  1. Authorization for the student to attend and participate in the field trip.\n  2. Acknowledgment of risks associated with the field trip.\n  3. Agreement to indemnify and hold harmless the [PII REMOVED] and its representatives.\n  4. Medication administration options for the student during the trip.\n  5. Emergency procedures and responsibilities.\n  6. Agreement regarding claims or lawsuits related to the field trip.\n  7. Acknowledgment of the impracticality for DCPS to evaluate the safety of individuals or entities involved in the trip.\n  8. Confirmation of having read, understood, and voluntarily signed the document.\n\nThe form is labeled as \"Page 1 of 2\" at the bottom.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a control panel for a Speed Queen dryer. On the left side, there is a digital display showing the number \"195\" in green, which likely indicates the remaining time or a setting. Below the display, there are two sections labeled \"DRYING\" and \"COOL DOWN\" with small indicator lights next to them. Below these sections, there are buttons for temperature settings labeled \"HIGH TEMP,\" \"MED TEMP,\" \"LOW TEMP,\" and \"DELICATES.\" The \"START\" button is green and located at the bottom right of this panel. On the right side of the image, there is a partial view of a coin slot with the text \"INSERT\" and an arrow pointing to the slot.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_16_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a control panel for a washing machine. At the top, there is a digital display showing \"1.95\" in green, which likely indicates the remaining time or a setting. Below the display, there are indicator lights for different stages of the wash cycle: \"WASH,\" \"RINSE,\" \"SPIN,\" and \"DOOR.\" \n\nBelow these indicators, there are buttons for selecting soil level, cycle, and temperature. The soil level options are \"LIGHT,\" \"MEDIUM,\" and \"HEAVY.\" The cycle options are \"NORMAL,\" \"PERM PRESS,\" and \"DELICATES/BULKY.\" The temperature options are \"HOT,\" \"WARM,\" and \"COLD.\" Each option has a corresponding green indicator light. \n\nTo the right, there is a button with a green border, which might be for starting or pausing the machine. The text \"INSERT COIN(S) OR CARD\" is visible at the top left of the panel.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a package of Ryze Mushroom Coffee. The packaging is primarily brown with an orange floral design. The text on the package reads \"RYZE MUSHROOM COFFEE.\" There is also a USDA Organic seal visible on the package. The package is placed on a speckled countertop, and in the background, there is a bottle with a yellow cap, possibly containing syrup or a similar liquid.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the ingredients?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show the list of ingredients. You might need to look at the back or side of the package for that information. If you can provide another image showing the ingredients, I can help transcribe them for you.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_17_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The ingredients listed on the package are:\n\n- Organic Mushroom Blend (Cordyceps, Reishi, King Trumpet, Shiitake, Lion's Mane, Turkey Tail)\n- Organic Instant Arabica Coffee\n- Medium Chain Triglycerides (MCT) Oil\n- Organic Coconut Milk\n\nIt also mentions that it contains tree nuts (coconut).",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a box of diapers. The box is primarily black with white text and features an image of a baby wearing a diaper. The text on the box includes \"104 DIAPERS\" and \"Diapers that make a difference.\" There is also a circular label with additional information, and a barcode is visible. The brand name appears to be \"All Good,\" but it is upside down in the image. The box also mentions \"NO BAD STUFF\" and \"FREE OF FRAGRANCE, PARABENS, & LATEX.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What size diapers are these?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The diapers are size 1, as indicated on the box.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of an envelope with a visible address label. The address on the label reads:\n\n[PII REMOVED]\nAbove the address, there is a barcode and some numbers: [PII REMOVED]. The envelope is placed on a surface with a black marble pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Where is the mail from?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The top part of the image shows a partial address, but it is not fully visible. The visible part reads: [PII REMOVED]. The rest of the sender's information is obscured.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_19_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The mail is from [PII REMOVED] with the address [PII REMOVED].",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Locational or retrieval",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "not sure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a long, narrow hallway with white walls and a patterned carpet floor. The carpet has a dark color with circular patterns. There are several doors along the hallway on both sides, and the walls have a horizontal trim running along them. The ceiling has several round, flush-mounted lights that illuminate the hallway. At the far end of the hallway, there is a red object on the wall, possibly a fire extinguisher or an emergency exit sign. There is also a sign on the left wall near the foreground, but the text is not legible from this angle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Where is the exit sign?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The exit sign is located at the far end of the hallway, above the red object on the wall. It is not clearly visible in the image, but it is typically positioned in that area in similar settings.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_21": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "maybe",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_21_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a bottle of a dietary supplement. The label on the bottle reads \"Zarbee's Kids\" and \"Organic\" with \"Immune\" in larger letters. There is a small illustration of a bear and some leaves on the label. The side of the bottle displays the \"Supplement Facts\" panel, which lists the serving size, servings per container, and the amount per serving of various ingredients, including calories, total carbohydrates, sugars, vitamin C, vitamin D, zinc, and a proprietary blend. The text is quite small and difficult to read in detail from this angle. The background appears to be a bathroom setting with a shower curtain visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What cough medicine is this?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bottle is labeled as \"Zarbee's Kids\" and mentions \"Immune\" and \"Organic.\" This suggests it is likely a Zarbee's Naturals product, which is known for producing natural health products for children, including cough syrups. However, the specific type of cough medicine is not entirely clear from the visible text. It would be best to check the front label of the bottle for the exact product name or consult a volunteer for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_22": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_22_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an outdoor scene taken from under a covered area, with a stone-tiled floor in the foreground. In the middle ground, there is a road with a small landscaped area separating it from the sidewalk. A blue vertical flag with the words \"NOW LEASING\" is planted in the landscaped area. Behind the flag, there is a black car parked on the street, and next to it, a green and white bicycle is visible. In the background, there are several large trees with green leaves, and a brick wall runs parallel to the road. The sky is clear and blue, indicating a sunny day.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_23": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_23_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a Superman action figure lying on a dark blue fabric surface. The figure is wearing a blue suit with a red and yellow Superman logo on the chest, a red cape, and red boots. Superman's hands are clenched into fists, and his hair is styled with a distinctive curl on his forehead.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_24": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_24_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a baby wearing a black and orange striped onesie with a zipper running down the front. The baby is lying on a bed with a patterned sheet that has a design of small, dark shapes on a light background. The baby's arms and legs are spread out.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_25": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_25_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a tablet with a blue protective case. The screen displays a colorful game interface with a blue background. On the left side of the screen, there are icons for different actions or abilities, including a wrench and a shell. In the center, there is a vertical bar with a red and pink gradient, possibly indicating a progress or health meter. At the bottom, there are several icons with red highlights, depicting a hand, a bat, a shield, and a multicolored star. On the right side, there are buttons labeled \"MAKE ALL\" in red, \"FINISH\" in green, and \"SKIP STAGE\" in purple. There is also a \"SPIN WHEEL\" option with a countdown timer next to it. The game appears to be in a 3D environment with a sky and some abstract shapes.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_26": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_26_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a sidewalk next to a low red brick wall, which separates the sidewalk from a grassy area. On the left side, there is a brick building with large windows. A person is walking away from the camera along the sidewalk, and there are parked cars on the right side of the street. In the background, there is a sign that reads \"Amidon-Bowen Elementary School\" with additional text below it. The scene is lit by sunlight, and there are trees with some autumn leaves.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What does the additional text say?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The additional text on the sign reads: \"Welcome Back! School Starts August 29th.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_27": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_27_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a street scene with a sidewalk in the foreground. There is a concrete utility pole on the sidewalk with a green sign attached to it, which reads \"M.P.H.\" The sidewalk has a rectangular utility cover with an orange marking on it. There are several orange traffic cones placed along the edge of the street, and one cone is on the sidewalk near the utility pole. A black vehicle is parked on the street next to the cones. In the background, there are trees with green and some autumn-colored leaves, and a building with a brick facade. The scene is well-lit by sunlight, casting shadows on the sidewalk.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What does the sign say?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sign says \"25 M.P.H.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_28": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_28_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen countertop with a few items on it. There are two cans of Del Monte diced tomatoes, labeled as \"No Salt Added\" and \"Non-GMO Vine Ripened.\" Next to the cans is a red package of Kit Kat chocolate. In the background, there are two jars of pasta sauce and a dish rack with a yellow plate and some cups.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_29": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_29_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a fabric or banner with a design that resembles a treehouse theme. The background is filled with a pattern of green leaves. In the center, there is a brown wooden sign with the words \"THE CLUBHOUSE\" written in large, bold letters. The text is styled to look like it is carved into the wood. Below the sign, part of another sign is visible, which reads \"Kids Only\" at the top.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_30": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_30_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a worksheet or daily report for a child named Kassius, dated Monday, October 21, 2024. It includes various sections with handwritten notes and drawings. \n\nAt the top, it mentions \"Gratitude Monday\" with a suggestion to leave a kind message for a classmate, teacher, or friend. \"Compliment Tuesday\" suggests recognizing and appreciating the positive qualities of those around you.\n\nThere are sections titled \"Special Notes For Parents,\" \"Today We Read,\" \"Today At Nap Time,\" \"Today I Ate,\" \"Went Potty This Many Times,\" \"My Behavior Was,\" and \"I'm Running Low On.\" \n\n- \"Special Notes For Parents\" mentions Bully Prevention Week and a virtual help meeting.\n- \"Today We Read\" lists \"The Mitten\" and \"Wash and Dry,\" with rhymed words like hop, top, can, man.\n- \"Today At Nap Time\" has checkboxes for \"I Slept\" and \"I Rested.\"\n- \"Today I Ate\" includes breakfast and lunch options from the DCPS menu and a note about granola bars.\n- \"Went Potty This Many Times\" has a space for marking occurrences.\n- \"My Behavior Was\" includes options like Happy, Sleepy, Chatty, Curious, Grumpy, Quiet, Busy.\n- \"I'm Running Low On\" features a large exclamation mark.\n\nThere are additional notes and drawings around the page, including a pitcher labeled \"round liquid,\" a laundry basket, and a note about art with Ms. Schorn. There's also a mention of the first letter in the name and first name recognition.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_31": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_31_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the cover of a children's book titled \"I'm Thinking of a Pet.\" The cover features an illustration of a young child with curly hair, wearing a red and white striped shirt, looking up thoughtfully. Above the child's head is a thought bubble containing an image of a playful dog chasing a butterfly. The background is a light blue color. In the top left corner, there is a yellow circle with the text \"With sliders to pull!\" The authors' names, Guillain & Gaggiotti, are written at the top in yellow.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_32": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_32_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a tablet screen with a colorful abstract background, featuring shades of red, blue, and green. The time displayed on the screen is 4:06, and the date is Wednesday, October 23. In the bottom center of the screen, there is a message that says \"Press home to open.\" The tablet is encased in a blue protective cover with a handle at the top. The battery icon in the top right corner indicates a 2% charge remaining.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_33": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_33_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a digital thermometer placed on a dark surface. The thermometer has a small digital display screen, which appears to show a reading, but the image is slightly blurry, making it difficult to read the exact numbers. The thermometer is white and has a button near the display.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What is the reading on a thermometer?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_33_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The reading on the thermometer display shows \"Lo \u00b0F\", indicating that the temperature is too low to be measured or is below the measurable range of the thermometer in Fahrenheit.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_33_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The reading on the thermometer display shows \"97.9 \u00b0F\".",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_34": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable, Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_34_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bottle of Bayer Low Dose Aspirin. The label is yellow with a green section. The text on the label reads \"BAYER\" at the top, followed by \"LOW DOSE\" and \"SAFETY COATED ASPIRIN REGIMEN.\" There is a red heart with \"81 mg\" written inside it. The bottle contains 200 tablets, and the product number at the bottom is 87594679.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How many can I take?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The label in the image does not provide specific dosage instructions. It's important to follow the guidance of a healthcare professional or the instructions on the packaging for the correct dosage. If you're unsure, I recommend consulting a doctor or pharmacist for advice.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_34_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the side of the Bayer Low Dose Aspirin bottle with a warning label. The text is small and difficult to read in the image, but it typically includes warnings and instructions. It mentions not to use if the printed safety seal is broken or missing, and advises to see the carton for full information. For specific dosage instructions, it's best to refer to the carton or consult a healthcare professional. If you need detailed information from the label, you might want to press the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_35": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "not sure",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_images/image_35_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a crocheted or knitted fabric with a striped pattern. The stripes alternate between shades of pink and white. The texture of the fabric appears to be thick and soft, with a visible stitch pattern that gives it a cozy look. The colors transition smoothly, creating a visually appealing design.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

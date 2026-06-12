@@ -1,0 +1,358 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop screen displaying a login page. The background has an abstract design with shades of orange and blue. In the center of the screen, there is a circular avatar image of a character with long dark hair and closed eyes. Below the avatar, the name \"[PII removed]\" is displayed. Underneath the name, the text reads \"Touch ID or Enter Password.\" At the bottom of the screen, there is a \"Cancel\" button. In the top right corner, there are icons indicating the keyboard language as \"U.S.\" and the Wi-Fi and battery status. The room in the background has a window with blinds and a chair.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an indoor hallway area with a brown patterned carpet. On the left side, there is a recessed wall with a couple of electrical outlets and a large white board leaning against the wall. On the right side, there are double glass doors with metal frames. Above the doors, there is an illuminated red \"EXIT\" sign. Through the glass doors, you can see another room with white walls and a tiled floor. There are some posters and signs visible on the walls in the background, including a \"Caution\" sign on the door. The ceiling has recessed lighting panels.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:Close",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image depicts an indoor area with a brown carpeted floor. On the left, there is a recessed wall with a couple of electrical outlets and a large white board leaning against it. To the right, there are double glass doors with metal frames, and above them is an illuminated red \"EXIT\" sign. Through the glass doors, you can see another room with white walls and a tiled floor. There are posters and signs visible on the walls in the background, including a \"Caution\" sign on the door. The ceiling features recessed lighting panels.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:Great",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found the description helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "User:What\u2019s on the whiteboard?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The whiteboard in the image appears to be blank.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "User:How many electrical outlets are there?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are two electrical outlets visible on the recessed wall.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 11,
+                "text_usr": "User:I how far away are they?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The two electrical outlets are positioned close to each other, likely just a few inches apart, as they are mounted on the same wall panel.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 13,
+                "text_usr": "User:How far away are the electric outlets from me?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to determine the exact distance from your perspective based solely on the image. However, the outlets appear to be on the wall to the left, not too far from the camera's viewpoint. If you need precise measurements, it might be helpful to physically measure the distance or ask someone nearby for assistance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 15,
+                "text_usr": "User:More",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:To provide a more accurate estimate, the electrical outlets appear to be on a wall that is relatively close to the camera, possibly a few feet away. However, without knowing your exact position relative to the camera, it's challenging to give a precise distance. If you need exact measurements, you might consider asking someone nearby to help measure the distance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 17,
+                "text_usr": "User:Helpful",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad to hear that! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a package of Lipton Cup-a-Soup. The flavor indicated on the package is \"Cream of Chicken Flavor with other Natural Flavors.\" The package has a red background with an image of a bowl of creamy yellow soup.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:Carbs",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show the nutritional information, so I can't provide the carbohydrate content. You might want to check the back or side of the package for the nutrition facts label. If you need help with that, you could take another picture of the relevant section.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_3_5.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image is blurry and doesn't clearly show the nutritional information or the carbohydrate content. If you need the carbohydrate details, please try taking a clearer picture of the nutrition facts label on the package.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_3_7.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the Nutrition Facts label, but it's a bit blurry. However, I can make out that the Total Carbohydrate content is 10 grams per serving. If you need more detailed information, a clearer picture might be helpful.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 9,
+                "text_usr": "User:Good",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 11,
+                "text_usr": "User:It\u2019s important for me to eat lower carb and high protein, how many grams of protein is this?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is a bit blurry, making it difficult to read the exact protein content. I suggest taking a clearer picture of the nutrition facts label to provide accurate information. Alternatively, you might want to press the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_3_13.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is still a bit blurry, but it looks like the protein content is 1 gram per serving. If you need more precise information, a clearer picture might be helpful.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 15,
+                "text_usr": "User:I follow a low carb diet. Is this a good food for me?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:This Lipton Cup-a-Soup has 10 grams of carbohydrates and 1 gram of protein per serving. If you're following a low-carb, high-protein diet, this might not be the best option due to its higher carbohydrate content and low protein. You might want to consider foods that are lower in carbs and higher in protein to better fit your dietary needs. If you're unsure, it might be helpful to consult with a nutritionist or dietitian.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an office setting. In the foreground, there is a small gray filing cabinet with three drawers. On top of the cabinet, there is a coffee machine, a kettle, a spray bottle, and a container of Nescaf\u00e9 coffee. To the right, there is a wooden desk with a computer monitor on it. The desk is adjustable, as indicated by the visible legs. In the background, there is an open wooden door with a frosted glass panel, leading to another office area. This area has a carpeted floor, fluorescent ceiling lights, and office furniture, including a desk, a chair, and filing cabinets. The walls are painted white, and the ceiling has a typical office drop ceiling with acoustic tiles.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:I\u2019m only looking for the Lipton soup",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I apologize, but there doesn't appear to be any Lipton soup visible in the image. There is a container of Nescaf\u00e9 coffee on the cabinet, but no Lipton soup. If you need further assistance, you might want to press the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_4_5.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is a wooden desk with two computer monitors on it. In front of the desk, there is a black office chair with a unique design. On the right side of the desk, there is a box of Lipton soup. The box is red and labeled \"Lipton Cup-a-Soup\" with an image of a soup bowl on it. Below the desk, there is a black computer tower with an orange cloth or towel on top of it.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": "User:Tell me about the Lipton soup first if you find it in the picture",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The Lipton soup box is located on the right side of the desk. It is a red box labeled \"Lipton Cup-a-Soup.\" The box features an image of a bowl of soup on the front, indicating the type of soup inside.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P6_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an office space with two desks and chairs. On the left side, there is a desk with a black ergonomic chair. The desk has a computer monitor, a red and black gift bag, and some small items, possibly decorations or office supplies. On the right side, there is another desk with a black office chair. This desk has a computer monitor with a webcam on top, a printer, and some papers scattered around. In the foreground, there is a round table with two items on it: a rectangular box with a colorful design and a book or a package wrapped in plastic. The room has plain white walls and a ceiling with square tiles.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:I\u2019m looking for my came, it is a long white cane that telescopes and it is collapsed right now and I don\u2019t remember where I put it",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:In the image, there is a long white object on the round table in the foreground. It appears to be a telescoping white cane, as it is collapsed and wrapped in plastic. This might be the cane you are looking for.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

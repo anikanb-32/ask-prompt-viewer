@@ -1,0 +1,218 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P4_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a MacBook laptop on a table. The screen displays a colorful abstract background with shades of orange and blue. The keyboard is visible, showing the bottom-left corner with keys like \"shift,\" \"control,\" \"option,\" and \"command.\" The trackpad is also visible below the keyboard. In the background, there is another laptop with a pink cover on the keyboard, and a black cable is connected to the MacBook. The setting appears to be a workspace or classroom environment.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P4_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a room with a brown patterned carpet. On the left side, there is a white board leaning against the wall. The wall is a light color, possibly beige or off-white. There are two electrical outlets on the wall above the board. On the right side, there is a glass door leading to another area. Behind the glass door, there is a red sign on a tripod stand. The sign appears to have some text on it, but it is not clear enough to read from this angle and distance. The area beyond the glass door has a light-colored floor and walls.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:it was okay",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Thank you for letting me know. If there's anything else you need help with, feel free to ask!",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:m more details",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P4_inlab_images/image_2_6.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this clearer image, the red sign behind the glass door is more visible. It reads \"College of Information\" at the top. Below that, there are three lines of text: \"Knowledge portal,\" \"Information,\" and \"Staff directory.\" At the bottom, it says \"New name for a new era!\" and provides a website URL: \"ci.unt.edu.\" The sign is on a tripod stand. The rest of the scene remains the same, with the white board leaning against the wall, the electrical outlets above it, and the brown patterned carpet on the floor.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": "User:less details",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P4_inlab_images/image_2_9.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room corner with a white board leaning against a light-colored wall. There is a glass door on the right, and behind it, a red sign on a tripod stand is visible. The floor is covered with a brown carpet.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P4_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a box of Lipton Cup-a-Soup. The flavor is \"Cream of Chicken with other Natural Flavors.\" The box contains instant soup and includes 4 envelopes. The net weight is 2.4 ounces (68 grams). Nutritional information per envelope is displayed, indicating 70 calories, 1.5 grams of saturated fat (8% of daily value), 620 milligrams of sodium (26% of daily value), and 1 gram of sugars. There is a serving suggestion image of a bowl of creamy yellow soup with small green herbs on top. A person's hand is holding the box.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:less calories",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:If you're looking for a soup with fewer calories, you might want to consider options like broth-based soups, such as vegetable or chicken broth, which typically have fewer calories than cream-based soups. Alternatively, you could look for low-calorie or reduced-calorie versions of instant soups, which are often available in stores. Checking the nutritional information on the packaging can help you find a suitable option.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "User:want to lose weight",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:If you're looking to lose weight, here are some general tips that might help:\n\n1. Balanced Diet: Focus on eating a variety of foods, including plenty of fruits, vegetables, lean proteins, and whole grains. These foods can help you feel full while providing essential nutrients.\n\n2. Portion Control: Be mindful of portion sizes to avoid overeating. Using smaller plates and measuring portions can help.\n\n3. Stay Hydrated: Drink plenty of water throughout the day. Sometimes thirst can be mistaken for hunger.\n\n4. Regular Exercise: Incorporate physical activity into your routine, such as walking, jogging, cycling, or any activity you enjoy.\n\n5. Limit Processed Foods: Try to reduce your intake of processed and high-calorie foods, such as sugary snacks and fast food.\n\n6. Mindful Eating: Pay attention to your hunger and fullness cues, and try to eat slowly to enjoy your meals.\n\n7. Consistency: Make gradual changes that you can maintain over the long term, rather than trying quick fixes.\n\nIt's always a good idea to consult with a healthcare professional or a registered dietitian for personalized advice and guidance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": "User:I want to lose weight is this appropriate snack for me",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:There was an error processing your request. Please try again later. (code: 8)",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P4_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with a white round table in the foreground. On the left side, there is a dark green jacket draped over the back of a chair. In the background, there is a gray couch with various items on it, including a red piece of clothing, a bag of snacks, and some papers or folders. On the wall above the couch, there is a framed poster with text that reads: \"Matisse in Morocco The Paintings and Drawings, 1912-1913 A USA/USSR Joint Project.\" To the right, there is a window with closed blinds and a windowsill that has a few potted plants. On the far right edge of the image, there is a partial view of a bag of snacks.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:I only care about finding the soup box",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:In the image, on the far right edge, there is a partial view of a box that appears to be a soup box. It is mostly white with some red and orange coloring, and you can see part of the word \"Soup\" on it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P4_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with a round white table in the foreground. On the table, there are a set of keys and a black cable or strap. To the left, there is a pink object partially visible, possibly a keyboard or a notebook. In the background, there is a gray couch with various items on it, including a green and orange package, a red cloth, a white pillow, and some rolled-up papers. There is also a brown paper bag with some items inside. On the wall above the couch, there is a framed text, but it is not fully visible. A window with closed blinds and a couple of potted plants on the windowsill is on the right side of the image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:is there a peace sign keychain attached to the keys",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there appears to be a peace sign keychain attached to the set of keys on the table.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

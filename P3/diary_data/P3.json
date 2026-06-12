@@ -1,0 +1,1670 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "maybe",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a ticket or voucher with the text \"STAR Specialized Transit for Arlington Residents\" on it. Next to this, it says \"FARE $4.00\". A hand with pink nail polish is holding the ticket. The background appears to be a textured dark surface, possibly a bag or seat.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_2_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a home office setup. There is a black desk with a laptop, a keyboard, and various office supplies on it. Next to the desk is a black office chair with armrests, which has a colorful, patterned pillow and a white blanket draped over it. On the floor beside the desk, there is a patterned rug with a floral design in shades of black, white, and gray. \n\nTo the left of the desk, there is a wooden shelf unit filled with stacks of folders and papers. On top of the shelf, there is a black mesh organizer holding more papers and a white electronic device. In front of the shelf, there is a metal wire cart with wheels, containing a plastic bag with some items inside. A beige and brown patterned handbag is placed on the floor next to the shelf. The room has wooden flooring and a plain wall in the background.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there braille books on the desk in the room?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there are braille books on the desk. They are stacked on the right side of the desk.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:How many brill books are on the desk?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are three braille books stacked on the desk.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a box of a food product on a patterned rug. The box is labeled \"Whole & Simple\" and \"Mediterranean Style Chicken Quinoa Bowl.\" It mentions that it contains brown rice, spinach, red bell peppers, and sun-dried tomatoes. The product is made in Canada. There is an image of the dish on the box, showing a bowl filled with quinoa, chicken pieces, and vegetables. The rug in the background has a blue and white zigzag pattern with fringes on the edge.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are the cooking instructions visible?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the cooking instructions are not visible in this image. Only the front of the box with the product name and image is shown.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What are the cooking instructions?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_3_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cooking instructions for the Mediterranean Style Chicken Quinoa Bowl are as follows:\n\nConventional Oven (Cook from Frozen):\n1. Preheat oven to 375\u00b0F.\n2. Remove bowl from carton. Do not pierce or remove film.\n3. Place bowl on baking sheet on middle oven rack for 25 - 30 minutes.\n4. Halfway through cooking, peel back film, stir, and replace film for the remaining cooking time.\n5. Remove baking sheet from oven. Bowl will be hot; use caution and support bowl when removing from baking sheet.\n6. Remove film and stir thoroughly.\n7. Let stand 1 - 2 minutes before serving.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:What are the instructions for cooking it in the microwave?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:The microwave cooking instructions are not visible in the image provided. You might need to check another part of the packaging for those details.",
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "User:What are the instructions for cooking in the microwave?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_3_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The microwave cooking instructions for the Mediterranean Style Chicken Quinoa Bowl are as follows:\n\nMicrowave (1000 watts) Recommended (Cook from Frozen):\n1. Remove bowl from carton. Do not pierce or remove film.\n2. Heat on high for 3 minutes. Peel back film and stir thoroughly.\n3. Replace film and cook on high for an additional 1 1/2 to 2 minutes.\n4. Remove from microwave, stir and let stand 1 - 2 minutes before serving. Bowl will be hot; use caution when removing from microwave.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bed with a gray comforter, on which several pieces of clothing or fabric are spread out. There is a black garment on the left side, a gray and black patterned fabric in the middle, a purple fabric to the right, and a white piece of clothing partially visible on the far right. On the floor, in front of the bed, there are a few tags or labels scattered. In the background, there is a television on a stand. The room has wooden flooring.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a blue Shaw on the bed?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_4_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is a shawl or piece of fabric on the bed, but it is not blue. It appears to be purple.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an entryway with a closed wooden door. The door has a silver handle and a peephole. To the left of the door, there is a white door with a silver handle, possibly a closet or storage space. A white cane is leaning against the wall between the two doors. On the floor, there is a pair of black shoes. To the right, there is a white basket or container with some blue items inside. The floor is wooden, and there is a small rug with fringes at the bottom of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a white cane by the door?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a white cane leaning against the wall between the two doors.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an indoor scene with a wooden floor. There is a closed wooden door with a silver handle on the right side of the image. Leaning against this door is a white cane with a black handle and a yellow stripe near the bottom. To the left of the main door, there is another door that is slightly open, which appears to be a closet or interior door. On the floor in front of the main door, there is a pair of black shoes with small heels.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "grounding(correct)"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen countertop with several items on it. On the left side, there is a red Ninja coffee maker. Next to it, there are three packets of Bigelow Lemon Ginger Herbal Tea with Probiotics laid out on the counter. The tea packets are yellow and white, with images of lemons and ginger on them. Behind the tea packets, there is an open black box containing more tea packets. The box has a decorative yellow and white pattern inside. To the right of the box, there are two large glass jars, one containing flour and the other containing rice.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Do any of these teabags have lemon in it?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the tea bags are labeled as \"Lemon Ginger\" herbal tea, so they contain lemon.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Which teabag is the lemon ginger tea?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The three tea bags laid out on the counter are all labeled as \"Bigelow Lemon Ginger\" herbal tea. These are the ones that contain lemon and ginger.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Are there more than three teabags?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there are more than three tea bags. In addition to the three Lemon Ginger tea bags laid out on the counter, there are more tea bags inside the open black box on the counter.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Are there more teabags on the counter,",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_7_10.jpg"
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there are more tea bags on the counter. In addition to the three Bigelow Lemon Ginger tea bags, there are two more tea bags laid out. One is a yellow packet labeled \"The Twining of London\" and the other is a green and white packet labeled \"Organic Green Tea.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a section of a sidewalk with a concrete surface. On the left side, there is a stone wall with a variety of rectangular stones in different shades of gray and brown. The sidewalk is bordered on the right by a patch of bare soil, which appears to be part of a landscaped area. There are a few small leaves and debris scattered on the soil and the sidewalk. The concrete has visible lines and seams, typical of sidewalk construction. The area seems to be outdoors, possibly near a building or a garden.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the crosswalk in view?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there is no crosswalk visible in the image. The photo shows a section of a sidewalk and a patch of soil, but no crosswalk markings or features are present.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_9": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable, Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_9_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a nighttime scene of a paved walkway with a low stone wall running alongside it. The walkway is made of rectangular bricks in shades of brown and tan. There are two narrow drainage grates embedded in the pavement, running perpendicular to each other. The stone wall is constructed of large, rough-hewn stones with a smooth, flat top surface. In the background, there are some trees and what appear to be chairs or benches, and the area is dimly lit by streetlights. The path curves gently to the right, leading further into the distance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a bench nearby?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there appear to be some benches or chairs in the background, near the trees. They are not very clearly visible, but they seem to be positioned on the grassy area beyond the stone wall.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_9_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a bench visible in this image. It is located on the left side of the walkway, partially in shadow, and appears to be made of wood. The bench is positioned on a patch of ground covered with fallen leaves.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a modern living room setting. There is a dark gray sofa with clean lines and a minimalist design. On the sofa, there are several decorative pillows with a black and white abstract pattern. The sofa is placed on a large area rug that has a textured design in shades of blue, gray, and beige. To the left of the sofa, there is a round coffee table with a metallic finish. In the background, there is a wooden cabinet with a light wood finish, and above it, a section of white wall paneling. On the right side of the image, part of a pool table with a green felt surface is visible. The room has wooden flooring and curtains in a neutral color.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there people in this picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there are no people in the picture.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hallway with a tiled floor and a patterned carpet at the foreground. The carpet has a design with horizontal, irregular beige shapes on a dark background. The hallway has light-colored walls with several framed artworks hanging on the left side. The artworks appear to be abstract or blurred in nature. The hallway leads to a brighter area in the distance, possibly another room or corridor. There is a handrail attached to the wall on the left side near the entrance to the hallway.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a club room in this hallway?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not provide enough information to determine if there is a club room in this hallway. There are no visible signs or indicators in the picture that specify the presence of a club room. You might want to look for any signs or ask someone nearby for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Is there enough lighting?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_11_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The room in the image appears to have adequate lighting. The light is evenly distributed, allowing for clear visibility of the kitchen area, which includes a countertop with a sink, a refrigerator, and a dishwasher. The walls and surfaces are well-lit, suggesting that the lighting is sufficient for typical activities in this space.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:Is the lighting adequate?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_11_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The lighting in the room appears to be adequate. There are multiple light sources, including ceiling lights and hanging pendant lights, which provide a good level of illumination throughout the space. The room features a pool table, seating areas, and a fireplace, all of which are well-lit, suggesting that the lighting is sufficient for activities and visibility in this area.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_11_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The lighting in this room appears to be adequate. There are multiple ceiling lights providing illumination, and the fireplace adds additional light to the area. The room features a long counter with bar stools, a fireplace, and a seating area. The lighting seems to be well-distributed, allowing for good visibility throughout the space.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "User:How many chairs are in the room?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:In the image, there are four bar stools visible along the counter. There may be additional seating elsewhere in the room, but only these four stools are clearly visible in this particular view.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a package of frozen broccoli florets from the brand Birds Eye. The packaging is predominantly blue with a large image of fresh broccoli on it. The text on the package includes \"Birds Eye Steamfresh\" and \"Broccoli Florets.\" It also mentions \"Cooks in the Bag\" at the top. There are nutritional details at the bottom, indicating 0 grams of fat, 20 milligrams of sodium, and 1 gram of sugar. The package is being held by a hand on the right side.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows two blister packs of capsules on a white surface. The larger blister pack contains eight oval-shaped capsules that are brown in color, arranged in two rows of four. The smaller blister pack contains two green oval-shaped capsules, with one capsule missing from the pack. There is also a hand visible on the right side of the image with painted nails.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there two green capsules at the top?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there are two green capsules in the smaller blister pack at the top.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Not sure"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a pot with steam rising from it, making it somewhat difficult to see clearly. It appears that there is something cooking inside the pot, possibly rice or another grain, as you can see some small, light-colored grains at the bottom. The steam suggests that the contents are being cooked at a high temperature.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does the rice look done?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to determine if the rice is fully cooked just by looking at the image, especially with the steam obscuring the view. Typically, cooked rice should be tender and have absorbed most of the water. You might want to check the texture by tasting a small amount or pressing a grain between your fingers to see if it's soft. If you're unsure, you could also consider calling a volunteer for more guidance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_15": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_15_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a modern living room with a stylish and cozy setup. There is a large, light-colored sofa with several decorative pillows in varying textures and patterns. In front of the sofa, there are hexagonal black tables arranged together, and on one of them is a decorative tray with autumn-themed foliage and a candle. To the left of the sofa, there is a small side table with a lamp on it. Behind the sofa, a large, abstract painting in shades of blue depicts a profile of a face. To the left of the painting, there is a tall, narrow shelving unit with several decorative items, including books, a vase, and small sculptures. The room has a warm and inviting atmosphere with a mix of contemporary and artistic elements.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What colour are the pillows on the couch?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The pillows on the couch are in shades of black and beige. There are two black pillows with a textured pattern and two beige pillows with a simpler design.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a box of medication on a white surface. The box is for \"Coricidin HBP,\" which is a cold and flu medication specifically for people with high blood pressure. The box is divided into two sections: one for \"Cold & Flu Day\" and the other for \"Cold & Flu Night.\" The day section is orange, and the night section is blue. The box mentions \"Maximum Strength\" and \"Cold Relief for People with High Blood Pressure.\" There are also mentions of symptoms it addresses, such as body aches, fever, cough, and runny nose. A hand with pink nail polish is holding the box. In the background, there is another box with a green and orange design, but the details are not clear.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the directions for taking the",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not clearly show the directions for taking the medication. You might need to look for the specific section on the box that lists the dosage instructions or check the leaflet inside the box. If you need detailed guidance, I recommend pressing the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What are the instructions for taking the medication?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_16_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not clearly show the instructions for taking the medication. You might need to look for the specific section on the box that lists the dosage instructions or check the leaflet inside the box. If you need detailed guidance, I recommend pressing the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:What is the name of the medication?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:The name of the medication is \"Coricidin HBP.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a room with wooden flooring. There is a blue and white patterned rug with fringes on one side. In the corner, there is a small plant in a pot on the floor. To the right, there is a small dark wooden table with a telephone and a dish on top. The walls are painted in a light color, and there are large windows with white blinds covering them. The room appears to be well-lit, and there is a reflection of a building visible through the blinds.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there any handbags on the floor?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there are no handbags on the floor in the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_17_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are no handbags visible on the floor in this image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a small refreshment station or coffee area in a hallway. It features a countertop with a coffee machine on the right side. There are several coffee-related items on the counter, including cups and possibly sugar or creamer packets. Above the counter, there are two shelves. The lower shelf holds a potted plant and some other items, while the upper shelf has two empty wire baskets. The area is well-lit with recessed ceiling lights, and there are two wall-mounted lights on either side of the entrance to this nook. The floor is tiled, and the walls are painted in a light color, giving the space a clean and modern look.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a hot chocolate option?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, it looks like there is a hot chocolate option. On the counter, there are three canisters with labels, and one of them appears to be labeled \"Hot Chocolate.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a teal-colored fabric bag with the logo and text \"Molina Healthcare\" printed on it in white. The logo consists of three abstract human figures. The bag is on a surface, and in the background, there is a brown bottle, a yellow object that looks like a citrus squeezer, and a glass container with what appears to be stones or decorative items inside.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a tube of body butter on a dark leather surface, possibly a couch or chair. The tube is labeled \"Au Lait\" and is from \"Scottish Fine Soaps.\" The text also includes \"Body Butter\" and \"Beurre Corporel.\" In the background, there is a portion of a blue and white patterned rug with fringes on a wooden floor.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_21": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_21_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a cozy bedroom with a bed positioned against a wall. The bed has a grey comforter and is adorned with pillows, including a light pink one and a teal one. A remote control is placed on the bed. Next to the bed is a small bedside table with a lamp, a bottle of water, and some other small items. The room has a large window with closed blinds, allowing soft light to filter in. On the floor beside the bed is a fluffy, light-colored rug. The flooring is wooden, adding warmth to the room.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the room cluttered?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the room does not appear to be cluttered. It looks tidy and organized, with only a few items on the bedside table and a remote control on the bed. The space around the bed is clear, contributing to an overall neat appearance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_26": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_26_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen area with a modern design. There is a stainless steel refrigerator on the left side, covered with various magnets and notes. Next to the fridge, there is a small black cart with some items on it, and a folded step ladder leaning against the wall. Above the fridge, there are wooden cabinets, one of which is open, revealing some items inside.\n\nIn the center of the image, there is a kitchen island with a white countertop. On the island, there is a box of \"Hefty\" brand storage bags, some scattered items, and a large decorative vase with tall, white artificial flowers. There are three high chairs with dark seats around the island, and a handbag is hanging from one of the chairs. The floor is wooden, and the lighting is provided by track lights on the ceiling.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the light on in the kitchen?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The kitchen appears to be dimly lit, possibly by the track lights on the ceiling, but it is not very bright. The overall lighting suggests that the main lights might not be fully on, or the image was taken with a flash.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_27": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Not sure (participant thinks the task is completed)"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_27_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a blue bottle of shower gel on a white surface. The label on the bottle reads:\n\n\"SHOWER GEL\nFRAGRANCE NOTES:\nTOASTED MARSHMALLOW, SEA SALT BREEZE, SMORES ACCORD, BEACH DRIFTWOOD, CREAMY VANILLA\n\nGENTLE, NON-DRYING FORMULA\nNOURISHING, RICH, BUBBLY LATHER\nMADE WITH\nALOE\nVITAMIN E\n\nBOTTLE MADE WITH 50% RECYCLED PLASTIC\nDermatologist Tested\nNot Tested on Animals\"\n\nThere is also a list of ingredients below this text, and the price is marked as $13.50. Next to the shower gel is a bottle of body spray with a design that includes a sparkler and the words \"Beach Nights.\" In the background, there is a vase with dried flowers and some other items on the counter.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there directions for using the body spray?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show any directions for using the body spray. The visible part of the body spray bottle only shows the design and the words \"Beach Nights.\" If you need more information, you might want to check the other side of the bottle or its packaging.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_27_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the back of the body spray bottle. The label reads:\n\n\"FINE FRAGRANCE MIST\nFRAGRANCE NOTES:\nTOASTED MARSHMALLOW, SEA SALT BREEZE, SMORES ACCORD, BEACH DRIFTWOOD, CREAMY VANILLA\n\nBOTTLE MADE WITH 50% RECYCLED PLASTIC\nNot Tested on Animals\nVegan\n\nIngredients: Alcohol Denat., Water (Aqua, Eau), Fragrance (Parfum), Propylene Glycol, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Benzyl Benzoate, Benzyl Salicylate, Limonene, Linalool, Yellow 5 (CI 19140), Red 33 (CI 17200), Red 40 (CI 16035).\"\n\nThere are no specific directions for use on the label.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_28": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_28_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a dimly lit room with a wooden table on the right side. On the table, there is a small, round, black object that resembles a smart speaker. To the left of the table, there is a tripod with a label attached to it, standing in the corner of the room. The walls are plain, and there are some shadows cast on them. A cable is visible on the table, extending towards the edge. The floor appears to be wooden, and there are some cables or wires on the floor near the tripod.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the light on the smart speaker indicating that it\u2019s on?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is quite dim, and I can't see any light on the smart speaker that would indicate it's on. If there is a light, it might not be visible due to the lighting conditions in the room. You might want to check by touching the speaker or listening for any sound it might make when activated.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_29": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Locational/retrieval",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_29_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a black remote control. The buttons visible include numbers 0 to 9, with \"RECALL\" and \"GUIDE\" next to them. There is a circular navigation pad with \"ENTER\" in the center, surrounded by directional arrows. Below this, there are buttons labeled \"MENU\" and \"EXIT.\" Further down, there are buttons for \"MUTE\" and a channel control with \"+\" and \"-\" symbols. The remote is resting on a textured fabric surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Where is the input button?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The input button is not clearly visible in this image. You might want to check the lower section of the remote, as input buttons are often located there. If it's not there, you could try taking another picture that includes more of the remote.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_29_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the input button is labeled \"INPUT\" and is located towards the bottom section of the remote. It is positioned below the \"COMP\" button and above the \"ZOOM\" button.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:Where exactly is the input button located? Is it on the bottom roll? Third one from the left on the row above the bottom second one from the left?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:I apologize for the confusion earlier. The input button is not visible in this image. The buttons visible towards the bottom include \"VIDEO,\" \"HDMI,\" \"COMP,\" \"VGA,\" \"ZOOM,\" and \"SLEEP.\" If the input button is not among these, it might be located elsewhere on the remote. You might want to check the top or sides of the remote, or try taking another picture that includes more of the remote.",
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "User:Exactly where is the HDMI button?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:The HDMI button is located in the second row from the bottom, second button from the left.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "User:What is the button? The third row from the bottom the third one  from the left?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:The button in the third row from the bottom, third one from the left, is labeled \"COMP.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_30": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_30_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a portion of a television screen displaying a colorful, animated cityscape at night. The scene includes buildings with neon lights, a river with a boat, and a bridge in the background. The word \"Roku\" is prominently displayed on a billboard on one of the buildings. The lighting from the screen casts a purple glow in the surrounding area. Below the screen, there is a reflective surface, possibly a glass table, which reflects part of the screen's image. The room is dimly lit, with visible cables and a wall outlet on the left side.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a Settings button visible?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there is no Settings button visible on the screen in the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_30_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the television screen continues to display the animated cityscape at night. There is no Settings button visible. Instead, there is an advertisement on a billboard for \"BET+\" and \"Zatima\" with a promotional offer for a 7-day free trial. Below the advertisement, there is a play button icon. The rest of the scene includes buildings, a river with ships, and a bridge in the background, all illuminated with a purple and orange glow.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_31": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "No (still needed sighted assistance)"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_31_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a remote control resting on a person's leg. The remote is blue with white buttons. Some of the visible buttons include a red power button, volume and channel controls, and a directional pad with an \"OK\" button in the center. The person is wearing pants with a black and white geometric pattern. In the background, there is a dark-colored rug with a white pattern and a mustard yellow cushion.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Would this remote control work with a signa TV?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to determine compatibility with a specific TV brand just by looking at the remote control. Typically, universal remotes can work with various TV brands, including Signa, if they are programmed correctly. If this is a universal remote, you might need to program it using a code specific to Signa TVs. If you're unsure, I suggest checking the remote's manual or packaging for compatibility information. If you need further assistance, you might want to press the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What is the brand of this remote control?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show any visible brand name or logo on the remote control, so I can't determine the brand just from this picture. If there is any branding, it might be on another part of the remote that isn't visible in the image. You might want to check the back or sides of the remote for any brand markings.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Is the brand name of the remote control visible?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_31_8.jpg"
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the brand name is visible on the back of the remote control. It shows a logo that resembles the Philips brand.",
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "User:What Philips brand is it? Does it have numbers associated with the type of Phillips brand?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a logo that resembles the Philips brand, but there are no numbers or additional text visible that would specify the model or type of Philips remote control. If there are any model numbers, they might be located elsewhere on the remote, possibly inside the battery compartment.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "User:Is the model number visible?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_31_13.jpg"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the model number is visible on the inside of the battery compartment cover. It reads \"SRP 5437\".",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_32": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "user said no"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_32_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a flat-screen television with a black frame. The brand name \"DYNEX\" is visible on the lower part of the screen. The television is turned off, as indicated by the dark screen. There is a bright light reflecting on the screen, creating a starburst effect with rainbow colors. The TV is placed on a glass or transparent stand, and there is a power strip with several outlets visible on the floor beneath it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_33": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_33_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a small, clear plastic bag containing shredded cheese. The bag is partially open and is being held down by a person's hand with dark skin and pink nail polish. The bag has some printed text on it, but it is not fully visible or clear enough to read. The background is a plain white surface.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_34": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_34_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a sealed, transparent plastic packet containing a beige-colored sauce or paste with visible specks, suggesting it might be seasoned. The packet is lying flat on a white surface. A hand with pink nail polish is holding the packet on the right side. There is some text printed on the packet, which reads:\n\n17473 02 4279\n1145\nSMOKED BACON",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the name of the sauce visible?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the name of the sauce is not visible in the image. Only the text \"SMOKED BACON\" is printed on the packet, which might indicate the flavor or a key ingredient.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_34_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the packet is shown from a slightly different angle, but the name of the sauce is still not visible. The packet contains the same beige-colored sauce or paste with specks. The hand with pink nail polish is holding the packet from the top right side. There is no additional text visible that would indicate the name of the sauce.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_34_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the packet is shown again, but the name of the sauce is still not visible. The packet contains the same beige-colored sauce or paste with specks. There is no additional text visible that would indicate the name of the sauce.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_35": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_35_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a package of frozen food. The packaging is primarily blue and red. The text on the package reads \"Chicken Egg Rolls\" in large white letters on the blue section. Below that, on the red section, it says \"Carry Out Cuisine\" with a small graphic of a fork and spoon. There is a picture of two egg rolls on the package, one of which is cut open to show the filling, which appears to include chicken and vegetables. There is also a price sticker on the package that reads \"$4.99\" and a date \"23-10-24\". A hand with painted nails is holding the package on the right side.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the directors to prepare them? Should they stay in the freezer?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The package mentions \"Keep Frozen\" at the top, indicating that the egg rolls should be stored in the freezer. However, the image does not show specific preparation instructions. You might need to check the back or another side of the package for detailed cooking directions. If you need help with that, you could take another picture of the relevant side.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_35_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image shows the same side of the package as before, so it still doesn't display the preparation instructions. To find the cooking directions, you might need to look at the back or another side of the package. If you can take a picture of a different side, I can help you read the instructions.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_35_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a section of the package with cooking instructions and a barcode. The text is small and partially cut off, but I can make out some of the instructions:\n\n- It mentions microwave instructions and possibly oven instructions.\n- There is a note about ensuring the product is cooked thoroughly.\n- It advises keeping the product frozen until ready to use.\n\nFor complete and accurate cooking instructions, you might need to take a clearer picture of the entire instructions section. Alternatively, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:What are the microwave instructions?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_35_10.jpg"
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the microwave instructions section more clearly. Here are the microwave instructions:\n\n1. Remove egg roll from wrapper.\n2. Place on a microwave-safe plate.\n3. Microwave on high for 1 and 1/2 to 2 minutes, or until hot.\n4. Let stand for 1 minute before serving.\n\nPlease ensure the egg rolls are cooked thoroughly before consuming.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_36": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_images/image_36_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a squeezable pouch of Daisy Brand Pure & Natural Sour Cream. The pouch is mostly white with blue and red text. The word \"Daisy\" is written in red, while \"Sour Cream\" is in blue. There is a blue cap at the top of the pouch. The text also mentions \"Same great sour cream, with just a squeeze\" and \"14 OZ (397g)\" at the top.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

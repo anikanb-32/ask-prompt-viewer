@@ -1,0 +1,1640 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the control panel of a treadmill. The brand name \"XTERRA\" is visible at the top of the panel. The panel has a small digital display screen and several buttons below it. The buttons are labeled with numbers from 1 to 9, and there are additional buttons with symbols, including a red button with a stop symbol, a blue button labeled \"PROGRAM,\" and a green button with a start symbol. There is also a red safety key attached to a cord hanging from the panel. The treadmill is positioned against a plain wall.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What metrics are shown on the control panel?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is not clear enough to read the specific metrics displayed on the control panel's screen. You might want to try taking another picture with better lighting or a closer angle to see the details more clearly.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What messages are shown on the control panel?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_1_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The control panel's screen displays the word \"Lube\" prominently. Additionally, there are some numbers visible: \"13.3\" and \"265\" which might represent distance and calories, but it's not entirely clear without more context. The speed is shown as \"0.0\".",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:What was the distance run?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:The distance shown on the control panel is \"13.3\".",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_2_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with wooden flooring. In the foreground, there is a blue dog toy shaped like a bone with a green ball in the center. Against the far wall, there is a wall-mounted shelf with various items on it, including spray bottles and a framed picture. Above the shelf, there is a large flat-screen TV mounted on the wall. To the left of the shelf, there is a small stool or side table with a fan or heater on it. There is also a vacuum cleaner or similar appliance standing in the corner. The room appears to be dimly lit.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a cat in the picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be a cat in the picture. If you suspect there might be one hidden or not easily visible, you might want to take another picture from a different angle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_2_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a cat in the picture. The cat is sitting on the small stool or side table to the left of the wall-mounted shelf, near the fan or heater.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a nighttime scene of a sidewalk leading towards a small building or shed with a light on its exterior. The sidewalk is bordered by grass on the right and a parked black car on the left. There is a manhole cover embedded in the sidewalk near the car. The building has a wooden fence or gate on one side, and there is some snow on the ground near the building. The area is dimly lit, with the light from the building providing some illumination.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a Dog waste bin in the picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be a dog waste bin visible in the picture. The image shows a sidewalk, a parked car, a small building with a light, and some surrounding grass, but no dog waste bin is clearly identifiable.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_3_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, in this picture, there is a dog waste bin visible. It is located on the grassy area to the right of the sidewalk, near a signpost. The bin is green and appears to be designed for disposing of dog waste.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the side of a black SUV, specifically focusing on the rear passenger door and the area around the rear wheel. The vehicle has visible dirt and scratches along the side, particularly above the rear wheel and extending onto the door. There is a noticeable dent and scuff marks, suggesting some damage to the vehicle. The car has a sticker on the rear passenger window that says \"Uber.\" The wheel is also visible, showing some dirt on the rim. The model name \"Grand C\" is partially visible on the lower part of the rear door.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is this a Jeep?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the vehicle appears to be a Jeep, specifically a Jeep Grand Cherokee, as indicated by the visible part of the model name \"Grand C\" on the door.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar & stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "1"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a display of folded t-shirts. There are two different colors of t-shirts: maroon and dark blue. Each t-shirt has the same design printed on it. The design features a yellow silhouette of a cat wearing a hat, and the text reads:\n\nMOUNT PURRNON\nCAT CAF\u00c9 + WINE BAR\nALEXANDRIA, VIRGINIA\n\nThe maroon t-shirts are on the top row, and the dark blue t-shirts are on the bottom row. A hand is visible at the bottom of the image, touching one of the dark blue t-shirts.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a room with a hardwood floor. In the left part of the image, there is an upright vacuum cleaner with a purple and black color scheme. The vacuum's power cord is plugged into a wall outlet located on the wall behind it. To the right of the vacuum cleaner, there is a small object on the floor that appears to be a rolled-up reflective safety vest or similar item, with orange and silver reflective material. In the far right of the image, part of a white baby gate is visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the item on the left side a white cane?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the item on the left side is not a white cane. It is an upright vacuum cleaner with a purple and black color scheme.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Is the item on the right side a white cane?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the item on the right side appears to be a white cane. It has a white body with a red section near the tip, which is typical for white canes used by visually impaired individuals.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "6"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a package of Girl Scouts cookies. The packaging is predominantly purple and features the text \"Caramel deLites\" on the front. It describes the cookies as \"Crispy cookies topped with caramel, toasted coconut, and chocolaty stripes.\" The net weight is 7 oz (198 g). The package also has an image of the cookies and a picture of three Girl Scouts in uniform, smiling and having fun.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the nutritional facts?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The nutritional facts are not visible in the image provided. You might need to take a picture of the back or side of the package where the nutritional information is typically located.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_7_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The nutritional facts are not visible in this image either. It seems to show the side of the package with some text about the Girl Scouts and a barcode. You might need to take a picture of the other side or the back of the package where the nutritional information is typically printed.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:Nutritional facts",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_7_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The nutritional facts are not visible in this image either. It shows the top of the package with some information about the Girl Scout mission and activities. You might need to take a picture of the back or another side of the package where the nutritional information is typically located.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_7_12.jpg"
+            },
+            {
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:The nutritional facts on the package are as follows:\n\n- Serving Size: 2 cookies (28g)\n- Calories: 140\n- Total Fat: 7g (9% Daily Value)\n  - Saturated Fat: 6g (30% Daily Value)\n  - Trans Fat: 0g\n- Cholesterol: 0mg (0% Daily Value)\n- Sodium: 65mg (3% Daily Value)\n- Total Carbohydrate: 19g (7% Daily Value)\n  - Dietary Fiber: 1g (3% Daily Value)\n  - Total Sugars: 12g\n    - Includes 12g Added Sugars (24% Daily Value)\n- Protein: 1g\n- Vitamin D: 0mcg (0% Daily Value)\n- Calcium: 0mg (0% Daily Value)\n- Iron: 0mg (0% Daily Value)\n- Potassium: 0mg (0% Daily Value)\n\nThe percentages are based on a daily diet of 2,000 calories.",
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": "User:How many calories per serving?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are 140 calories per serving, which is 2 cookies.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a parking sign with two parts. The top part is a blue sign with white text that reads \"$250 FINE.\" The bottom part is another blue sign with white text that reads \"VAN ACCESSIBLE.\" The signs are mounted on a green metal post. In the background, there is a building with brick and siding, and some windows are visible. It appears to be nighttime, as the area is dark except for some lighting from the building.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is this a handicap parking sign?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, this is a handicap parking sign indicating that the parking space is van accessible.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_9": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(correct)"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_9_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a room near a door. In the corner, there is a white cane with a black handle leaning against the wall. Next to the cane, there is a box on the floor. The box is labeled \"SLIDE\" and appears to be a cat litter product from Arm & Hammer. On the floor, there are a pair of slippers and a shoe. There is also a light switch on the wall near the door. The floor is wooden, and there is a small table or shelf partially visible on the left side of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How many white canes are in the picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is one white cane in the picture.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Are there other types of canes in the picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there are no other types of canes in the picture, only the white cane.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:There are actually three white canes in the picture",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:I apologize for the oversight. Upon closer inspection, it appears there are indeed three white canes leaning against the wall in the corner. Thank you for pointing that out.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Describe the picture again",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a room near a door. In the corner, there are three white canes with black handles leaning against the wall. Next to the canes, there is a box on the floor labeled \"SLIDE,\" which appears to be a cat litter product from Arm & Hammer. On the floor, there are a pair of slippers and a shoe. There is a light switch on the wall near the door. The floor is wooden, and there is a small table or shelf partially visible on the left side of the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "4"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bag of Taylor Farms Sweet Kale Chopped Kit. The packaging is predominantly purple and features the following text:\n\n- \"Sweet Kale Chopped Kit\"\n- \"Broccoli, Green Cabbage, Kale, Brussels Sprouts, Pepitas, Radicchio, Cranberries\"\n- \"with Creamy Poppyseed Dressing\"\n- \"6 servings\"\n- \"Excellent Source of Vitamins C & K\"\n- \"Contains 5 Superfoods\"\n- \"Gluten Free\"\n- \"Net Wt. 12 oz (340 g)\"\n\nThere is also an image of the salad on the packaging, showing a mix of greens and other ingredients.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the nutritional facts?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_10_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The nutritional facts on the package are as follows:\n\n- Serving Size: 1 cup (100g)\n- Calories: 180\n- Total Fat: 11g (14% Daily Value)\n- Saturated Fat: 1g (5% Daily Value)\n- Trans Fat: 0g\n- Cholesterol: 0mg (0% Daily Value)\n- Sodium: 250mg (11% Daily Value)\n- Total Carbohydrate: 18g (7% Daily Value)\n- Dietary Fiber: 4g (14% Daily Value)\n- Total Sugars: 12g (Includes 9g Added Sugars, 18% Daily Value)\n- Protein: 4g\n- Vitamin D: 0mcg (0% Daily Value)\n- Calcium: 48mg (4% Daily Value)\n- Iron: 1mg (6% Daily Value)\n- Potassium: 185mg (4% Daily Value)\n\nPlease note that the percentages are based on a 2,000 calorie diet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "User:Is this a healthy option?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The Sweet Kale Chopped Kit can be considered a healthy option for several reasons:\n\n- It contains a variety of vegetables like broccoli, green cabbage, kale, and Brussels sprouts, which are rich in vitamins and minerals.\n- It is an excellent source of Vitamins C and K.\n- It provides dietary fiber, which is beneficial for digestion.\n- It is gluten-free.\n\nHowever, it also contains 12g of total sugars, including 9g of added sugars, and 11g of total fat per serving, which might be a consideration if you are monitoring your sugar or fat intake. The creamy poppyseed dressing likely contributes to these values.\n\nAs with any food, it's important to consider your overall dietary needs and preferences. If you have specific dietary concerns, you might want to adjust the portion size or use less dressing. For personalized advice, consulting with a nutritionist or healthcare provider would be beneficial.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:Would this go well with salmon?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the Sweet Kale Chopped Kit would pair well with salmon. The fresh and crunchy vegetables in the salad, along with the creamy poppyseed dressing, can complement the rich and flavorful taste of salmon. The combination would make for a nutritious and balanced meal, providing a good mix of protein, healthy fats, and fiber. You might consider grilling or baking the salmon for a delicious and healthy pairing.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "5"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a copper-colored pan on a stovetop containing sliced sausages and chopped onions. The sausages are pinkish-red, and the onions are white. The ingredients appear to be cooking together, possibly being saut\u00e9ed. The handle of the pan is visible on the left side. The background shows a black countertop and a person's legs wearing black pants standing in front of the stove.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are the sausage brown yet?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sausages in the pan are not browned yet; they still appear pinkish-red.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_11_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sausages are still mostly pinkish-red, but there are some slight browning spots starting to appear on a few pieces. They are not fully browned yet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_11_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sausages are starting to show more browning on some pieces, but they are not fully browned yet. There are still many pieces that remain pinkish-red.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_11_12.jpg"
+            },
+            {
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sausages are showing more browning on several pieces, but they are not uniformly browned yet. Some pieces still appear pinkish-red.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "binary"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "21"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a white prescription medication bottle with a label partially visible. The label includes the following text:\n\n- \"Swallow Whole. Do Not Chew Or Crush.\"\n- \"Qty 90\"\n- \"Discard After: 04/07/25\"\n- \"Rev: 1/2021\"\n\nThe label also has some colored sections with additional text, but they are not fully visible in the image. The hand holding the bottle is wearing a black wristband with circular holes. The bottle appears to be a prescription for a medication in capsule form, as indicated by the text \"extended-release capsule\" and \"fenofibrate\" visible on the label.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a white prescription medication bottle with a label. The label includes the following text:\n\n- \"Swallow Whole. Do Not Chew Or Crush.\"\n- \"Qty 90\"\n- \"Discard After: 04/07/25\"\n\nThe label also has colored sections with additional text, but they are not fully visible or clear in the image. The bottle appears to be a prescription for a medication, and there is some text on the right side of the bottle, but it is not legible in this image. If you need more detailed information, you might consider pressing the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is quite blurry, making it difficult to read any text on the prescription bottle. The bottle is white and cylindrical, and it is being held in a hand. The background shows a wooden floor, and part of a foot is visible at the bottom of the image. If you need specific information from the label, it might be helpful to take a clearer picture or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is very blurry, making it difficult to discern any details or text on the prescription bottle. The bottle is white and being held in a hand, but no specific information can be read from the label. For better assistance, you might consider taking a clearer picture or pressing the \"Call a volunteer\" button for help.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a white prescription bottle with the following text on the label:\n\n- \"[NDC-69315-282-09]\"\n- \"Fenofibric Acid Delayed-Release Capsules\"\n- \"135 mg\"\n- \"Rx only\"\n- \"90 Capsules\"\n- \"LEADING PHARMA\"\n\nThis bottle contains fenofibric acid delayed-release capsules at a dosage of 135 mg, and it is manufactured by Leading Pharma.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a bottle with a label that reads:\n\n- \"Nature's Valley\" (partially visible)\n- \"Cherry Extract\"\n- \"1000 mg per capsule\"\n- \"Dietary Supplement\"\n- \"ANTIOXIDANT SUPPORT\"\n- \"90 VEGETARIAN CAPSULES\"\n\nThe label suggests that this is a dietary supplement containing cherry extract, providing antioxidant support. The bottle contains 90 vegetarian capsules. The hand holding the bottle is wearing a black wristband with circular holes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_13.jpg"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a white bottle with a partially visible label. The text on the label includes:\n\n- \"Ad\" (likely part of a larger word, possibly \"Advil\" or similar)\n- \"Ibuprofen, 200 mg\"\n- \"Pain Reliever\"\n- \"Nighttime Sleep-\"\n- \"READ AND KEEP WARNINGS\"\n\nThe bottle appears to be a medication that contains ibuprofen as a pain reliever, possibly intended for nighttime use. The hand holding the bottle is wearing a black wristband with circular holes. If you need more specific information, a clearer picture might help.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_15.jpg"
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a prescription pill bottle with a partially visible label. The text on the label includes:\n\n- \"AND 1/2 TA... ONCE A DAY\"\n- \"[PII removed]\"\n\nThe medication is [PII removed], which is a generic form of [PII removed], at a dosage of 100 mg. The prescription is for 45 tablets with no refills. The hand holding the bottle is wearing a black wristband with circular holes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": "User:Does it have an expiration date?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is not visible in the image provided. If you need to find the expiration date, you might try looking for it on the label or the bottom of the bottle. If it's still unclear, you could take another picture focusing on the area where the expiration date might be printed. Alternatively, you might consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 19,
+                "text_usr": "User:Does it show the expiration date?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 20,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_20.jpg"
+            },
+            {
+                "turn": 21,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the side of the prescription bottle, but the expiration date is not visible in this view. It might be located on another part of the label or the bottom of the bottle. If you need to find the expiration date, you might try checking those areas or taking another picture that includes the full label. Alternatively, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 22,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_22.jpg"
+            },
+            {
+                "turn": 23,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a prescription bottle with a partially visible label, but the expiration date is not visible in this view. The text that can be seen includes:\n\n- \"TAKE 1 AND 1/2 BY MOUTH ONCE A\"\n- \"[PII removed]\"\n- \"Generic For: [PII removed]\"\n- \"No Refills\"\n\nTo find the expiration date, you might need to check another part of the label or the bottom of the bottle. If it's still unclear, you could try taking another picture that includes the full label or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 24,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_24.jpg"
+            },
+            {
+                "turn": 25,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is quite dark and blurry, making it difficult to see any details or text on the prescription bottle. The top of the bottle is visible, but the label and any potential expiration date are not clear. To find the expiration date, you might try taking a clearer picture with better lighting or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 26,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_26.jpg"
+            },
+            {
+                "turn": 27,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the top view of an open prescription bottle with yellow tablets inside. However, the label and any potential expiration date are not visible from this angle. To find the expiration date, you might need to check the side of the bottle where the label is located or take another picture focusing on the label. If it's still unclear, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 28,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_28.jpg"
+            },
+            {
+                "turn": 29,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a prescription bottle with a partially visible label. The text that can be seen includes:\n\n- \"TAKE 1 AND 1/2 TABLETS BY MOUTH ONCE A DAY\"\n- \"[PII removed\"\n- \"Generic For: [PII removed]\"\n- \"Qty: 45\"\n\nThe expiration date is not visible in this image. It might be located on another part of the label or the bottom of the bottle. If you need to find the expiration date, you might try checking those areas or taking another picture that includes the full label. Alternatively, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 30,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_30.jpg"
+            },
+            {
+                "turn": 31,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a small bottle with a green cap. The label on the bottle has a block of text, but it is not legible due to the lighting and angle. The expiration date is not visible in this image. To find the expiration date, you might try checking the label more closely or taking another picture with better lighting and focus. If it's still unclear, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 32,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_32.jpg"
+            },
+            {
+                "turn": 33,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a small bottle with a green cap. The label has a block of text, but it is not legible due to the lighting and focus. The expiration date is not visible in this image. To find the expiration date, you might try checking the label more closely or taking another picture with better lighting and focus. If it's still unclear, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 34,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_34.jpg"
+            },
+            {
+                "turn": 35,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a small bottle with a green cap. The label has a block of text and a QR code, but the text is not fully legible due to the angle and focus. The expiration date is not visible in this image. To find the expiration date, you might try checking the label more closely or taking another picture with better focus on the text. If it's still unclear, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 36,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_36.jpg"
+            },
+            {
+                "turn": 37,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is blurry, making it difficult to read the text on the label of the small bottle with a green cap. The expiration date is not visible in this image. To find the expiration date, you might try taking another picture with better focus and lighting, specifically targeting the area where the expiration date might be printed. If it's still unclear, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 38,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_38.jpg"
+            },
+            {
+                "turn": 39,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is still blurry, making it difficult to read any text on the label of the small bottle with a green cap. The expiration date is not visible in this image. To find the expiration date, you might try taking another picture with better focus and lighting, specifically targeting the area where the expiration date might be printed. If it's still unclear, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 40,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_12_40.jpg"
+            },
+            {
+                "turn": 41,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is blurry, but it appears to show a label with the text \"Zyrtec\" on it, which is a brand of allergy medication. However, the expiration date is not visible in this image. To find the expiration date, you might try taking another picture with better focus and lighting, specifically targeting the area where the expiration date might be printed. If it's still unclear, you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 42,
+                "text_usr": "User:Good",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 43,
+                "text_usr": null,
+                "text_ai": "Be My AI:If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "binary"
+            ],
+            "question_category": "Locational/retrieval",
+            "in_a_hurry": "maybe",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "5"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the interior of a pharmacy. There are two people standing at the pharmacy counter. One person, a man wearing a green jacket and jeans, is at the counter speaking with a pharmacy staff member. The staff member is behind a protective glass partition. Another person, a woman wearing a pink coat and a face mask, is standing a few feet away, holding a piece of paper. Behind the counter, there are shelves filled with various medications. There is a sign hanging from the ceiling that reads \"Patient Counseling.\" A sign on a pole near the counter indicates \"Line Starts Here.\" The floor is tiled, and the lighting is bright with fluorescent ceiling lights.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What direction is the sign?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The \"Patient Counseling\" sign is hanging from the ceiling and is facing towards the front of the pharmacy counter, making it visible to people approaching the counter.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What direction is the start of the line?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The \"Line Starts Here\" sign is positioned on a pole near the counter, indicating that the line should form in the direction towards the counter where the pharmacy staff is located.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Where is it oriented from my location?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:From your location, which appears to be near the person in the pink coat, the \"Line Starts Here\" sign is oriented to your right, closer to the counter where the man in the green jacket is standing.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Good feedback",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found the information helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "4"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows two cats lying on a bed with a purple and white floral-patterned comforter. One cat is black with a white patch on its chest, and it appears to be grooming the other cat. The second cat has a tabby pattern with a mix of grey and brown fur and a white patch on its hindquarters. The room is dimly lit, and in the background, there is a wooden dresser with various items on top, including a white cylindrical object and some clothes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What kind of clothes are under dresser?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The clothes under the dresser appear to be a mix of items, but due to the dim lighting and the way they are piled, it's difficult to distinguish specific types of clothing. They seem to be casually stacked or piled, possibly including shirts or other soft garments.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Do the cats look happy?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cats appear to be comfortable and content. The black cat is grooming the tabby cat, which is often a sign of affection and bonding between cats. This behavior suggests that they are relaxed and happy in each other's company.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Is the photo social media worthy?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The photo captures a sweet and affectionate moment between the two cats, which many people find appealing and shareable on social media. The image's cozy and intimate setting, along with the cats' interaction, makes it a good candidate for sharing with others who appreciate pet photos.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "1"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a section of a store with a glass door on the right side. The door has a sign that reads \"GROOMING\" with a pair of scissors icon. Below that, there is a promotional text: \"New Customer Welcome Package Save up to 20% Perfect for your new puppy or dog.\" Another line reads, \"We bathe & groom cats Book now with our safety-certified cat stylists.\" The store hours are listed as follows:\n- Monday to Friday: 7-9\n- Saturday: 7-9\n- Sunday: 8-6\n\nThe door is decorated with heart-shaped stickers. On the left side of the image, there is a shelving unit with what appears to be pet beds or cushions stacked on it. The wall and floor are beige-colored.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "3"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows two orthopedic mattresses for pets on a store shelf. The top mattress is a \"Top Paw Orthopedic Mattress\" with a label indicating it is \"Large\" size, measuring 36 inches by 27 inches by 3.5 inches. The mattress has a thick, plush top and is machine washable. The label also features a picture of a dog lying comfortably on the mattress. The bottom mattress is similar but is labeled as \"X-Large\" size, measuring 40 inches by 30 inches by 4 inches. Both mattresses have a soft, white, fleece-like top surface and a gray fabric side.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_17_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a \"Top Paw Orthopedic Mattress\" for pets. The mattress has a soft, white, fleece-like top and a blue fabric side. The label on the mattress indicates it is \"Medium\" size, measuring 29 inches by 22 inches by 4 inches. The label also highlights features such as a thick supportive base and that it is machine washable. There is an image of a dog lying comfortably on the mattress, and a circular icon stating \"Comfortably Cushions Joints.\" A hand is holding the mattress, and a dog leash is visible in the hand.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:How much is the medium dog bed?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The price of the medium dog bed is not visible in the image. You might want to check the store's website or ask a store employee for the price. Alternatively, you can press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(correct)"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "4"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a section of a couch or sofa. There are two cushions visible: one is a light brown color with a subtle herringbone pattern, and the other is a fluffy, light gray cushion. The sofa itself appears to be upholstered in a gray fabric. In the foreground, there is a price tag attached to the edge of the sofa. The price tag reads:\n\n\"TP PEARL\nDT 108/90 DUAL LANG GREY TEXTR F20\n$699.99\nUPC 03277579943\n53220691\"\n\nAbove the price tag, there is a small section of a cream-colored surface, possibly part of the sofa's frame or a shelf.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does the price actually say $69.99?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the price on the tag actually says $69.99.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_18_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a similar view as before, with a closer look at the price tag. The price tag indeed shows \"$69.99\" as the price. The tag reads:\n\n\"TOP PAW\nDT 108/90 DUAL LANG GREY TEXTR F20\n$69.99\nUPC 03277579943\n53220691\"\n\nThe rest of the image shows the same brown cushion with a herringbone pattern and a fluffy gray cushion, along with a metal grid structure underneath them.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_18_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a label attached to a dog bed. The label reads:\n\n\"TOP PAW\nORTHOPEDIC\nCUDDLER\nDOG BED \u2022 LIT POUR CHIEN\n\nTHICK SUPPORTIVE FOAM\nMACHINE WASHABLE COVER\"\n\nThere is also a circular icon on the right side of the label that says \"COMFORTABLY CUSHIONS JOINTS.\" The dog bed has a gray fabric with white stitching and a soft, fluffy interior.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a dark blue car parked along a curb with a yellow line. The car's driver-side window is partially visible, and there is a person inside the car, wearing a hat and glasses, looking towards the camera. The reflection of another person can be seen on the car's window. In the background, there are several parked cars and a few people walking, including a person with a dog. The foreground shows a small section of a sidewalk with red bricks and a piece of metal fencing.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What kind of car?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The car appears to be a Honda CR-V.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a hand holding a dark-colored bottle with a label. The label has text on it, but the image is blurry, making it difficult to read the text clearly. The lighting is dim, which also affects the visibility of the details on the label. If you need more information, you might try taking another picture with better focus and lighting.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How can I improve the picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:To improve the picture, try the following:\n\n1. Ensure there is good lighting. Natural light or a well-lit room can help.\n2. Hold the camera steady to avoid blurriness.\n3. Move closer to the label to capture the text clearly, but ensure the camera can still focus.\n4. Use the camera's autofocus feature, or tap on the screen where the text is to focus manually.\n5. Avoid using zoom, as it can reduce image quality.\n6. If possible, use a camera with a higher resolution.\n\nTaking these steps should help capture a clearer image of the label.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_20_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is still quite blurry, making it difficult to discern any details or text on the label. To improve the clarity, try the following:\n\n1. Ensure the camera lens is clean.\n2. Hold the camera steady or use a tripod if available.\n3. Increase the distance slightly between the camera and the label to help the camera focus better.\n4. Make sure there is sufficient lighting, such as using a flashlight or moving to a brighter area.\n5. Try using the camera's autofocus by tapping on the screen where the label is.\n\nThese adjustments should help in capturing a clearer image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_20_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is still blurry, making it difficult to read the text on the label. Here are a few more tips that might help:\n\n1. Try stepping back a little and then zooming in slightly to see if the camera can focus better.\n2. Use a different camera or smartphone if available, as it might have a better autofocus feature.\n3. Ensure the label is flat and not curved, as this can help the camera focus more easily.\n4. If possible, use a camera app with a manual focus option to adjust the focus manually.\n\nIf these suggestions don't work, you might consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_22": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_22_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a room where two walls meet. The walls have a two-tone color scheme with the upper portion painted in a light cream or off-white color and the lower portion in a beige or light tan color. There is a white chair rail molding separating the two colors horizontally. The floor appears to be covered with a dark brown carpet. The walls have some scuff marks and slight imperfections visible on the surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does the paint job appear to be messed up?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The paint job appears mostly clean, but there are some visible scuff marks and slight imperfections on the wall. Additionally, there is a noticeable patch or unevenness in the paint on the upper portion near the corner, which might suggest a touch-up or an area where the paint is not perfectly smooth. If you need more detailed guidance, you might consider pressing the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_23": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_23_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a person holding a package of frozen food. The package is labeled \"Great Value\" and appears to be a product of shredded potatoes. The text on the side of the package reads \"KEEP FROZEN serving suggestion\" and \"NET WT 22.5 OZ (1 LB 6.5 OZ) 638g\". The package is on a dark countertop, and the person holding it is wearing a pink shirt and black pants, with bare feet visible at the bottom of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the cooking directions?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_23_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the back of the package with cooking instructions. However, the text is too small and not fully visible in the image. You might need to take a closer picture or a higher resolution image to read the cooking directions clearly. Alternatively, you can press the \"Call a volunteer\" button for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_23_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cooking directions on the package are as follows:\n\nOven Instructions:\n1. Preheat oven to 450\u00b0F.\n2. Arrange frozen product in a single layer on a 11\" x 17\" baking sheet.\n3. Bake for 15-20 minutes, turning halfway through cooking time.\n\nFor food safety and quality, follow these instructions. Keep frozen until ready to use. Do not thaw.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_24": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_24_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a package of Applegate Naturals Chicken & Maple Breakfast Sausages. The packaging features an image of the sausages in a skillet with some vegetables. The text on the package highlights that the chicken is raised with \"No Antibiotics Ever\" and that the product contains no nitrates or nitrites, and is gluten and casein free. There is also a note at the bottom mentioning that the product is minimally processed and does not contain artificial ingredients.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Cooking directions",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_24_4.jpg"
+            },
+            {
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The heating instructions on the package are as follows:\n\nSkillet (Preferred): Place frozen sausages in a skillet. Cover and heat over medium heat, turning occasionally, until heated through, about 8-10 minutes. Thawed sausages will take less time.\n\nMicrowave: Place sausages on a paper towel on a microwave-safe plate. Microwave on high for the time indicated below or until heated through:\n- 3 sausages: 1 \u00bd minutes\n\nPlease note that appliances may vary, so these times are approximate.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_25": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_25_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the back of a packet with nutritional information and cooking instructions. The packet is for a fajita seasoning mix. \n\nThe nutritional facts section states:\n- Serving size: 2 tsp (6g)\n- Servings per container: About 6\n- Calories per serving: 10\n- Total Fat: 0g\n- Sodium: 250mg\n- Total Carbohydrates: 2g\n- Protein: 0g\n\nThe section titled \"FAJITA\" includes a list of ingredients you will need and directions for preparing the fajitas. \n\nThe \"YOU WILL NEED\" section lists:\n1. 1 lb. boneless skinless chicken breasts, cut into thin strips\n2. 1 medium bell pepper, cut into thin strips\n3. 1 medium onion, cut into thin strips\n4. 2 tbsp. oil\n5. 1 package seasoning mix\n6. 8 flour tortillas (8-inch)\n\nThe \"DIRECTIONS\" section provides steps for cooking:\n1. Heat oil in a large skillet on medium-high heat. Add chicken; cook and stir 3 minutes or until lightly browned.\n2. Add bell pepper, onion, and seasoning mix; cook and stir 3 to 5 minutes or until chicken is cooked through and vegetables are tender.\n3. Spoon into warm tortillas. Serve with desired toppings.\n\nThere is also a section with \"TIPS\" and a note stating \"NO MSG ADDED\".",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_26": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Ask for advise, Description, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_26_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a snow-covered area at night. There is a building in the background with a small balcony or platform, and a door is visible on the building. A tree without leaves is on the right side of the image, casting a shadow on the snow. The snow appears undisturbed, with a circular object slightly protruding from it, possibly a manhole cover or similar feature. The shadow of a fence or railing is visible in the foreground, cast onto the snow. The overall scene is dimly lit, suggesting it is nighttime.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does it look safe to walk outside?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The snow appears to be undisturbed and even, which might suggest that it is relatively safe to walk on. However, it's difficult to assess the depth of the snow or any hidden obstacles beneath it from the image. Additionally, the lighting is dim, which could make it challenging to see potential hazards. If you're considering walking outside, it might be best to proceed with caution or seek assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:If you were to guess, how deep is the snow?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to accurately determine the depth of the snow just from the image. The snow appears to be evenly spread, but without any clear reference points like footprints or objects partially buried, it's challenging to estimate its depth. It could range from a light dusting to several inches. For a more precise assessment, you might want to check with someone who can physically inspect the area.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Does the snow appear to cover most of the walking areas?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the snow appears to cover most of the visible ground area in the image, including what seems to be the walking areas. The snow looks evenly spread across the scene, suggesting that any paths or walkways are also covered.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_27": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_images/image_27_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A dark gray SUV is parked on a wet asphalt surface. The vehicle's front half is visible, with the driver's side window open and a person sitting inside. The SUV has modern alloy wheels. In the foreground, there are white painted lines on the asphalt, forming a geometric pattern. The background shows some greenery and another parked vehicle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What kind of car?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The car is a Toyota, as indicated by the logo on the wheel hub.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Is it an Uber?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are no visible signs or stickers indicating that this vehicle is an Uber.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:What what model?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The vehicle appears to be a Toyota RAV4, based on its design and features.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

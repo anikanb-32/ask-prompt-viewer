@@ -1,0 +1,386 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop screen displaying a login page. The background is a colorful gradient of orange and yellow hues. In the center of the screen, there is a circular profile picture of a cartoon-style female character with long dark hair. Below the profile picture, the name \"[PII removed]\" is displayed. Underneath the name, it says \"Touch ID or Enter Password.\" At the bottom of the screen, there is a \"Cancel\" button. The laptop is placed on a wooden table, and in the background, there is an indoor setting with a ceiling featuring recessed lighting and a red and white color scheme.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hallway in what appears to be a building interior. The floor is covered with a gray carpet, and there is a red circular pattern on the left side. On the right side, there is a wall with a light switch and a thermostat or control panel mounted on it. There are glass doors along the wall, leading to what seems to be a room or office space. In the background, there are some chairs with red accents, possibly part of a seating area. The lighting is bright, and the ceiling has recessed lights.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_2_3.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a section of a hallway with a focus on a glass door. The floor is covered with a gray carpet, similar to the previous image. On the wall next to the door, there is a light switch at the top and a rectangular button below it with a wheelchair symbol and the text \"PUSH TO OPEN.\" Below that, there is an electrical outlet. To the left, part of a red and black chair is visible, along with a dark wooden piece of furniture. Through the glass door, a shiny black tiled floor is visible, leading into another area with a different flooring pattern.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:Very helpful",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found it helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "User:Less details, but just tell me what is very close to me",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Very close to you is a wall with a light switch, a button with a wheelchair symbol labeled \"PUSH TO OPEN,\" and an electrical outlet.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "User:I need to know where there\u2019s an electrical outlet",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is an electrical outlet on the wall, located below the button with the wheelchair symbol that says \"PUSH TO OPEN.\"",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_2_11.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is a fire extinguisher in a wall-mounted cabinet very close to you. Above the cabinet, there is a thermostat or control panel and a switch on the wall.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_2_13.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is an electrical outlet on the wall, located below a button with a wheelchair symbol labeled \"PUSH TO OPEN.\" Above the button, there is a light switch. These are positioned next to a glass door.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 15,
+                "text_usr": "User:I found the electrical outlet, thank you for the detail",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! I'm glad you found it. If you need any more assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a package of Lipton Cup-a-Soup. The flavor is \"Cream of Chicken Flavor with other Natural Flavors.\" There is an image of a cup filled with creamy yellow soup with small green herbs on top. The text \"Serving Suggestion\" is also visible on the package.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:Tell me what the nutritional facts are",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not clearly show the nutritional facts. If you need detailed information, you might want to check the side or back of the package, or you could press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_3_5.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image shows another side of the Lipton Cup-a-Soup package. The text on this side reads \"Relax and take a Cup-a-Soup Break...\" followed by \"Warm Soothing Satisfying.\" There is an image of a cup filled with noodle soup and a piece of bread or cracker next to it. The nutritional facts are not visible in this image. You might need to check another side of the package for that information.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_3_7.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Here are the nutritional facts from the package:\n\nServing Size: 1 envelope (17g) (makes 8 fl oz prepared)\nServings Per Container: 4\n\nAmount Per Serving:\n- Calories: 70\n- Calories from Fat: 15\n\n% Daily Value*:\n- Total Fat: 1.5g (2%)\n  - Saturated Fat: 1.5g (8%)\n  - Trans Fat: 0g\n- Cholesterol: 0mg (0%)\n- Sodium: 620mg (26%)\n- Total Carbohydrate: 12g (4%)\n  - Sugars: 1g\n  - Dietary Fiber: 0g (0%)\n- Protein: 0g\n\nVitamin A: 0%\nVitamin C: 0%\nCalcium: 0%\nIron: 0%\n\n*Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 9,
+                "text_usr": "User:I want to lose weight, will this work for me?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Whether this soup will help you lose weight depends on your overall diet and lifestyle. The soup is relatively low in calories, but it is high in sodium, which might not be ideal if you're watching your salt intake. It's important to consider the nutritional content of your entire diet and to balance it with physical activity. Consulting with a healthcare provider or a nutritionist can provide personalized advice tailored to your specific needs and goals.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 11,
+                "text_usr": "User:Yeah, usually these packages are very high in sodium, thanks for pointing that out",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! Yes, packaged soups often contain a lot of sodium, so it's good to be mindful of that. If you're looking to reduce sodium intake, you might consider making homemade soups where you can control the ingredients. If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a wooden table with a few items on it. In the foreground, there is a pair of white earphones with a tangled cord. To the left, there is a strap of a bag or purse with a metal buckle. In the center of the image, there is an open laptop displaying a document on its screen. The text on the screen is not clear enough to read. To the left of the laptop, there is a small box, possibly a pack of tissues or a snack, and a round mesh container. In the background, there are more tables and chairs, and a door is visible on the right side of the image. The setting appears to be a study or meeting area, possibly in a library or office.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_4_3.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a wooden table with several items on it. In the foreground on the left, there is a box of Lipton Cup-a-Soup. Next to it, there is a black mesh container, which is empty. In the middle of the table, there is a clear acrylic sign holder with a piece of paper inside. The text on the paper is not fully visible, but it appears to have some decorative elements. Further down the table, there is another black mesh container and a larger sign holder with a paper that reads \"Student Involvement Suite Hours of Operation: Spring 2023\" with more details below. On the right side of the image, partially visible, is a black smartphone and a pink object, possibly a phone case or a small notebook. In the background, there are wooden chairs and a door. The setting appears to be a communal or study area.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "User:I want to know if there are any cups with liquids near the Lipton soup because I don\u2019t want to spill anything",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are no visible cups with liquids near the Lipton soup box on the table. The area around the soup box appears clear of any cups or open containers that might spill.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": "User:Okay",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 9,
+                "text_usr": "User:This is most helpful because I was only focused on finding the Lipton soup box",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help! If you need any more assistance or have other questions, just let me know.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a spacious indoor area that appears to be a lounge or study space. There is a long wooden table with several wooden chairs along its sides. On the table, there are small signs placed in holders and some black mesh baskets. In the background, there are modern-style couches in black and red colors arranged in a seating area. The ceiling has a grid pattern with recessed lighting, and there is a red curved design element on the ceiling above the table. The space is well-lit, and there are large windows and glass doors on one side, allowing natural light to enter. There are also some upholstered chairs and a whiteboard visible in the background.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:I am specifically looking for my rigid straight, white cane that does not fold, it will have a sneaker charm near the top of the handle",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I can't see a white cane with a sneaker charm in the image provided. It might be helpful to check around the seating areas, under the table, or near the entrance. If you need further assistance, you might consider pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_5_5.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, I still don't see a white cane with a sneaker charm. The photo shows a closer view of the seating area with black and red couches and a wooden chair in the foreground. It might be helpful to check around the couches or under them. If you need more assistance, consider pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_5_7.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is a pillar in the foreground with a thermostat and an electrical outlet on it. Behind the pillar, there are black and red couches arranged in a seating area. Unfortunately, I still don't see a white cane with a sneaker charm. It might be helpful to check around the couches or behind the pillar. If you need further assistance, you might consider pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P8_inlab_images/image_5_9.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, I can see a white cane leaning against the long wooden table. It appears to have a sneaker charm near the top of the handle. It looks like you have found your cane.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 11,
+                "text_usr": "User:Thank you for helping me find my white cane, I feel triumphant",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! I'm glad you found your cane. If you need any more assistance, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

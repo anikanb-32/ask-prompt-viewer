@@ -1,0 +1,1218 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a room, likely a kitchen or utility area. There is a white chest freezer with a silver trash can in front of it. On top of the freezer, there are two plastic water bottles and a bottle of wine. To the right, there is a countertop with a dish rack holding some metal pots and a few other kitchen items. Below the counter, there are some bags and boxes, including a blue bag and a box labeled \"Scented Kitchen.\" The walls are plain and light-colored, with a light switch visible on the left side.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Tell me less",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a white chest freezer with a trash can in front of it. On top of the freezer are two water bottles and a wine bottle. To the right, there's a dish rack with some kitchen items.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_2_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bed with a decorative, dark wooden headboard that has intricate carvings. The bed is made with a white sheet, and there are two pillows with blue and white paisley patterns, along with two beige pillows behind them. A dark purple robe or garment is laid out on the bed. The room has plain light-colored walls, and there is a small black object, possibly a speaker or electronic device, partially visible on the right side near the headboard.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a box on the bed?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there appears to be a small, transparent box or container on the bed, positioned between the two pillows with the paisley patterns.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a living room setting. There is a white ceiling fan with four blades and three light fixtures at the top of the image. Below the fan, a framed picture is hanging on the wall. The picture appears to be a depiction of the Last Supper, with a long table and several figures seated around it.\n\nIn the center of the image, there is a sofa covered with a dark red quilted throw. The sofa has two large decorative pillows with a black and beige damask pattern and fringed edges, one on each side. In the middle of the sofa, there is a smaller dark purple pillow. A colorful object, possibly a toy or piece of fabric, is also on the sofa.\n\nTo the left of the sofa, there is a white cane leaning against the wall, and in front of the sofa, there is a white ottoman or footstool. The walls are painted a light color, and the room has a simple and cozy appearance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Tell me more about the white King",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:In the image, the white cane is leaning against the wall to the left of the sofa. It appears to be a mobility aid, likely used for assistance in walking or navigating spaces. The cane is primarily white with a black handle and a black tip at the bottom. It is positioned upright, resting against the wall and the arm of the sofa.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "task_completed": "yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a living room with a young man standing barefoot on a carpeted floor. He is wearing a dark t-shirt and pants. Behind him, there is a large flat-screen TV displaying a scene with a young man with curly blonde hair looking downwards, possibly from a movie or show. The TV is placed on a cabinet that has decorative items on top, including a framed picture. To the left of the young man, there is a striped armchair with cushions and a mirror on the wall. There are also two light-colored chairs positioned in front of the TV cabinet. The room has a warm and cozy atmosphere with various decorative elements.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there enough light?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The room appears to be dimly lit, with most of the light coming from the TV screen. The overall lighting is not very bright, which might make it a bit difficult to see details clearly in the room.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "task_completed": "yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a small kitchen area. On the left side, there is a white refrigerator with a broom leaning against it. Above the refrigerator, there are wooden cabinets. On top of these cabinets, there are various items including a large glass jar, a bag of chips, a canister, and a kitchen appliance that looks like a rice cooker or pressure cooker. \n\nTo the right of the refrigerator, there is a countertop with a few items on it, including a couple of travel mugs and a utensil holder with various kitchen tools. Below the countertop, there is a white dishwasher. Next to the dishwasher, there is a sink with a bottle of distilled water and some sponges on the counter. The floor is covered with light-colored tiles.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the picture taking during the day or night?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The picture appears to be taken indoors without any visible windows, so it's difficult to determine whether it was taken during the day or night based solely on the image. The lighting seems to be artificial, which doesn't provide a clear indication of the time of day.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a winter scene with a snow-covered ground and a few patches of exposed grass. In the foreground, there are some green bushes and a concrete walkway. Two large trees with bare branches are visible, one on the left and one on the right. In the background, there is a red car parked on a snow-cleared road, and further back, there are more trees and a grassy area. The sky is blue with some clouds, indicating a clear day.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there snow on the grass?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is snow covering the grass in the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a small playground area with a red and yellow play structure that includes a slide. The playground is surrounded by a border of wooden beams and is covered with wood chips. There is some snow on the ground, particularly around the edges of the playground area and on the grass. In the background, there are several apartment buildings and a parking lot with cars. The sky is partly cloudy, and there are bare trees without leaves, suggesting it might be winter or early spring.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there any bench where I can have a seat?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be a bench directly visible in the image. However, there is a structure that looks like it might be a bench or a similar seating area near the playground, but it's not entirely clear. You might want to explore the area further or press the \"Call a volunteer\" button for assistance in locating a bench.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a snowy street scene. In the foreground, there is a pile of snow on the side of the road. The road itself is clear of snow and has a pedestrian crosswalk marked with white stripes. Across the street, there is a wooden bus stop shelter with a bench inside. Behind the bus stop, there is a wooden fence and a mix of leafless trees and evergreen trees. The sky is clear and sunny, casting shadows of the trees onto the road.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is anyone sitting on the bench?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there is no one sitting on the bench inside the bus stop shelter.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_9": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_9_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a plastic container of pastries called \"Palmiers\" from Sugar Bowl Bakery. The packaging is clear, allowing you to see the palmiers inside, which are golden brown and have a heart-like shape. The label on the packaging reads \"Family Owned\" and \"Established 1984\" at the top, with \"Sugar Bowl Bakery\" in the center. Below that, it says \"Palmiers\" and describes them as \"Subtly Sweet & Perfectly Crisp French Pastry.\" The label also mentions \"Made with 5 Ingredients\" and the net weight is 32 oz (2 lb) 907 g. The packaging is placed on a white surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the ingredients?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not provide a clear view of the ingredients list. You might want to check the packaging for more details or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Maybe"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a Hamilton Beach microwave placed on a kitchen counter. The microwave's digital display is showing \"00:00\", indicating that it is not currently running. The control panel on the right side of the microwave has various buttons for functions like \"Popcorn\", \"Pizza\", \"Beverage\", \"Frozen Dinner\", \"Reheat\", and others, along with a numeric keypad. Above the microwave, there is a small device with a blue light on it, attached to the wall. To the right of the microwave, there is a box of Reynolds Wrap aluminum foil. The countertop and the wooden cabinet above the microwave are also visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is that a button to start the microwave and to stop it?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the microwave has a \"Start\" button and a \"Stop/Clear\" button on the control panel. The \"Start\" button is located at the bottom right corner, and the \"Stop/Clear\" button is located just above it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a jar of creamy peanut butter sitting on a black surface, likely a kitchen countertop or stove. The jar has a red lid and a red label. The label includes the text \"Creamy peanut butter by Lidl\" in white and yellow letters. It also mentions \"7g protein per serving\" and \"180 calories per 2 tbsp\" at the bottom. There are icons for social media platforms like Facebook, Twitter, and Instagram on the label, along with a barcode. The background shows wooden kitchen cabinets.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:If I want to lose weight, is this product goes for me?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:This creamy peanut butter contains 180 calories per 2 tablespoons, which is a typical serving size. Peanut butter can be part of a weight loss plan if consumed in moderation, as it is high in healthy fats and protein, which can help you feel full. However, it's also calorie-dense, so portion control is important. You might want to consider your overall daily calorie intake and nutritional needs. Consulting with a nutritionist or dietitian could provide personalized advice.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the entrance to a building with a brick exterior. There is a beige door with a silver door handle and a small decorative knocker. The door has the letter \"B\" on it. In front of the door, there is a doormat with snowflake designs and the words \"Let it Snow\" written on it. The area is covered by a wooden structure with beams and a lattice panel on the left side. The floor is made of wooden planks, and there is a ceiling light fixture above the door.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What is written on the door?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The door has the letter \"B\" on it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a living and dining area in an apartment. In the foreground, there is a dark wooden dining table with four chairs. On the table, there is a large vase with artificial flowers, a water bottle, and a decorative leaf-shaped item. To the right, there are some papers and a hat. \n\nIn the background, a person is sitting on a couch, looking at something in their hands. The couch has a plaid blanket and a couple of red cushions. Next to the couch, there is a small side table with various items on it, including a lamp. \n\nA large flat-screen TV is mounted on the wall, and there is a TV stand with some electronics and decorative items. The room is lit by natural light coming through sliding glass doors with vertical blinds. There is a patterned rug on the floor near the dining table, and a pair of flip-flops are on the carpet near the couch. A ceiling light fixture with a chain hangs above the dining table.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a TV in the background?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a large flat-screen TV in the background, mounted on the wall.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Locational/retrieval, NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a corner of a living room. There is a large flat-screen TV on the right side, placed on a dark-colored TV stand with drawers. Next to the TV stand, there is a black speaker or subwoofer on the floor. On top of the TV stand, there is a candle. \n\nTo the left of the TV, there is a small side table with a black frame photo, some books or cards, and a small electronic device with an antenna, possibly a router or modem. A floor lamp with a pleated beige lampshade stands behind the table. \n\nThe room has light-colored carpet flooring, and there is a sliding glass door with vertical blinds on the left side, allowing natural light to enter. Outside the glass door, part of a building and some trees are visible. A small section of a textured rug is visible in the bottom left corner of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I\u2019m looking for an ID card",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I don't see an ID card in the image. It might be helpful to check areas where you usually keep your personal items, such as drawers, wallets, or bags. If you need further assistance, you might consider pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_15": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_15_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen countertop with a Hamilton Beach blender prominently placed in the foreground. The blender has a glass jar with a black lid and a black base. The base has several buttons labeled with different functions, including \"Stop,\" \"Mix,\" \"Puree,\" \"Ice Crush,\" \"Smoothie,\" \"Pulse,\" and \"Clean.\" There is a power cord attached to the blender. To the left of the blender, there is a roll of paper towels and a gray bag. In the background, there are two people standing near a kitchen sink, with one person wearing a tie-dye shirt and the other wearing a light-colored shirt and plaid pants. There is a refrigerator and some kitchen cabinets visible as well.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there anything in the blender?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The blender appears to be empty.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a kitchen sink area. There is a stainless steel sink with two faucets and a soap dispenser. On the right side of the sink, there is a bottle of dish soap and a sponge holder with a yellow and green sponge. A dish towel is draped over the edge of the sink. To the left of the sink, there is a bottle of hand soap and a red container with a lid. Above the sink, there is a window with blinds partially open, allowing natural light to come in. Outside the window, you can see trees and a building. On the right side of the image, there is a knife block with several knives.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a parking lot?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, outside the window, there appears to be a parking lot with some cars visible.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention"
+            ],
+            "question_category": "Locational/retrieval, NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a cozy corner of a living room. There is a black leather L-shaped sectional sofa with several cushions and blankets on it. The cushions include a large light gray one with fringed edges, a smaller patterned one, and a red cushion. A plaid blanket with red, black, and white colors is draped over part of the sofa. There is also a leopard print blanket on the sofa. A remote control is placed on the plaid blanket. To the right, there are vertical blinds covering a sliding glass door, allowing some light to enter the room. The walls are painted a light color, and the floor appears to be carpeted.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I\u2019m looking for a purse",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I don't see a purse in the image. It might be helpful to check other areas of the room or perhaps another room where you might have left it. If you need further assistance, you could try taking another picture from a different angle or location.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Locational/retrieval",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a dimly lit room with a dark wooden dining table in the foreground. On the table, there is a woven table runner, a wallet or small purse, and a card that appears to be an ID or credit card. Behind the table, there are two dark-colored chairs with padded backs. In the background, there is a small desk or shelf with papers and a few other items on it. To the left, there is a piece of exercise equipment, possibly a treadmill or stationary bike. The walls are plain, and there is a faint shadow on the right side. The lighting is low, making it difficult to see details clearly.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Where is the ID card?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The ID card is on the dining table, placed on top of the woven table runner. It is positioned near the edge of the table, closer to the bottom of the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a waiting area, likely in a medical facility. There are several people sitting on chairs along the walls. On the left, two women are seated; one is wearing a black jacket and jeans, and the other is in a red jacket with a headscarf. They have a suitcase and a large orange bag next to them. On the right side, a man is walking past, wearing a green cap and a dark jacket. In the background, a woman is sitting in a chair, wearing a mask and holding a cane. There is a large banner that reads \"MAKE THE SWITCH Bowie Fairwood Medical Center IS NOW OPEN\" with some additional text and an image of a building. The floor is light-colored wood, and the ceiling has recessed lighting.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a front desk?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be a front desk visible in the image. The area shown seems to be a waiting area with chairs and people seated, but no front desk is in view.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "stranger",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the interior of a public space, possibly a hospital or a large office building. The floor is covered with light-colored tiles arranged in a staggered pattern. In the foreground, there are two people walking together; a man wearing a black jacket with a hood and blue jeans, and a woman wearing a brown sweater and blue jeans. In the background, there are several people walking around. On the left side, there is a man in a black coat and hat. In the center, there is a person walking away. On the right side, there is a man in a light-colored shirt near a vending machine area. There are also several kiosks or check-in stations, and a stand with hand sanitizer. The walls have informational signs and posters, and there is a \"WELCOME\" sign visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a front desk?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be a traditional front desk in the image. However, there are several kiosks or check-in stations on the right side of the image, which might serve a similar purpose for self-service check-ins or information. If you need assistance finding a front desk, you might consider pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_21": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Locational/retrieval",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_21_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the interior of an apartment building or similar structure. It features a small lobby area with a tiled floor and a blue rectangular mat placed on it. There are two brown doors visible, one on the left side and another at the top of a staircase. The staircase is made of dark material and leads to an upper floor. The walls are made of light-colored bricks. There are two ceiling lights providing illumination, and a fire alarm pull station is mounted on the wall. Additionally, there is a set of mailboxes on the wall to the left of the staircase. The image is taken from behind a glass door with a metal handle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:The handle on the door is left or right",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The handle on the door is on the right side.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_22": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_22_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hotel room or a similar setting. On the left side, there is a wall-mounted flat-screen TV displaying a woman with blonde hair wearing a blue dress. She appears to be speaking, and there is a pink orchid in the background. Below the TV is a dark wooden desk with two drawers, and on the desk, there is a TV remote and a small card or pamphlet. To the right of the desk, there is a lamp with a white shade providing light, and a brown bag is placed on the desk. Above the desk, there is a black and white canvas print of a building with columns and arched windows, possibly a government building. A chair with wheels is partially visible under the desk.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there any plugs on the wall",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are no visible electrical plugs on the wall in the image. The area around the desk and lamp does not show any outlets.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_23": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_23_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bottle of \"Essential Oils by Pantene\" Moisturizing Shampoo. The bottle has a pump dispenser and features an orange and white design with illustrations of citrus fruits and flowers. The text on the bottle describes the product as a nourishing nutrient formula with natural orange peel oil and shea butter, which helps to strengthen hair against damage and improve shine. The directions for use are to massage into wet hair, lather, and rinse. It is noted as a non-conditioning shampoo. The bottle also lists ingredients and is made by Procter & Gamble in the USA.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the ingredients?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The ingredients listed on the bottle are:\n\n- Water\n- Sodium Laureth Sulfate\n- Sodium Citrate\n- Cocamidopropyl Betaine\n- Sodium Xylenesulfonate\n- Fragrance\n- Sodium Chloride\n- Citric Acid\n- Sodium Benzoate\n- Sodium Salicylate\n- Polyquaternium-6\n- Tetrasodium EDTA\n- Sodium Hydroxide\n- Guar Hydroxypropyltrimonium Chloride\n- Panthenol\n- Panthenyl Ethyl Ether\n- Histidine\n- Methylchloroisothiazolinone\n- Methylisothiazolinone\n- Yellow 5\n- Red 33",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_24": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_24_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bottle of Pantene Essential Oils Moisturizing Conditioner. The bottle has an orange pump dispenser and is decorated with illustrations of citrus fruits and flowers. The label on the back provides information about the product, including its benefits and directions for use. It mentions that the conditioner is designed to provide natural moisture for healthy body and shine. The directions suggest massaging the conditioner into wet hair, focusing on the ends, and rinsing thoroughly. The label also lists the ingredients and contact information for the manufacturer, Procter & Gamble.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the benefits of using this product?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The benefits of using the Pantene Essential Oils Moisturizing Conditioner, as mentioned on the label, include providing natural moisture for healthy body and shine. The conditioner is designed to help improve hair's natural moisture balance, leaving it nourished and shiny.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_25": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_25_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a white plastic bottle with a red cap. The label on the bottle is primarily orange and blue. The visible text on the label reads \"Kirkland Signature Vitamin C\" and mentions benefits such as helping to neutralize cell-damaging free radicals and supporting the immune system. There are images of oranges and other citrus fruits at the bottom of the label. The bottle is placed on a white surface, and there is a small brown leaf or piece of debris next to it.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Can a diabetic take this medicine",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bottle contains Vitamin C supplements, which are generally safe for most people, including those with diabetes. However, it's important for individuals with diabetes to consult with their healthcare provider before taking any new supplements or medications to ensure they are appropriate for their specific health needs and conditions. If you have concerns, please consider reaching out to a healthcare professional.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_26": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_26_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a jar of Nutella, which is a hazelnut spread with cocoa. The jar has a white plastic lid and a label on the front. The label features the Nutella logo in bold red and black letters, and there is an image of a slice of bread with Nutella spread on it, along with some hazelnuts and a glass of milk. The label also includes nutritional information, stating \"200 calories per 2 tbsp\" and \"Net Wt 13 oz (371 g)\". The jar is placed on a white surface, and there is a small piece of brown paper or material on the surface in front of the jar. The background is a plain, light-colored wall.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is this good for someone who want to lose weight?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Nutella is a high-calorie spread, with 200 calories per 2 tablespoons, and it contains sugar and fat. While it can be enjoyed in moderation as part of a balanced diet, it may not be the best choice for someone who is trying to lose weight, especially if consumed in large quantities. It's important to consider portion sizes and overall dietary habits when aiming for weight loss. Consulting with a nutritionist or dietitian can provide personalized advice.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_27": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Ask for advise, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_27_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a bottle of lotion or body wash placed on a white surface against a plain wall. The bottle has a gold-colored cap and a turquoise label on the back. The label contains text and symbols, but the details are not fully legible from this angle. There is a barcode at the bottom of the label. The bottle appears to be a personal care product, possibly a daily nourishing body lotion. There is also a small piece of brown debris or leaf on the white surface in the bottom right corner of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is this good for dry skin?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bottle appears to be a daily nourishing body lotion, which is typically formulated to help with dry skin. However, without being able to read the specific ingredients or claims on the label, I can't confirm its suitability for dry skin. You might want to check the label for any mentions of moisturizing properties or ingredients known to help with dry skin, such as shea butter, glycerin, or hyaluronic acid. If you need more detailed information, you could try taking a closer picture of the label or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_28": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_28_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a commercial washing machine, specifically a \"Speed Queen Commercial Washer.\" The machine is white with a black panel displaying the brand name in orange and white text. On the left side of the panel, there is a digital display and several buttons for selecting wash options. On the right side, there is a blue payment system with a QR code and a message instructing users to \"Select Cycle and Then Make Payment.\" The washer is placed against a beige cinder block wall, and there is a countertop to the right of the machine.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a start button?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a green \"START\" button located on the left side of the control panel, below the digital display and the other selection buttons.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_29": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_images/image_29_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the top part of a Speed Queen commercial dryer. The control panel is visible, with a digital display showing the number \"1.60\" in green. There are several buttons below the display, but their labels are not clearly visible. The words \"Speed Queen Commercial Dryer\" are printed on the panel in orange and white. To the right of the panel, there is a blue payment system with a QR code and the text \"SELECT CYCLE AND THEN MAKE PAYMENT.\" Above the dryer, there is a metal pipe with some tape wrapped around it, and a rusted black pipe is attached to the wall, which is made of light-colored bricks.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there is clear space to inside the card for payment?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there appears to be a clear space on the blue payment system for inserting a card. The slot is typically located below the text and QR code area.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

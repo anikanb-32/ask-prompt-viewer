@@ -1,0 +1,573 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop, likely a MacBook, on a wooden surface. The screen displays a colorful abstract background with red, blue, and green waves. The time shown is 9:41, and the date is Monday, February 26. Below the time, there is a login screen with the name \"[PII removed]\" and a prompt to \"Enter Password.\" The keyboard is visible, and the laptop is open. In the background, there is a blurred view of a window and some clothing or fabric on the table.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an indoor hallway with a beige carpeted floor and white walls. On the left side, there is a large window with white curtains, and next to it, a glass door. The ceiling has a grid pattern with fluorescent lights. On the right side of the hallway, there are several framed pictures or posters on the wall, and a wooden bench is placed against the wall. Further down the hallway, there are some open cubicles with a coat hanging on a partition. In the foreground, there is a black trash bin with some text on it, but the full text is not visible.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:Where is the exit sign?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The exit sign is not visible in the image provided.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_2_5.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a presentation slide on a screen. The slide discusses visualization methods for large datasets and techniques to reduce interaction costs. To the left of the screen, there is a glass wall with a sign that reads \"2116 Conference Room.\" Behind the glass wall, there is a room with green chairs around a table and some office equipment, such as a printer. The floor is carpeted, and the ceiling has fluorescent lights. There is no exit sign visible in this image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_2_7.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an office area with cubicles. In the foreground, there are two gray upholstered chairs. Behind them, there are several cubicles with light gray partitions. Inside the cubicles, there are office chairs and desks, with some personal items like a paper bag and a small stack of papers. On the left side, there is a wooden door with frosted glass panels. Next to the door, there is a bulletin board with a poster on it. The floor is carpeted, and the lighting is from overhead fluorescent lights. There is no exit sign visible in this image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_2_9.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an office area with cubicles and office equipment. On the right side, there is a large printer or copier. Next to it, there is a decorative tapestry or fabric hanging with a design of mountains, trees, and a red sun. In the middle of the image, there is a small wooden shelf with some items on it. On the left side, there is a cubicle with a black jacket hanging on the partition. The floor is carpeted, and the ceiling has fluorescent lights. An exit sign is visible in the background, hanging from the ceiling in the middle of the hallway.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_2_11.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a set of glass double doors leading to another room. The doors have a horizontal push bar and are framed in metal. Behind the doors, there is a person standing and looking at a wall display. The display has a sign that reads \"California Innovation Services\" with some additional text and a logo. There is also a yellow caution sign on the wall. To the left of the doors, there is an easel with a blank whiteboard or poster. The floor in the foreground is carpeted, and the lighting is from overhead fluorescent lights. An exit sign is visible above the doors, indicating the direction of the exit.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 13,
+                "text_usr": "User:Thank you so much. I finally found the door. But this wasn\u2019t very helpful. Needed more direction.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm sorry for any confusion. If you need more detailed guidance or specific directions in the future, please feel free to ask, and I'll do my best to assist you. If you're ever in doubt, you can also press the \"Call a volunteer\" button for more immediate help.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an office space with a carpeted floor. In the foreground, there is a section of the carpet with a lighter strip running across it. To the right, there are high tables with bright green chairs. In the middle of the room, there is a large printer or copier. On the left side, there is a coat rack with a black jacket hanging on it. In the background, there is a wall with a large circular mural or artwork depicting a red sun and black mountains. The ceiling has several rectangular fluorescent lights. The space appears to be open and well-lit.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:What is to my left is there any doors?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:To your left, there are no visible doors in the image. Instead, there is a coat rack with a black jacket hanging on it and a bulletin board or notice board on the wall. The area appears to be open without any doors in that specific section.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:I only want to know about the exit door nothing else",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_3_6.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show an exit door. It captures a corner of the room with a glass wall or partition and a wooden chair with a purple cushion. The view is partially obstructed by a pillar, and there is no visible exit door in this image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a package of Lipton Cup-a-Soup. The flavor is \"Cream of Chicken Flavor with other Natural Flavors.\" The background is a reddish color, and there is an image of a bowl of creamy yellow soup with small green herbs scattered on top.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_4_3.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows another part of the Lipton Cup-a-Soup package. The text reads, \"and take a Cup-a-Soup Break...\" Below this, there are three words listed: \"Warm,\" \"Soothing,\" and \"Satisfying.\" The background is a mix of red and purple colors, and there is a partial image of a bowl of soup on the left side.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "User:Is there a nutrition facts on this side?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there are no nutrition facts visible on this side of the package. It mainly features promotional text and part of an image of a bowl of soup.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_4_7.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:This side of the package shows the microwave directions for preparing the soup. The text reads:\n\n1. Empty contents of one envelope into microwave-safe mug.\n2. Add 3/4 cup (6 oz) water; stir thoroughly.\n3. Microwave on HIGH 1 1/2 minutes or until boiling; stir.\n\nThere is a caution note at the bottom that says, \"Caution: cup and soup may be hot.\" The background features small illustrations of a mug and a microwave. There are no nutrition facts visible on this side.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 9,
+                "text_usr": "User:On this type of item, where is the nutrition facts?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:On items like this, the nutrition facts are typically found on the back or one of the side panels of the box. It is usually in a standardized format that includes information such as serving size, calories, and nutrient content. If you have the physical package, you might want to check the larger panels for this information. If you need assistance locating it, you could ask someone nearby or press the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_4_11.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image shows part of the nutrition facts label on the package. Here is the visible information:\n\n- Calories: 70\n- Calories from Fat: 15\n- Total Fat: 1.5g (2% Daily Value)\n- Saturated Fat: 1.5g (8% Daily Value)\n- Trans Fat: 0g\n- Cholesterol: 0mg (0% Daily Value)\n- Sodium: 620mg (26% Daily Value)\n- Total Carbohydrate: 12g (4% Daily Value)\n- Dietary Fiber: 0g (0% Daily Value)\n- Sugars: 1g\n- Protein: 1g\n\nThere are also percentages for Vitamin A, Vitamin C, Calcium, and Iron, but they are not fully visible in this image. The label includes a note that daily values are based on a 2,000 calorie diet.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a package with a red background. The visible text on the package includes the word \"Soup\" in large, white, cursive letters. Below that, in smaller white letters, it says \"Chicken Flavor\" and \"All Flavors.\" The package appears to be for a soup product. The background is a wooden surface.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:I am diabetic is this a good snack for me?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Based on the image, it appears to be a soup product, specifically chicken flavor. However, to determine if it's suitable for a diabetic diet, it's important to check the nutritional information, particularly the carbohydrate and sugar content. Since this information is not visible in the image, I recommend checking the packaging for nutritional details or consulting with a healthcare professional. If you need assistance with reading the nutritional information, you might consider asking someone to help or using a service that can provide that information.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_5_5.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a nutrition label, but it's a bit blurry. Here's what I can make out:\n\n- Sodium: 520 mg, which is 22% of the daily value\n- Total Carbohydrates: 12 g, which is 4% of the daily value\n- Dietary Fiber: 0 g\n- Sugars: 1 g\n- Protein: 1 g\n\nFor a diabetic diet, it's important to consider the carbohydrate content, which is 12 grams in this product. The sodium content is also relatively high, which might be a concern if you are watching your sodium intake. It would be best to consult with a healthcare professional to determine if this product fits into your dietary needs.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": "User:Is this OK for my high protein diet?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:This product contains 1 gram of protein, which is relatively low for a high-protein diet. If you're aiming to increase your protein intake, you might want to consider other options that are higher in protein, such as lean meats, fish, eggs, dairy products, legumes, or protein supplements. It's always a good idea to consult with a nutritionist or healthcare provider to ensure your diet meets your specific nutritional needs.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_6_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a partially visible laptop on a wooden surface, with the focus on a package of gummy worms. The package is white with a purple strip on the right side. It features an image of colorful gummy worms arranged in a circular pattern. The brand name \"Albanese\" is displayed in a red oval logo. The package also mentions that the gummy worms are gluten-free, fat-free, and low sodium.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:Is there a box of Lipton soup?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is no box of Lipton soup visible in the image. The only item present is the package of Albanese gummy worms.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_6_5.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a box of Lipton soup on the table. The box is red and features an image of a bowl of soup on the front. It is placed on a wooden table surrounded by orange chairs. In the background, there is a red refrigerator, a water cooler, and a computer monitor on a small table.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_7_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a wooden surface with a partial view of a candy package in the bottom left corner. The package has a purple border and displays the text \"12 FLAVOR MINI GUMMI WORMS\" in white letters. The design also includes a small portion of a logo with a red background and white text, but the full logo is not visible. The rest of the image is focused on the wood grain texture of the surface.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:Only looking for the Lipton soup, please do not add any other information or details",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I don't see any Lipton soup in the image. It only shows a partial view of a candy package. If you're looking for Lipton soup, you might want to check another location or image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_7_5.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with a red refrigerator, a white cabinet, a microwave, a coffee maker, and a water cooler. There are orange chairs and wooden tables in the foreground. I don't see any Lipton soup in this image. You might want to check inside the cabinets or the refrigerator if you're looking for it.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_7_7.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with a blue table, orange and green chairs, and framed pictures on the wall. There is a cardboard box on the table, but I don't see any Lipton soup in this image. You might want to check inside the box or other storage areas in the room.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_7_9.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with a wooden table, orange and green chairs, and a whiteboard on the wall. There are various papers and notes pinned to the wall. I don't see any Lipton soup in this image. You might want to check other areas or storage spaces in the room.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_7_11.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a wooden table with orange chairs around it. On the table, there is a box of Lipton soup. The box is red with an image of a bowl of soup on it. In the background, there are two computer monitors on a blue desk.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 13,
+                "text_usr": "User:We\u2019re on the table is the Lipton soup?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The Lipton soup box is located on the wooden table, near the edge closest to the camera. It is positioned slightly to the right side of the table.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 15,
+                "text_usr": "User:I only want that information nothing else",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:The Lipton soup is near the edge of the table closest to the camera, slightly to the right.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_8_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with several chairs and a table. There are five orange chairs lined up along the wall, with two green chairs in between them. The chairs are on wheels and have armrests. In the foreground, there is a table with a gray surface, and part of an orange chair is visible next to it. The floor is carpeted with a dark, speckled pattern. The wall behind the chairs is covered with various papers and posters, some of which appear to have colorful diagrams or images on them.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:Looking for keychain with five individual keys, and a gray or green and white item at the end Maybe a vegetable",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I can't see a keychain with keys or an item resembling a vegetable in the current image. You might want to check other areas or provide another picture for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_8_5.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is a wooden table with a light brown surface, and three orange chairs are visible around it. In the background, there are two computer monitors on blue desks. To the left, there is a water cooler with a large water jug on top. There are some posters and papers on the wall, including a colorful one behind the monitors. However, I do not see a keychain with keys or an item resembling a vegetable. You might want to check other areas or provide another picture for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 7,
+                "text_usr": "User:And my next picture only let me know about the keys nothing else",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Sure, please go ahead and share the next picture, and I'll focus on identifying the keys for you.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_8_9.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:I don't see a keychain with keys in this image. You might want to check other areas or provide another picture for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P2_inlab_images/image_8_11.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a keychain with five individual keys on a gray table. Attached to the keychain is a green and white item that resembles a small vegetable, possibly a piece of broccoli or cauliflower.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

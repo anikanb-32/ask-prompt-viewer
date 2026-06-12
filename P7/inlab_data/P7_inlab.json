@@ -1,0 +1,316 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop on a table in what appears to be a classroom or office setting. The laptop screen displays a login screen with a colorful background of orange and blue gradients. There is a circular profile picture of a cartoon avatar with the name \"[PII removed]\" below it. The text \"Touch ID or Enter Password\" is visible under the name, and there is a \"Cancel\" option at the bottom of the screen. In the background, there are several colorful sticky notes on a board or wall, a coat hanging on a chair, and a computer monitor on a desk. The room has a window with a view into another room.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an indoor hallway with a brown patterned carpet. On the left side, there is a glass door with a metal frame. The door has a sign that reads \"College of Information Studies\" with some additional text below it. Through the glass door, you can see a white hallway with a blue recycling bin in the distance. On the right side of the image, there is a wall with a large window that has white curtains drawn across it. The ceiling has fluorescent lights, and there is a red \"EXIT\" sign partially visible at the top left corner.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:Helpful",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found it helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:About how far away is the door?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The door appears to be a few feet away from the perspective of the photo, possibly around 6 to 10 feet. However, it's difficult to determine the exact distance without more context or reference points. If you need precise measurements, it might be helpful to have someone physically check it for you.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "User:Is the door open?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, the door is closed in the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hand holding a box of Lipton Cup-a-Soup. The flavor is \"Cream of Chicken with other Natural Flavors.\" The box is labeled as \"Instant Soup\" and indicates a net weight of 2.4 oz (68g) with 4 envelopes inside. In the background, there is a laptop on a wooden table.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:Give me more nutritional information about this product",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I can't provide the specific nutritional information from the image, as it doesn't show the back or side of the box where such details are typically listed. You might want to check the packaging for a nutrition facts label or consider looking up the product online for detailed nutritional information. Alternatively, you could take another picture of the relevant part of the box.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "User:What are the nutritional facts?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_3_6.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows part of the nutritional information, but it's not fully visible. To provide accurate details, it would be helpful to have a clearer picture of the entire nutrition facts label. If possible, please take another picture focusing on that section of the box.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_3_9.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Here are the nutritional facts from the box:\n\n- Serving Size: 1 envelope (17g)\n- Servings Per Container: 4\n- Calories: 60\n- Calories from Fat: 15\n\nAmount Per Serving:\n- Total Fat: 1.5g (2% Daily Value)\n  - Saturated Fat: 1g (5% Daily Value)\n- Cholesterol: 0mg (0% Daily Value)\n- Sodium: 620mg (26% Daily Value)\n- Total Carbohydrate: 12g (4% Daily Value)\n  - Dietary Fiber: 0g (0% Daily Value)\n  - Sugars: 1g\n- Protein: 0g\n\nVitamins and Minerals:\n- Vitamin A: 0%\n- Vitamin C: 0%\n- Calcium: 0%\n- Iron: 0%\n\nPercent Daily Values are based on a 2,000 calorie diet.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 11,
+                "text_usr": "User:Would this be good for my blood pressure?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:This soup contains 620mg of sodium per serving, which is 26% of the recommended daily value based on a 2,000 calorie diet. High sodium intake can contribute to increased blood pressure, so if you are managing your blood pressure, it might be advisable to monitor your overall sodium intake throughout the day. It would be best to consult with a healthcare professional or a nutritionist for personalized advice regarding your diet and blood pressure management.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a classroom or meeting room setting. There are several orange chairs with black armrests arranged around the room. In the foreground, there is a wooden table with a small box of \"Crayola\" crayons on it. The floor is carpeted with a speckled pattern. On the walls, there are various papers and posters, some with colorful sticky notes attached to them. A large whiteboard is mounted on the right wall, with faint writing or drawings on it. Above the whiteboard, there is a projection screen rolled up. The ceiling has fluorescent lights. In the right corner of the image, a person wearing a black and white striped shirt and blue jeans is partially visible, sitting on one of the orange chairs.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:I\u2019m looking for a box of snacks",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I don't see a box of snacks in the image. There is a small box of \"Crayola\" crayons on the table, but no visible snacks. If you need help finding a box of snacks, you might want to check other areas of the room or ask someone nearby for assistance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "User:Is there a box of snacks in the picture?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_4_6.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is a box on the table that appears to be a box of \"Crayola\" crayons, not snacks. There is also a cardboard box labeled \"Toshiba\" on the floor near the chairs, but it is not clear if it contains snacks. If you are looking for snacks, you might want to check other areas or ask someone nearby for assistance.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": "User:That is not a box of crayons that is a soup box",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:I apologize for the confusion. The box on the table is indeed a box of \"Nissin Cup Noodles\" soup. Thank you for pointing that out.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 10,
+                "text_usr": "User:Describe the image again",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a classroom or meeting room with several orange chairs with black armrests arranged around the room. In the foreground, there is a wooden table with a box of \"Nissin Cup Noodles\" soup on it. The floor is carpeted with a speckled pattern. On the walls, there are various papers and posters, some with colorful sticky notes attached to them. A large whiteboard is mounted on the right wall, with faint writing or drawings on it. Above the whiteboard, there is a projection screen rolled up. The ceiling has fluorescent lights. There is also a cardboard box labeled \"Toshiba\" on the floor near the chairs.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 12,
+                "text_usr": "User:I only care about the location of the box of snacks",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box of \"Nissin Cup Noodles\" soup is located on the wooden table in the foreground of the image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 14,
+                "text_usr": "User:What part of the table?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 15,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box of \"Nissin Cup Noodles\" soup is positioned near the edge of the table closest to the camera, slightly to the left side.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 16,
+                "text_usr": "User:The boxes on the right side of the table",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 17,
+                "text_usr": null,
+                "text_ai": "Be My AI:I apologize for the oversight. The box of \"Nissin Cup Noodles\" soup is actually positioned on the right side of the table, near the edge closest to the camera.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P7_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a classroom or meeting room setting. There are three large sheets of paper taped to the wall, each covered with colorful sticky notes. The sheets have headings, but they are not fully legible. The left sheet seems to have \"HEAD\" written on it, the middle one reads \"GIFTS of the WORLD,\" and the right one appears to say \"GIFTS of the HEART.\" Below the sheets, there are two computer monitors on a table. In the foreground, there is a table with a laptop open, displaying a document or webpage with text. To the right of the laptop, there are headphones and a water bottle on the table. There are orange chairs around the table, and a person is partially visible sitting on the left side, wearing a black and white jacket and jeans. A brown dog is partially visible at the bottom left corner of the image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:Are the headphones, Apple AirPods Max and is it between the laptop and the water bottle?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the headphones appear to be Apple AirPods Max, and they are positioned between the laptop and the water bottle on the table.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

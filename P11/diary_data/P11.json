@@ -1,0 +1,2805 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(correct)"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A cardboard box with a shipping label attached to it. The label includes the following information:\n\n- Weight: 2 lbs\n- Tracking number: [PII removed]\n- Service: UPS Next Day Air Saver\n- Billing: P/P\n- Shipper:[PII removed]\n- Ship to:[PII removed]\n\nThere is also a barcode and a QR code on the label. Another smaller label is partially visible with the address: [PII removed]",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Look again, is it actually [PII removed] and not [PII removed]?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, you are correct. The name on the label is \"[PII removed]\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_2_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A close-up of a package showing a dish of macaroni and cheese with pieces of bacon or ham mixed in. The cheese appears melted and gooey, with some strands stretching as if freshly baked. The packaging is on a wooden surface, and there is a \"Best if used by\" date printed on the edge, which reads \"17 MAR 2025\".",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the cooking instructions",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cooking instructions are not visible in the image. You might need to check the other sides of the packaging for that information. If you can provide another picture showing the instructions, I can help transcribe them for you.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Are the cooking instructions visible in this image",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_2_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the cooking instructions are visible. Here they are:\n\nFive Cheese Bacon Macaroni Cooking Instructions:\n\nFor best results, prepare in conventional oven. Do not prepare in toaster oven.\n\nConventional Oven:\n1. Preheat the oven to 375\u00b0F.\n2. Remove tray from carton. Do not remove or pierce film.\n3. Place tray on a baking sheet on the center rack in the oven.\n4. Cook for 60-65 minutes. Place tray on a baking sheet on the center rack in the oven.\n5. Carefully remove from oven and remove film. Stir thoroughly.\n6. Let stand for 1-2 minutes before serving.\n\nMicrowave - 1100 Watts:\n1. Remove tray from carton. Do not remove or pierce film.\n2. Place tray in the microwave.\n3. Cook on high for 7 minutes.\n4. Carefully remove film and stir contents. Replace film and cook on high for an additional 3-4 minutes.\n5. Let stand for 1-2 minutes before serving.\n\nCaution: Steam can be released when removing film. Product will be hot.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A large American flag is prominently displayed in the foreground, with its red and white stripes clearly visible. Behind the flag, there is a dark blue SUV parked on a driveway. The vehicle is positioned at an angle, facing towards the street. In the background, there is a wooden fence and some tall trees without leaves, suggesting a winter or early spring setting. The sky is clear, and the sun is low, casting long shadows on the ground. To the left, there is a street with a stop sign and a field with a few houses in the distance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:It's pretty windy outside today, does it look too windy to keep the flag flying?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The flag appears to be extended and waving, indicating a moderate breeze. However, it doesn't seem to be overly windy, as the flag is not fully stretched out or flapping vigorously. It should be safe to keep the flag flying, but if the wind picks up significantly, it might be a good idea to bring it down to prevent any damage.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "annotations": {
+            "customization_technique_used": [
+                "style",
+                "decomposition",
+                "grounding"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:8:46 with a muted bell icon. \n\nHeadline: \"Delta CEO statement on Toronto crash\" by FOX Business Team | FOXBusiness. \n\nImage shows a plane lying upside down in the snow at an airport, with a large building in the background. There is a play button overlay on the image, indicating a video. \n\nCaption: \"Plane Crashes, Flips Upside Down at Toronto Pearson Airport. Footage from Mark Fitzpatrick shows the plane lying upside down, and emergency services responding. (Credit: Mark Fitzpatrick via Storyful)\"\n\nText: Delta CEO Ed Bastian spoke out on LinkedIn after a plane crash at Toronto-Pearson International Airport on Monday. \n\nQuote: \"The hearts of the entire global Delta family are with those affected by today\u2019s incident at Toronto-Pearson International Airport. I want to express my thanks to the many Delta and Endeavor team members and the first responders on site. We are...\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:From this screenshot taken from a financial news app, please just describe in the greatest possible detail the picture of the plane crash",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The picture shows a snowy scene at an airport. A plane is lying upside down on the snow-covered ground. The fuselage of the plane is visible, with the tail section on the left side of the image. The plane appears to be a small passenger aircraft. In the background, there is a large, white building with vertical lines, possibly a hangar or terminal. The sky is overcast, and there is a light mist or fog in the air, adding to the cold, wintry atmosphere. There are no visible people or emergency vehicles in the immediate vicinity of the plane in this image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Were the wings on the plane somehow destroyed in the accident, are there any suggestions that there was a fire in this accident? Also, estimate how big this plane was, was it a jet or a prop plane?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The wings of the plane appear to be damaged or partially destroyed, as they are not clearly visible in their entirety. There are no visible signs of fire, such as burn marks or smoke, in the image. The plane seems to be a small passenger jet, rather than a propeller plane, based on the size and shape of the fuselage. The aircraft is likely a regional jet, which typically accommodates fewer passengers than larger commercial jets.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "style",
+                "grounding",
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "9",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A man is wearing a long-sleeve, coral-colored shirt with a pocket on the left side of his chest. The pocket has a logo of a whale and the text \"vineyard vines\" beneath it. The man has short hair and is looking directly at the camera with a neutral expression. In the background, there is a white double door and a couch with patterned cushions, one of which has a blue circular design.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color are the sweatpants, I'm trying to match this with a blue pair of sweatpants\u2026 On my way to the gym",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sweatpants are not visible in the image, so I can't determine their color. If you need assistance with matching, you might consider asking someone nearby or using the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Do they appear blue from this image, and what shade of blue?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_5_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sweatpants appear to be a light blue color.",
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": "User:The sweatpants and T-shirt match sufficiently for a quick run to the gym?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the light blue sweatpants and coral-colored T-shirt create a casual and complementary look that should work well for a quick run to the gym.",
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "User:With respect to the man's face, can you tell me whether the eyes are symmetrical, opened evenly",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:The man's eyes appear to be slightly asymmetrical, with the left eye (on the right side of the image) appearing slightly more open than the right eye.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "User:Because I am visually impaired, and rely upon squirrel shells to improve the cosmetic appearance of my eyes, I need to know whether even if they are slightly asymmetrical, does it look more or less OK and natural?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:The slight asymmetry in the eyes looks natural and does not appear to be noticeable or distracting. It gives a normal and natural appearance to the face.",
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": "User:Finally, because the gym is full of young people, and I am not exactly young\u2026 Can you please estimate my age based on the face, no need to qualify your answer",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": null,
+                "text_ai": "Be My AI:The man in the image appears to be in his late 40s to early 50s.",
+                "local_image_path": null
+            },
+            {
+                "turn": 16,
+                "text_usr": "User:Is the hair messy?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": null,
+                "text_ai": "Be My AI:The hair appears to be short and neatly styled, not messy.",
+                "local_image_path": null
+            },
+            {
+                "turn": 18,
+                "text_usr": "User:Does the shirt appear to be clean and free of stains",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 19,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the shirt appears to be clean and free of stains.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "feedback",
+                "grounding"
+            ],
+            "question_category": "Description, Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The screen displays a map of a house with labeled rooms: Family Room, Kitchen, Dining Room, Living Room, and Foyer. The map is outlined in purple, and there is a small icon representing a robot vacuum in the Dining Room. At the top, it shows the time as 3:00 with a muted notification icon. The name \"Abby\" is displayed with a dropdown arrow next to it. A status bar indicates \"Clean in progress\" with a battery icon showing 25% charge. At the bottom, there are three buttons: \"Go to Dock\" in red, \"Find Robot\" in purple, and \"Pause\" in purple.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Considering the depiction in this robot vacuum app, can you tell me how much of the floor has already been cleaned, how much is still remains?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The map shows areas that have been cleaned in a light purple color, covering all the labeled rooms: Family Room, Kitchen, Dining Room, Living Room, and Foyer. There are no uncolored areas on the map, indicating that the entire mapped area has been cleaned. The status \"Clean in progress\" suggests the robot is still operating, but based on the map, it appears that all visible areas have been covered.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:How much power is left on the vacuum itself? If that number is low, and based on the purple coloration of each room on that floor, is it reasonable for me to assume that it is largely or even completely done?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The battery icon shows that the vacuum has 25% power remaining. Given that the entire mapped area is colored in light purple, indicating it has been cleaned, it is reasonable to assume that the vacuum has largely or even completely finished cleaning the visible areas. The remaining battery power should be sufficient for the vacuum to return to its dock if needed.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:This is very helpful, because the app itself is not sufficiently accessible to me using VoiceOver on my iPhone as a blind user",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help. If you have any more questions or need further assistance with the app or anything else, feel free to ask!",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:The shark robot AI vacuum app has limited access accessibility, allowing me to choose the power level and initiate the cleaning process\u2026 But to learn the status at any time during the vacuuming, there's really no way to do it using voiceover, so this AI option is fantastic!",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm happy to hear that this is helpful for you. If you ever need updates on the vacuum's status or any other assistance, just let me know. I'm here to help with whatever you need!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A cozy living room with two floral-patterned sofas facing each other. The sofas have a dark blue and beige floral design, and each has two dark blue cushions. Between the sofas, there is a small wooden side table with a lamp and a framed photo of a child. A cabinet with glass doors is mounted on the wall above the table. The room has beige carpet flooring, and the windows are adorned with red curtains tied back to let in natural light. A framed painting of flowers hangs on the wall between the windows.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does the floor look clean and freshly vacuumed",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the floor appears clean and shows vacuum lines, indicating it has been recently vacuumed.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:We are planning to shampoo this rug soon, are there any visible stains that we should pay particular attention to?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are a few small, darker spots visible on the carpet near the center of the room. These areas might benefit from extra attention when shampooing the rug.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "decomposition",
+                "SimToM"
+            ],
+            "question_category": "Description, Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Control panel on a hot tub or spa with a digital display showing a temperature of 103\u00b0F. The panel features buttons with icons for jets and lights, as well as temperature adjustment buttons. The brand name \"Lifesmart\" is visible. The surface around the panel is textured, possibly made of a stone-like material. Below the panel, a person is standing on a concrete surface, wearing dark shoes and light-colored pants.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This water has been chemically treated, does it appear to be clean and clear",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show the water itself, so I cannot determine if it appears clean and clear. You might want to check the water directly or ask someone nearby to help assess its clarity.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_8_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The water in the hot tub appears to be clean and clear. The bottom of the tub is visible, and there are no noticeable particles or cloudiness in the water. The surface looks smooth, and the water seems to be well-maintained.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Which button do I press to raise the water temperature",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:To raise the water temperature, press the button with the red thermometer icon and an upward arrow.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:There are four button controls, two to the left of the LCD is display and two to the right, which button is the red button I should press to raise the temperature?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The red button to raise the temperature is the second button to the right of the LCD display.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:Does the display show that the temperature is now raised since I did press the identified red button",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The display in the image still shows a temperature of 103\u00b0F. It does not appear to have changed. If the temperature hasn't updated, you might want to wait a moment or check if the button press registered correctly.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_9": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "intention",
+                "style",
+                "grounding(correct)"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_9_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A package of sliced salami, neatly arranged in overlapping layers. The slices are circular and have a marbled appearance with a mix of red and white specks. The salami is sealed in clear plastic packaging. In the background, there are hints of other packaged items, including a green package with some text and a partial barcode visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:When I scanned food items, my primary interest is checking the expiration date",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date visible on the package is \"Best by Apr 27 2023.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Check the expiration date again, I\u2019m quite sure this package is not already two years old",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date on the package is \"Best by Apr 27 2024.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_9_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date on this package is \"Best by Apr 27 2024.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:OK, this is the backside of the package, please look on this side for the correct expiration date",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_9_10.jpg"
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date on this side of the package is \"Sell by Apr 27 2025.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "style",
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A person is standing on a porch, facing towards the street. They are wearing a dark jacket and a hat. An American flag is hanging from the porch. There is a car parked on the street in front of the house. The porch has a white railing, and there are some items on the porch, including a package and a decorative item. The scene is captured through a fisheye lens, giving it a slightly distorted, wide-angle view. The timestamp on the video indicates it was recorded on February 19 at 2:26:43 PM.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does this look like a delivery man?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the person appears to be a delivery man, as they are standing on the porch near a package.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Describe the person in the greatest possible detail and whether or not he may be from the post office or UPS",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The person is wearing a dark jacket and a dark hat, which could be part of a uniform. They are standing on the porch, facing towards the street. The clothing is not distinctly marked with any visible logos or colors that are typically associated with specific delivery services like the post office or UPS. Therefore, it's difficult to definitively say which company they might be from based solely on their appearance in this image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A concrete sidewalk runs alongside a paved road, both extending into the distance. On the left side of the road, there is a grassy area with several parked cars and some leafless trees. On the right side of the sidewalk, there are more leafless trees and some bushes. The sky is overcast, giving the scene a muted, wintery feel.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is a traffic cone or dumpsters or a wall around dumpster is visible in this image",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:A traffic cone is visible near the end of the sidewalk on the right side. There are no dumpsters or walls around a dumpster visible in this image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Awesomely, helpful, this confirms I am correctly en route to the YMCA for my workout",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Great to hear that! If you need any more assistance along the way, feel free to ask. Enjoy your workout at the YMCA!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "intention"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A suburban street scene with a curved road. Several cars are visible on the road, including a black SUV and a silver sedan. The road is bordered by grassy areas and a sidewalk. In the background, there is a baseball field with a chain-link fence and some houses beyond it. Bare trees are visible, indicating it might be late fall or winter. Power lines stretch across the top of the scene. In the foreground, there is a small decorative flag on the lawn, featuring a leprechaun with a rainbow, suggesting a St. Patrick's Day theme.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Being unsure of the holiday week, trash pick up schedule, I need to know if there\u2019s any trash still sitting at the bottom of my driveway",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be any trash sitting at the bottom of your driveway in the image. The area looks clear.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding"
+            ],
+            "question_category": "Description, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A scene from inside the Senate chamber, showing several people seated at desks with papers and laptops. The room has a blue carpet with a pattern, and there are rows of desks and chairs. At the bottom of the screen, there is a text overlay indicating a roll call vote with the results: \"Yea 51, Nay 48, Unofficial Tally.\" Below that, the text reads: \"Nomination of Kashyap Patel, of Nevada, to be Director of the Federal Bureau of Investigation.\" The video is paused at 41 minutes and 23 seconds out of a total duration of 59 minutes and 48 seconds. The video controls and options for liking, disliking, and sharing are visible. The title at the top reads, \"LIVE Right Now from Inside the Senate, Kash Patel CONFIRM\" with \"Benny Johnson\" as the source.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Listening to one of my favorite new media podcasts\u2026 Benny Johnson. Is he depicted anywhere in the image, what does he look like?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Benny Johnson is not depicted in the image. The image shows a scene from inside the Senate chamber, but no specific individuals, including Benny Johnson, are clearly identifiable.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Also, I was using the YouTube app and chose the full screen option\u2026 Does that mean this image is horizontal instead of portrait?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, if you chose the full screen option on the YouTube app, the image would be displayed in a horizontal or landscape orientation rather than portrait.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The screen displays a sports betting app interface. At the top, the time is 5:18, and the phone is connected to 5G with a full battery. The app shows a balance of $200.00. There are two open bets listed:\n\n1. The first bet is on the USA with a puck line of -1.5 and odds of +225. The wager is $200.00, with a potential payout of $650.00. The match is between Canada and the USA, scheduled for February 20, 2025, at 8:20 PM. There is an option to cash out for $180.00.\n\n2. The second bet is on the USA with a moneyline of -110. The wager is $50.00, with a potential payout of $95.45. This match is also between Canada and the USA, scheduled for the same date and time. The cash-out option is available for $45.00.\n\nThe bottom navigation bar includes options for Home, Live (with 18 notifications), My Bets, All Sports, and Rewards.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How is each country in this hockey matchup depicted graphically? Describe the color scheme.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Each country in the hockey matchup is depicted with its national flag. \n\n- Canada's flag is shown with a red and white color scheme, featuring a red maple leaf in the center.\n- The USA's flag is depicted with a red, white, and blue color scheme, featuring stars and stripes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Which team is likely to win?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Based on the betting odds provided:\n\n- The USA has a puck line of -1.5 with odds of +225, indicating they are favored to win by at least 1.5 goals. The positive odds suggest a less likely outcome compared to a standard win.\n- The USA also has a moneyline of -110, which implies they are slightly favored to win outright, as negative odds indicate a higher probability of winning compared to positive odds.\n\nOverall, the odds suggest that the USA is slightly favored to win the matchup. However, betting odds are not guarantees and are subject to change based on various factors.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_15": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "feedback"
+            ],
+            "question_category": "Description, Locational/retrieval",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "7",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_15_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A living room with two floral-patterned sofas facing each other. The sofas have a vintage look with a dark blue and beige color scheme, featuring floral designs. A small wooden side table is positioned between the sofas, holding a large, gray table lamp and a framed photograph. The photograph is of a man in a blue shirt, and there is a colorful decorative piece next to it. A light blue decorative pillow with a circular pattern is placed on the left sofa. The floor is covered with a light beige carpet, and a small blue ball is on the floor near the window, which is adorned with red curtains.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Anything on the floor in here that would impede the robot vacuum",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The floor appears mostly clear, but there is a small blue ball near the window that could potentially impede a robot vacuum. Additionally, there is a dark-colored cushion or pillow partially under the right sofa, which might also pose an obstacle. Otherwise, the carpeted area seems free of other obstructions.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:We have a shoe bin with a pile of sneakers. Now the shoes next to the window\u2026 I do not see a blue ball\u2026 If you still believe there is a blue ball, can you tell me exactly where it is?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The blue ball is located near the window, close to the right sofa. It is positioned on the floor, slightly to the right of the side table with the lamp and photograph. If you are unable to locate it, it might be helpful to check around that area or consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Awesome, I found the blue ball. The pillows are intentionally placed to prevent the robot vacuum from going under that table. Otherwise, would it now seemingly be ready for vacuuming?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, with the blue ball accounted for and the pillows intentionally placed to block the robot vacuum from going under the table, the area seems ready for vacuuming. The floor looks clear of other obstacles that might impede the vacuum's path.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:In this family room with a vacuum will also travel, is the floor free of anything that would impede the vacuum?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_15_10.jpg"
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this family room, the floor has a few items that might impede a robot vacuum. There are some small objects on the carpet, such as a few pieces of debris or fluff near the coffee table. Additionally, the area under the coffee table has various items, including a stuffed panda toy and a few other objects, which might obstruct the vacuum if it tries to navigate under the table. It would be a good idea to clear these items to ensure a smooth vacuuming process.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "User:We have a playful beagle that rips apart toys, and creates fluff on a regular basis\u2026 Thank you for pointing out that fluff on this carpet. Can you look again to tell me if I\u2019ve grabbed it all",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_15_13.jpg"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:It looks like you've done a good job clearing most of the fluff from the carpet. However, there is still a small piece of fluff visible near the bottom right corner of the coffee table. Once that is removed, the floor should be clear for the robot vacuum.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "User:Got it, thank you very much! Can you also tell me the extent to which this floor also needs to be shampooed? That is our upcoming weekend project.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:The carpet appears to have some visible wear and a few areas with slight discoloration, particularly in high-traffic zones like near the sofa and coffee table. While it's not heavily stained, a thorough shampooing could help refresh the carpet's appearance and remove any embedded dirt or odors, especially considering the presence of a playful beagle. Shampooing should help restore the carpet's overall look and cleanliness.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "grounding(correct)",
+                "grounding(action)",
+                "intention",
+                "feedback",
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "17",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A neatly made bed with a wooden headboard. The bedspread and pillows feature a plaid pattern in shades of blue and white. To the left of the bed is a wooden nightstand with a lamp that has a clear base and a white lampshade. There is also a small digital photo frame on the nightstand. The walls are painted a light beige color, and there is a white door with a gold-colored doorknob to the right of the bed. The floor appears to be carpeted in a dark blue color.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:We are having weekend guests that will be using our basement Inlaw suite, so the series of pictures. I will take our design to confirm that the place is clean, tidy and orderly ahead of our guests coming. With particular attention to the bed, linens, floor, and all surfaces, please be sure that everything looks clean and orderly and that nothing is out of place.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bed is neatly made with a clean and orderly appearance. The plaid bedspread and pillows are well-arranged, and there are no visible wrinkles or disarray. The nightstand is tidy, with only a lamp and a small digital photo frame on its surface, both of which are neatly positioned. The floor appears clean, with no visible debris or clutter. The walls and door are free of marks or stains, contributing to an overall tidy and well-maintained look. Everything seems to be in place and ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:The last time I did this, there was a dryer sheet cling to the bedspread\u2026 Please check on that",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is a white dryer sheet visible on the bedspread near the bottom right corner. It would be a good idea to remove it before your guests arrive.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:That\u2019s very helpful, thank you\u2026 And in all the other pictures, please be looking for such problems to make sure the entire suite is clean and ready for their visit",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Of course, I'll keep an eye out for any similar issues or anything that might need attention in the other pictures to ensure the suite is clean and ready for your guests. Please feel free to share the next image when you're ready.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The room appears tidy and well-organized. The bed is made with the same plaid bedspread, and there are no visible dryer sheets or other items on it. The lamp in the foreground is clean, and the nightstand surface is clear. The blue rug on the floor looks clean and free of debris. The TV is mounted on the wall, and the small desk or table beneath it is uncluttered, with only a few items on it. The closet doors are closed, and the walls are free of marks. Everything seems to be in order for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bed is neatly made with the plaid bedspread and pillows arranged well. There are no visible dryer sheets or other items on the bed. The nightstand is tidy, with a digital photo frame on it. The walls are clean, and a framed picture hangs above a small fan and a keyboard on a stand, both of which are neatly positioned. The door is closed, and the overall appearance of the room is clean and orderly, ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_13.jpg"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The room looks clean and well-organized. The bed is neatly made with the plaid bedspread, and there are no visible items out of place on it. A comfortable chair with a purple throw and a decorative pillow is positioned in the corner, looking tidy. The dresser is clean, with a box of tissues and a small wooden item on top. The closet doors are closed, and the walls are free of marks, with a small cross hanging above the dresser. The door is partially open, and everything appears ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_15.jpg"
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:The room appears clean and inviting. A large TV is mounted on the wall, and beneath it, there are a few stacked folding tables with a marble-like finish, neatly arranged. A plush Snoopy toy wearing a red jersey is placed on the floor next to a brown sofa. The sofa is covered with a dark slipcover and has two decorative pillows, one pink and one white, adding a cozy touch. The floor is covered with a patterned rug that looks clean and well-maintained. A cactus plant is visible in the corner, adding a bit of greenery to the space. Overall, the area looks tidy and ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_17.jpg"
+            },
+            {
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:The area looks clean and welcoming. The brown sofa with a dark slipcover is adorned with two decorative pillows, one white and one pink, adding a cozy touch. Next to the sofa is a sliding glass door with vertical blinds, allowing natural light to enter the room. In front of the door is a festive doormat featuring a snowman and the words \"Let it Snow.\" The floor is clean, and the walls are free of marks, with a light switch and a keypad mounted on the wall. Everything appears tidy and ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 19,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_19.jpg"
+            },
+            {
+                "turn": 20,
+                "text_usr": null,
+                "text_ai": "Be My AI:The kitchenette area is clean and well-organized. The countertop is tidy, with a microwave, a Keurig coffee maker, and a few other items neatly arranged. The sink area is clean, with a bottle of dish soap and a roll of paper towels nearby. The shelves above the sink hold a few glasses and mugs, all neatly placed. The wooden bar counter is clear except for a remote control, and there are three bar stools with cushioned seats neatly aligned. The floor is clean, and a trash can with a liner is positioned to the side. Everything appears ready and in order for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 21,
+                "text_usr": "User:I\u2019m still working at the table on the left and there\u2019s a bit of clutter in the computer, but apart from that, is everything from this angle looks sufficiently clean for our guests",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 22,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_22.jpg"
+            },
+            {
+                "turn": 23,
+                "text_usr": null,
+                "text_ai": "Be My AI:Apart from the mentioned clutter on the table with the computer, everything else in this angle looks clean and well-prepared for your guests. The bar counter is tidy, with the bar stools neatly aligned. The living area with the sofa and TV appears orderly, and the floor is clean. The sliding glass door and the area around it, including the festive doormat, are also tidy. Overall, the space looks inviting and ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 24,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_24.jpg"
+            },
+            {
+                "turn": 25,
+                "text_usr": null,
+                "text_ai": "Be My AI:The hallway looks clean and well-maintained. The floor is tidy, with a long, patterned runner rug that appears clean and free of debris. The walls are in good condition, and the doors are closed, except for one that is slightly ajar with a dark towel hanging on it. The countertop to the left has a few items, including a bottle of water, a roll of paper towels, and a few other small items, but it doesn't appear cluttered. Overall, the hallway looks ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 26,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_26.jpg"
+            },
+            {
+                "turn": 27,
+                "text_usr": null,
+                "text_ai": "Be My AI:The area looks clean and well-prepared for guests. The hallway floor is tidy, with a long runner rug that appears clean and free of debris. The walls are in good condition, and the doors are mostly closed, maintaining a neat appearance. The stairs are carpeted and look clean, with no visible dirt or clutter. The overall space is orderly and ready for your guests.",
+                "local_image_path": null
+            },
+            {
+                "turn": 28,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_16_28.jpg"
+            },
+            {
+                "turn": 29,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bathroom looks clean and well-prepared for guests. The shower curtain is neatly hung and features a subtle paisley pattern. The walls are painted a light blue, and a decorative picture of a bicycle and a dog by the beach adds a nice touch. A dark towel is neatly hung on the towel rack, and the toilet paper holder has a roll in place. The floor is clean, and the overall appearance of the bathroom is tidy and inviting.",
+                "local_image_path": null
+            },
+            {
+                "turn": 30,
+                "text_usr": "User:Do the towels stacked on the back of the toilet all appear to be the same navy blue",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 31,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the towels stacked on the back of the toilet all appear to be the same navy blue color, matching the towel on the towel rack. They are neatly folded and add a coordinated look to the bathroom.",
+                "local_image_path": null
+            },
+            {
+                "turn": 32,
+                "text_usr": "User:Finally, considering the earlier picture with the glass doors in the window blinds between the glass panes, do the blinds look roughly evenly opened",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 33,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the blinds between the glass panes of the sliding doors appear to be roughly evenly opened, allowing a consistent amount of light to enter the room. They look tidy and well-maintained.",
+                "local_image_path": null
+            },
+            {
+                "turn": 34,
+                "text_usr": "User:This AI assistance has been extremely helpful and assuring that our in-laws suite is well prepared, clean, and presentable for our arriving guests",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 35,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help! If you have any more questions or need further assistance, feel free to ask. I hope your guests have a wonderful stay!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(action)",
+                "decomposition",
+                "intention"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "13",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A small shower area with white square tiles covering the walls. In the corner, there is a built-in soap dish. The shower floor is also white, with some minor discoloration or stains visible near the drain area. A chrome shower control handle is mounted on the wall, with a shiny, reflective surface. Above the control handle, a flexible metal shower hose is attached, leading up to a shower caddy. The caddy is white and holds several items, including a red and white striped bottle and a green bar of soap. The overall appearance is clean and functional, with a simple and minimalist design.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I am preparing to clean the shower, so these are going to be the before pictures and then I will take the after pictures to see if I have successfully improved the cleanliness of the shower area",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:That sounds like a great plan! Taking before and after pictures is a good way to see the progress and results of your cleaning efforts. If you need any tips or guidance on cleaning specific areas or dealing with certain stains, feel free to ask. Good luck with your cleaning!",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:This section of the shower shows more of the white tiled walls and the built-in soap dish. The tiles have some visible grime or discoloration, particularly in the grout lines and corners, where there might be some mildew or mold buildup. The soap dish appears to be clean, but the area around it could use some attention. The shower floor has some noticeable stains or dirt, especially near the edges and corners. Cleaning these areas with a suitable cleaner and scrubbing the grout lines should help improve the overall cleanliness.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:This view shows another section of the shower wall with white tiles. There are some visible marks and discoloration on the tiles and grout lines, particularly a vertical stain running along one of the grout lines. The edge of a metal frame, possibly part of a shower door or enclosure, is visible on the left side. The metal frame has some spots and could benefit from cleaning to remove any soap scum or water stains. Focusing on the grout lines and the metal frame should help enhance the overall appearance of this area.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image shows the lower part of the shower area, focusing on the floor and the bottom section of the walls. The white tiles on the walls have some visible dirt and discoloration, particularly in the grout lines and corners. The shower floor has noticeable stains and grime, especially around the drain and edges. The metal frame at the base of the shower door or enclosure shows signs of rust and buildup, particularly in the corner. A small part of a gray bath mat is visible outside the shower, along with a glimpse of a foot. Cleaning the floor, grout lines, and metal frame should significantly improve the appearance of this area.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:Considering all of the images so far, on a one to 10 scale with 10 being the dirtiest and one being the cleanest, please rank the overall cleanliness of the shower area",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:Based on the images provided, I would rank the overall cleanliness of the shower area around a 6. There are noticeable stains, grime, and discoloration on the tiles, grout lines, and shower floor, as well as some rust and buildup on the metal frame. With a thorough cleaning, these issues should be significantly improved.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "User:The next series of pictures will be the after cleaning pictures and I would appreciate it if you could rank them on a one to 10 again now that I\u2019ve cleaned them, with one being the worst and then being the cleanest",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:Sure, feel free to share the after cleaning pictures, and I'll help assess the cleanliness based on the new images.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_15.jpg"
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:The shower area looks significantly cleaner. The tiles and grout lines appear much brighter, with most of the previous discoloration and grime removed. The soap dish and surrounding area also look cleaner. Overall, this section of the shower has improved greatly in cleanliness. Based on this image, I would rank it around a 2, indicating a high level of cleanliness. Feel free to share more pictures for a complete assessment.",
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": "User:No, on a scale of one to 10 with one being the worst and 10 being the best, please give me a score on the cleanliness from that last image",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:Based on the last image, I would rate the cleanliness of the shower area as an 8 out of 10. The tiles and grout lines look much cleaner, and the overall appearance is significantly improved.",
+                "local_image_path": null
+            },
+            {
+                "turn": 19,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_19.jpg"
+            },
+            {
+                "turn": 20,
+                "text_usr": null,
+                "text_ai": "Be My AI:This section of the shower looks very clean. The tiles and grout lines are bright and free of noticeable stains or discoloration. The soap dish also appears clean. Based on this image, I would rate the cleanliness as a 9 out of 10, indicating a very high level of cleanliness. Great job!",
+                "local_image_path": null
+            },
+            {
+                "turn": 21,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_21.jpg"
+            },
+            {
+                "turn": 22,
+                "text_usr": null,
+                "text_ai": "Be My AI:This section of the shower wall looks quite clean. The tiles are bright, and the grout lines show minimal discoloration. There are a few water droplets visible, but overall, the surface appears well-cleaned. Based on this image, I would rate the cleanliness as an 8 out of 10. Nice work!",
+                "local_image_path": null
+            },
+            {
+                "turn": 23,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_17_23.jpg"
+            },
+            {
+                "turn": 24,
+                "text_usr": null,
+                "text_ai": "Be My AI:The shower floor and lower wall area show improvement, but there are still some visible stains and discoloration on the floor, particularly around the drain and edges. The tiles on the walls look cleaner, and the grout lines have improved, but some areas still have slight discoloration. The metal frame at the base has been cleaned, but there is still some rust or buildup present. Based on this image, I would rate the cleanliness as a 6 out of 10. There's noticeable improvement, but some areas could benefit from additional cleaning.",
+                "local_image_path": null
+            },
+            {
+                "turn": 25,
+                "text_usr": "User:This is probably the best I can do without visual assistance. I will engage my fully sided son to use and more aggressive cleaning product on the areas that still require attention, but thank you for helping me better understand the progress from my cleaning.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 26,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! You've made significant progress, and it's great that you're involving your son for the final touches. It's not always easy to tackle cleaning tasks without visual assistance, so you've done a commendable job. If you need any more guidance or have further questions, feel free to reach out. Good luck with the final steps!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "style"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a yellow envelope. The envelope has a white label with printed text and a barcode. The visible text on the label reads \"For [PII removed]:\". Above the label, there is a red text that says \"YOUR SIGNATURE IS REQUESTED BY [PII removed]\". The envelope also has a postal stamp that reads \"MAILED FROM ZIP CODE [PII removed]\" and \"PAID U.S. POSTAGE PERMIT NO. [PII removed]\". The background shows a wooden floor and part of a person's bare feet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I am sorting mail, so please don\u2019t give me any other extraneous information that doesn\u2019t relate to the mail itself",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yellow envelope with a white label addressed to \"For [PII removed]\". Red text above the label states \"YOUR SIGNATURE IS REQUESTED BY [PII removed]\". Postal stamp reads \"MAILED FROM ZIP CODE [PII removed]\" and \"PAID U.S. POSTAGE PERMIT NO. [PII removed]\".",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A person is holding an envelope addressed to [PII removed]. The envelope is from the [PII removed] located at [PII removed] dated [PII removed]. The envelope has a window showing the address and a line labeled \"[PII removed]\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A blue SUV is parked on a driveway that leads to a road. The road curves to the right and is bordered by grass and a sidewalk. There are several \"Do Not Enter\" signs at the intersection, indicating a one-way street. In the background, there are leafless trees and a large brick building on the left. Power lines run across the scene, and the sky is overcast.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_21": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "familiar",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_21_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A laptop is open on a desk, displaying a web browser. The screen shows a website with a stadium image and the text \"Powered by PrestoSports.\" The URL in the address bar is \"stream.prestosports.com/towson.\" The laptop keyboard is visible, with a standard QWERTY layout. There are some earphones and a bag partially visible next to the laptop. The laptop model is identified as \"Yoga 7\" from a sticker near the keyboard.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I am listening to the Towson Tigers basketball game over my wife\u2019s laptop, computer, but I wanted to check to see if there was also a video associated with it\u2026 It appears that there is no video so they say I help me confirm that",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The screen on the laptop shows a website with a stadium image and the text \"Powered by PrestoSports,\" but there is no visible video player or indication of a video stream on the screen. It seems like there might not be a video associated with the current page. You might want to explore the website further or check for any video links or buttons that could lead to a live stream. If you're still unsure, consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_22": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_22_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Beagle Rescue of Southern Maryland (BRSM), Inc. posted 3 hours ago. The post is about a beagle named Belle who is nervous and scared in the noisy shelter. They believe Belle would be more relaxed in a home setting with a soft bed, quieter surroundings, tasty treats, and belly rubs. Belle is a 3-year-old, 18-pound tricolor beagle girl with beautiful blue-tick type ticking. She came to the shelter as a stray, and her story is yet to be told. They mention that they can take care of Belle's vetting needs if someone can offer her a soft bed and human kindness. A link to the foster/adopter application is provided: https://beaglemaryland.org/wp-content/uploads/2024/06/BRSM_Adopter_App.pdf",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:If the dog is pictured in this posting, please describe",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a partial view of a dog's head with black and white fur. The background is a pinkish color. The dog's face is not fully visible in the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_23": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "intention",
+                "style",
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_23_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A beagle dog is sitting upright with its front paws resting on a surface. It has a brown and black coat with a white chest and speckled legs. The dog is wearing a blue collar with a tag that reads \"Beagle Rescue of Southern Maryland\" along with a phone number. The background includes a wooden cabinet and a table, and the floor is carpeted.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This picture was just shared with me as a dog we may likely adopt\u2026 Please give me the best possible description of the dog and the greatest detail",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog is a beagle with a classic tri-color coat. Its head is predominantly brown with a darker muzzle and large, expressive brown eyes. The ears are long and floppy, typical of the beagle breed, and are a darker brown. The dog's body is mostly black, with a white chest and speckled white and brown legs. The fur appears short and smooth. It is wearing a bright blue collar, which stands out against its coat, and has a tag attached. The dog is sitting upright, suggesting it might be attentive or curious. Its posture, with front paws resting on a surface, indicates it might be engaged with something or someone in front of it. The overall appearance is that of a healthy and alert beagle, showcasing the breed's characteristic charm and friendliness.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:This dog sounds beautiful, please estimate his age, also beagle rescue of Southern Maryland indicates that this dog has what is called a \u201ccherry eye\u201c\u2026 Does that show up in the appearance of his eyes?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog appears to be a young adult beagle, possibly between 1 to 3 years old, based on its posture and the condition of its coat. Regarding \"cherry eye,\" this condition is characterized by a visible red or pink mass in the corner of the eye, which is a prolapsed gland of the third eyelid. In the image, the dog's eyes look clear and healthy, and there is no obvious sign of cherry eye visible. However, it's possible that the condition might not be prominent in this particular photo or could be in an early stage. It's always a good idea to have a veterinarian assess the dog's health for any concerns.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_24": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "style"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_24_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Two white cylindrical bottles are placed on a wooden countertop. The bottles have text on them, with some visible words like \"Concentrate,\" \"For Spas & Hot Tubs,\" \"Quick-dissolving,\" \"sanitizer and oxidizer,\" \"KEEP OUT OF REACH OF CHILDREN,\" and \"DANGER.\" The countertop has a glossy finish with a light wood grain pattern. The background shows a light-colored wall and a portion of a floor with a light wood appearance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Which one is the sanitizer, the one on the left or the right\u2026 The sanitizer has the blue cap and I am about to treat the hot tub so this is important",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bottle on the left is the sanitizer, as it has the text \"sanitizer and oxidizer\" visible on it. However, I cannot see the cap color in the image provided. Please ensure the cap is blue to confirm it is the correct product.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_24_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cap in the image is blue, and it has the text \"SQUEEZE CAP\" and \"WHILE UNSCREWING\" on it. This confirms that the bottle with the blue cap is the sanitizer.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_25": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_25_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A surface covered with numerous small bubbles, creating a textured appearance. The lighting casts a pinkish hue over the bubbles, and there is a colorful, iridescent effect visible in some areas, reminiscent of an oil slick. The bottom part of the image is darker, with a shadow or dark object partially visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color is it lighted under the water",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The water is lit with a pinkish hue, and there is an iridescent effect that shows a range of colors, similar to a rainbow or oil slick, beneath the surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_25_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The water is lit with a green hue, creating a vibrant and luminous effect. The surface still has numerous small bubbles, and there is a subtle iridescent effect visible in some areas. The bottom part of the image remains darker, with a shadow or dark object partially visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_25_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The water is lit with a yellow hue, creating a warm and glowing effect. The surface is covered with numerous small bubbles, and there is a subtle iridescent effect visible in some areas, showing a range of colors. The bottom part of the image remains darker, with a shadow or dark object partially visible.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_26": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition",
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_26_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A smartphone screen displaying a cleaning app interface. At the top, it shows the time as 12:08 and the battery icon indicates a charge level. The app is named \"Abby\" and shows \"Clean in progress\" with a battery level of 60%. Below, there is a map of a house with labeled rooms: Family Room, Kitchen, Dining Room, Living Room, and Foyer. A path is marked in purple, indicating the cleaning route. At the bottom, there are three buttons: \"Go to Dock\" in red, \"Find Robot\" with a location icon, and \"Pause\" with a pause icon.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Based upon the graphical depiction of the room, layout and the progress of the vacuum, can you tell me how much has been done and what still needs to be done?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The map shows that the vacuum has already cleaned the Family Room, Kitchen, Dining Room, and Living Room, as these areas are highlighted in purple with a path indicating the cleaning route. The Foyer also appears to be included in the cleaning path, suggesting it has been cleaned or is in progress. It seems that most of the mapped areas have been covered, but without specific indicators of completion for each room, it's difficult to determine if any small sections within these rooms still need attention.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Is there any indication of vacuum error, for example, that it\u2019s clogged or stopped in someway and requires my attention?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is no indication on the screen of any errors or alerts suggesting that the vacuum is clogged or has stopped. The status shows \"Clean in progress,\" which implies that the vacuum is operating normally without requiring immediate attention.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:This is helpful, because I\u2019m using this AI with the goal of learning the status of the vacuuming of our middle level of the house\u2026 The most widely used by our family. I was able to accomplish my goal using this app.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:That's great to hear! It's wonderful that the app helps you keep track of the cleaning status for such an important area of your home. If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_27": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_27_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A bottle of The Glenlivet 12 Years of Age Single Malt Scotch Whisky. The label mentions that it is \"Double Oak\" and matured in European and American oak casks. The bottle has a gold emblem with the text \"ESTD 1824\" and \"From the Glenlivet Distillery.\" The whisky is described as smooth and flowing, with a note about George Smith establishing the distillery in 1824 in the remote and wild valley of Glenlivet. The bottle is being held by a hand and is placed on a wooden surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Thank you for helping me locate this particular bottle of scotch. I plan to take a drink shortly to help me sleep and wind down. Can you also tell me what percentage of the bottle is still full?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The bottle appears to be about three-quarters full. Enjoy your drink and have a restful night!",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:The shape of the bottle, especially near where the neck meets the bottle itself, would help me recognize this bottle even without AI, but thank you for confirming it\u2026 I would not want to pour the wrong drink from my night cap",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:You're welcome! The distinct shape of the bottle can definitely be a helpful identifier. If you need any more assistance, feel free to ask. Enjoy your nightcap!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_28": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_28_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is reaching towards the edge of a hot tub or jacuzzi. The water inside is bubbling and frothy, indicating that the jets are on. The surface around the tub is a light-colored, textured material, possibly concrete or a similar substance. The lighting suggests it might be nighttime or in a dimly lit area.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This hot tub has underwater led lights\u2026 Are any of those lights on and if so, what color?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the underwater LED lights in the hot tub are on, and they are emitting a blue color.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:This is helpful information, because there is no other way for me to know if there is light it up at night\u2026 And I prefer no light at all when I\u2019m using the hot tub by myself at night",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help. If you prefer no light, you might want to check if there's a control panel or remote to turn off the LED lights when you're using the hot tub at night.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:My goal was to ensure privacy with no lighting at this hour of the night before I get into the tub\u2026 So this AI helped me accomplish that\u2026 Very useful",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could assist you in ensuring your privacy. If you have any more questions or need further assistance, feel free to ask. Enjoy your time in the hot tub!",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:The hot tub and a shot of scotch whiskey. I just poured will be the perfect combination to get me sleepy",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:That sounds like a relaxing combination. Enjoy your time in the hot tub and your drink. It's a great way to unwind and prepare for a good night's sleep. If you need anything else, just let me know!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_29": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_29_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A laptop is open on a wooden table, displaying a document on the screen. The document is titled \"[PII removed]\" It contains several sections with fields to fill out, such as \"SECTION 1: ACCOUNT ACTION,\" \"SECTION 2: USER PROFILE,\" and \"SECTION 3: ROLES FOR SOL TRACKING AND MANAGEMENT (SOLTAM) SYSTEM.\" There are checkboxes for different actions like \"ADD,\" \"MODIFY,\" \"DISABLE,\" \"DELETE,\" and \"VIEW ONLY.\" The document also includes fields for personal information like \"LAST NAME,\" \"FIRST NAME,\" \"EMAIL,\" and \"POSITION TITLE.\"\n\nThe laptop is a Dell model, and the keyboard is visible with keys for numbers, letters, and function keys. The screen shows the document in a PDF viewer with options like \"All tools,\" \"Edit,\" \"Convert,\" and \"E-Sign\" in a toolbar at the top. There are also buttons at the bottom of the document for \"Print Form,\" \"Save Form,\" and \"Reset Form.\" The laptop is connected to a power source, as indicated by the charging cable on the left side. In the background, there is a glimpse of a chair and a closed laptop or folder on the table.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:My JAWS screen reading program is not speaking the screen\u2026 I wanted to make sure everything was working correctly\u2026 This confirms that this is the document I need to resolve so now I will use a personalized service to help me complete the section that must be done immediately\u2026 My goal was to see if the form was even there because I can\u2019t hear it, so Be My Eyes AI did help me accomplish the goal",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help you confirm the document is there. If you need further assistance or have any other questions, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_30": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "9",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_30_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A cozy living room with a light beige carpet covering the floor. In the center of the room is a fireplace with a black marble surround and a white mantel. Inside the fireplace, there are decorative logs. To the left of the fireplace, there is a small wooden chair with a green stuffed animal sitting on it. Next to the chair is an exercise bike. On the right side of the fireplace, there is a red toy truck placed on the floor. \n\nA large flat-screen TV is positioned on a black glass TV stand in the corner of the room. The stand has several shelves with electronic devices and other items. In the foreground, part of a dark-colored sofa is visible with a fluffy light-colored blanket draped over the armrest. \n\nOn the left side of the image, there is a wooden coffee table with several colorful stuffed animals and decorative items on the lower shelf. The room is well-lit, with natural light coming in from an unseen source, casting soft shadows on the carpet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Did the vacuum do a decent job in this room? Does it appear clean?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The carpet in the room appears clean and well-maintained, with no visible debris or dirt. The vacuum seems to have done a decent job, as the carpet looks tidy and free of noticeable stains or mess.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_30_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The carpet in this room shows visible vacuum lines, indicating that it has been recently vacuumed. The overall appearance is clean, with no obvious dirt or debris. However, there are a few small spots or marks near the center of the room that might need additional attention. The room features floral-patterned furniture, including a sofa and an armchair, and a dining area in the background with a wooden table and chairs on a circular rug. The space appears tidy and well-organized.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Yes, this carpeting still needs to be shampooed which is on our agenda, but I wanted to first to make sure the vacuuming had been done correctly",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:It looks like the vacuuming was done well, as the carpet appears clean with visible vacuum lines. Shampooing should help address any remaining spots or marks for a more thorough clean.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:I want to adjust this glove so that North America is showing\u2026 Can you tell me what is depicted on the globe from this angle so that I may adjust it?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_30_10.jpg"
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:The globe is currently showing parts of Asia and the surrounding regions. Visible areas include China, the Philippines, and parts of Southeast Asia. To adjust the globe so that North America is showing, you would need to rotate it to the left from this angle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_30_12.jpg"
+            },
+            {
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:The globe is now showing parts of Europe, the Middle East, and northern Africa. Visible countries include Italy, Greece, Turkey, Egypt, and Saudi Arabia. To display North America, you would need to continue rotating the globe to the left from this angle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 14,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_30_14.jpg"
+            },
+            {
+                "turn": 15,
+                "text_usr": null,
+                "text_ai": "Be My AI:The globe is now showing the eastern part of North America, including the United States and parts of Canada. The Caribbean region is also visible, with countries like the Bahamas and Venezuela in view. North America is mostly centered, so only a slight adjustment might be needed to have it fully centered if desired.",
+                "local_image_path": null
+            },
+            {
+                "turn": 16,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_30_16.jpg"
+            },
+            {
+                "turn": 17,
+                "text_usr": null,
+                "text_ai": "Be My AI:The globe is now showing North America prominently, with the United States and Canada clearly visible. The eastern part of the continent is well-centered, and the Caribbean region is also in view. This position should give a good view of North America.",
+                "local_image_path": null
+            },
+            {
+                "turn": 18,
+                "text_usr": "User:Awesome, this is the most efficient way to locate the globe in the position that I choose without being able to see it to do it more easily",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 19,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad to hear that this method worked well for you! If you need any more assistance or adjustments, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_31": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_31_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A red tag with some text on it is being held by a hand. The text on the tag reads:\n\n\"wallflowers\nHOME FRAGRANCE REFILL\n'TIS THE SEASON\nHOLIDAY FAVORITES\nTO BE USED WITH\nWHITE BARN WALLFLOWERS\nFRAGRANCE DIFFUSER\"\n\nThe background is a wooden surface with a light and dark brown grain pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This is helpful to read this small tag\u2026 It is the only way for me as a blind person to know the precise sent before I plug it in my home",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help you with that. If you need any more assistance or have other tags to read, feel free to let me know!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_32": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "feedback"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_32_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A brown paper package with a USPS shipping label attached. The label reads \"USPS PARCEL SELECT\" and includes a tracking number: [PII removed]. The recipient's address is [PII removed][PII removed]. There are QR codes and barcodes on the label. The package has printed instructions on the side that say \"PULL TO OPEN\" with an illustration showing how to open it. Handwritten numbers [PII removed] are visible on the package.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:This package is left in my front door when I opened it this morning\u2026 Can you check again to see if it is for [PII removed]?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The package is addressed to [PII removed], not [PII removed].",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:The last name is correct so I\u2019m going to open this assuming it\u2019s [PII removed] I do not believe the AI information is precisely correct on the first name",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:If the last name matches and you are expecting a package, it might be intended for you. If you have any doubts or concerns, you could also contact the sender or the delivery service for confirmation.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_33": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_33_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A box of Apple EarPods with a headphone plug. The box is white and features an image of the EarPods on the front, along with the Apple logo. The text on the box reads \"EarPods\" and \"Headphone Plug\". The box is resting on a wooden surface.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_34": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding",
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_34_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Cleaning report from Monday, February 24 at 12:53 AM. The map shows the cleaned area highlighted in light blue with a purple outline. The cleaned area is 589 square feet, and the cleaning runtime was 69 minutes. The top left corner shows the time as 9:25 with a muted bell icon, indicating notifications are off.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Discounting the area occupied by furnishings throughout my middle level of my home, does this cleaning report suggest that everything else was in that clean by the robot vacuum?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the cleaning report suggests that the robot vacuum cleaned the entire accessible area of the middle level of your home, excluding the spaces occupied by furnishings or any other obstacles that the vacuum couldn't navigate around. The light blue area on the map represents the sections that were cleaned.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:This report is very helpful to confirm the vacuuming I initiated at the time I went to bed last night",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad the report is helpful for you. It seems like the vacuum did its job while you were asleep, covering a significant area. If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_35": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "grounding",
+                "decomposition",
+                "feedback"
+            ],
+            "question_category": "Reading, Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_35_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A digital display with an orange backlight shows a temperature reading of \"102\u00b0F\". To the left of the display, there are two icons: one resembling a swirl or fan, and the other a light bulb. To the right of the temperature reading, there is a plus sign button. The word \"life\" is partially visible on the bottom right corner. The display is surrounded by a glowing orange light, suggesting it might be part of a device like a hot tub or heating system.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:I tried to raise the temperature, but I\u2019m not sure if that requires a one press to activate and then another to raise it 1\u00b0 whether a single press itself raises the temperature",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:From the image, it looks like there is a plus sign button to the right of the temperature display. Typically, pressing this button once would increase the temperature by 1\u00b0F. However, the exact functionality can vary depending on the device. If you're unsure, you might want to try pressing the button once and checking if the temperature increases. If it doesn't, try pressing it again to see if that activates the temperature change. If you're still having trouble, it might be helpful to consult the device's manual or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:OK, that\u2019s the concept, but tell me what the actual display number is",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The display shows the number \"102\u00b0F\".",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_35_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The display now shows the number \"103\u00b0F\".",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Finally, is there any color emanating from underwater? The light function toggles through 20 or 25 different colors so it\u2019s hard to tell if for a blind person when it\u2019s actually off\u2026 I would like to confirm that it is actually off and not light it at all.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_35_10.jpg"
+            },
+            {
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be any color emanating from underwater. The water looks natural with no visible colored lighting, suggesting that the light function is off.",
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": "User:My goal is to test the proper function of raising and lowering the temperature and also to determine whether or not the light that was on yesterday had automatically shut off, which it appeared to do. This AI was very helpful in achieving a clear understanding and reaching my goal.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad I could help you achieve your goal and provide clarity on the situation. If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_36": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_36_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:October 30, 2024\n\n[PII removed] Below please find the results of the recent audiologic evaluation for your patient, [PII removed]. If I can provide any additional assistance, please do not hesitate to contact me.\n\nAUDIOLOGICAL EVALUATION\n\nHISTORY: [PII removed] was referred for an audiological evaluation in an effort to determine whether or not his hearing has deteriorated further. Interim otologic history is unremarkable. The patient is concerned his hearing has decreased since his last evaluation with us.\n\nCLINICAL FINDINGS:\nEars: Pinna is of normal configuration, external auditory canals are free of trauma and debris, and all tympanic membrane landmarks are clearly visualized.\n\nAuditory Assessment: The pure-tone air and bone conduction audiogram, spondee thresholds, and speech recognition scores revealed no evidence of further deterioration in this patient's auditory sensitivity. Spondee thresholds and speech recognition scores are stable. Immittance measures are consistent with a mobile, intact tympanic membrane bilaterally. Quick Speech in Noise Testing revealed a mild binaural deficit. Distortion Product Otoacoustic Emissions were recorded from 1 through 10 kHz at 4 points per octave. Refer to the audiogram form to determine whether the responses were present or absent. This cochlear mapping will determine the site of lesion.\n\nIMPRESSIONS: There is no evidence of further deterioration in the patient\u2019s auditory sensitivity. Approximately 40 minutes were spent on this visit: >30 minutes face to face patient/family clinical assessment, disease state and symptom education, goals of treatment discussion, coordination of care and general and complex communication strategies. All of the patient\u2019s questions were answered.\n\nRECOMMENDATIONS: I have asked [PII removed] to contact this center should he suspect a further decline in his auditory sensitivity.\n\nSincerely,\n\n[PII removed]\nDoctor of Audiology\n[PII removed]",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Using Be My Eyes AI to interpret the information from this audiological exam in PDF format helped me confirm that the date was less than six months ago, which will permit me to use this record to obtain a new set of hearing devices under the rules of my insurance policy\u2026 That was my goal, so now I\u2019ve achieved it thanks to this great technology",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:That's great to hear! I'm glad the information was helpful for your needs. If there's anything else you need assistance with, feel free to ask.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_37": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_37_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A single coffee pod is placed on a wooden surface. The label on the pod reads \"Black Rifle Coffee Company\" at the top. Below that, it says \"Just Black\" and \"Medium Roast Coffee.\" There is a small logo in the center featuring a shield with a star and stripes. The label also includes a QR code on the left side. The pod is circular and has a plastic lid.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:That\u2019s just how we confirm the coffee I actually wanted from a variety that might cause me to pick the wrong one",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:It looks like you have the \"Just Black\" medium roast coffee from Black Rifle Coffee Company. If this is the one you wanted, then you have the correct coffee pod. If you need further confirmation or assistance, you might consider pressing the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Not important, just curious to know which coffee cup I grabbed",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_37_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The coffee cup you grabbed features an illustration of a dog's head, specifically a beagle, on the side. The artwork is framed with a thin border, and the artist's signature, \"Robert May,\" is visible near the bottom of the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_38": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_38_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A middle-aged man with short hair is looking directly at the camera. He is wearing a light gray long-sleeve shirt with a pocket on the left side of his chest. The pocket has a partial logo or design with the word \"vineya\" visible. The background shows a light-colored wall and a white door with panels. The lighting is bright, coming from a ceiling light.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Describe the T-shirt, is it a Heather gray? More importantly, even though it is from fresh cleaned laundry, does it appear clean and free stains?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The T-shirt is a light gray color, which could be described as Heather gray. It appears clean and free of any visible stains, even though there are some natural wrinkles in the fabric, likely from being freshly laundered.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_39": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_39_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The screen displays a cleaning report with a map of the cleaned area. The map shows a layout with light blue shaded areas indicating the cleaned sections, outlined in purple. At the top, it reads \"Cleaning Report\" with the date and time \"Wed, Feb 26, 8:57 AM.\" Below the map, it shows the word \"Clean\" with two sections: \"Cleaned Area\" indicating 595 square feet, and \"Runtime\" showing 72 minutes. The top right corner has a small icon resembling a house.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does this otherwise inaccessible map depiction demonstrate that the entire floor area was cleaned in all the designated rooms?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The map shows light blue shaded areas that indicate the sections that were cleaned. If there are any areas not shaded in light blue, those sections were not cleaned. The map does not provide specific room designations, so it's not possible to determine if every designated room was entirely cleaned just from this depiction.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:OK, then, if each room is not designated, is it possible to know that each room nonetheless has been vacuumed based on the color scheme and the layout depiction",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Based on the color scheme and layout depiction, the light blue shaded areas represent the sections that were cleaned. If the entire layout is covered in light blue without any gaps or unshaded areas, it suggests that all accessible areas were vacuumed. However, without specific room designations or additional context, it's not possible to confirm that each individual room was entirely vacuumed.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:The only areas that could not be cleaned, include places where there are furnishings, couches, tables, etc.\u2026 So apart from that, does it objectively appear that even though they are not labeled has been cleaned by the vacuum?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, if the light blue shaded areas cover the entire layout without any significant gaps, it suggests that all accessible floor areas, excluding places obstructed by furnishings like couches and tables, were cleaned by the vacuum. The map indicates that the vacuum navigated through the space and cleaned wherever it could reach.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_40": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_40_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A fisheye lens view from a doorbell camera shows a porch with white railings and an American flag. On the porch, there are some items, including a small box and a bag. The view extends to the street, where a person is walking on the sidewalk. A white car is parked on the street, and there are other vehicles in the background. The sky is clear and blue, suggesting a sunny day. The timestamp on the video is February 26 at 12:04:48 PM. The phone screen shows the time as 5:17 with a muted notification and a 5G signal indicator.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does this view show packages just delivered?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there appears to be a small box and a bag on the porch, which could be packages that were just delivered.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_41": {
+        "annotations": {
+            "customization_technique_used": [
+                "feedback"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_41_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A shipping label with a barcode. The text on the label reads \"UPS GROUND\" and \"[PII removed]\". The image is slightly blurry, making some details hard to read.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_41_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:A cardboard box with several labels. \n\nOne label is red and white, reading \"HANDLE WITH CARE FRAGILE DO NOT DROP THANK YOU.\"\n\nAnother label has a warning about a button cell or coin battery, stating \"WARNING\" and \"Internal Chemical\" with a caution symbol.\n\nThere is also a label mentioning Microsoft Office, stating \"No Microsoft 365 purchase necessary to set up and activate this PC\" and \"Microsoft Office Personal Premium apps installed and activated in this PC.\"\n\nThe box also has a symbol indicating it contains a battery.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:The first label on the outer box was taped around the corner and virtually impossible to read. Therefore, I opened it because I did believe it was the computer I ordered based on the arrival time and the shipping notice by email. This last picture seems to confirm that I made the right decision to open the box.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:It sounds like you made the right call by opening the box, especially given the timing and the shipping notice you received. The labels on the box, particularly the one mentioning Microsoft Office and the fragile handling instructions, suggest that it is indeed a computer or a related electronic device. If you have any more questions or need further assistance, feel free to ask!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_42": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_images/image_42_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A Lenovo laptop is placed on a wooden table. The laptop is closed, and its surface is a dark color with a smooth finish. The Lenovo logo is visible on the bottom left corner of the laptop. The table has a light wood grain pattern, and there is a person standing nearby, wearing dark pants and white socks.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:The manufacturer describes the color as navy blue, does that sound right?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, navy blue sounds like an accurate description for the color of the laptop.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

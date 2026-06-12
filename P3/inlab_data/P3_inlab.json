@@ -1,0 +1,400 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop with its screen open, displaying a login screen. The background of the screen has a colorful gradient with shades of red, blue, and green. At the top of the screen, the date and time are displayed as \"Monday, February 26\" and \"9:41\". Below that, there is a user profile icon with the name \"[PII removed]\" and a prompt to \"Enter Password\". It also mentions that the password is needed to enable Touch ID. The laptop keyboard is visible, and the setting appears to be a room with a wooden table. In the background, there is a whiteboard and some colorful furniture, including a red and white bag on the table.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hallway in what appears to be an office or educational building. The floor is covered with a brown carpet, and the walls are painted white. On the left side of the hallway, there are several doors with wooden frames. One of the doors has a sign that reads \"1070 B\" and \"Video Lab.\" Above the hallway, there is a ceiling with recessed lighting, and an illuminated red \"EXIT\" sign is visible.\n\nAt the end of the hallway, there is an open door leading to another room. This room has a colorful and casual setup with a red wall, a red bean bag, and several colorful pillows. On the wall at the end of the hallway, there is a decorative pattern made of blue and red dots connected by lines, resembling a molecular structure. On the right side of the hallway, there is a partial view of a high chair with a green seat.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:Can you give me specific walking directions to the room with the red sofa?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:To reach the room with the red sofa, start by walking straight down the hallway. As you proceed, you will pass several doors on your left. Continue walking until you reach the open doorway at the end of the hallway, which leads directly into the room with the red sofa and colorful pillows.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:Which direction should I go to get to the room to the red sofa from here?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_2_6.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:From your current position, you should continue walking straight down the hallway. You will pass two doors on your left, labeled \"1071\" and \"Steve Sites.\" Keep going straight until you reach the open doorway at the end of the hallway, which leads into the room with the red sofa and colorful pillows.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": "User:Which way do I go to get to the room with the red sofa from here?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_2_9.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:This image is a close-up of the decorative pattern on the wall, featuring blue and beige shapes connected by lines. To provide accurate directions, it would be helpful to have a broader view of your surroundings. If possible, please take another picture showing more of the hallway or nearby landmarks, so I can guide you better.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 11,
+                "text_usr": "User:Which way should I walk to get to the room with the red sofa?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 12,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_2_12.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:From your current position, you are standing near an open doorway labeled \"2105.\" To reach the room with the red sofa, turn around and walk back down the hallway you came from. Continue straight until you reach the open doorway at the end of the hallway, which leads into the room with the red sofa and colorful pillows.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a close-up of a box of instant soup on a table. The box is labeled \"Cream of Chicken Flavor with other Natural Flavors.\" It also mentions \"4 Envelopes\" and \"Net Wt 2.4 oz (68g).\" In the background, there is a person sitting at the table, holding a phone or camera, and looking towards the camera. The table also has a water bottle, a laptop, and a tablet on it. The setting appears to be a meeting or study room.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:Can you read the nutritional details?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is not clear enough to read the nutritional details on the box. You might want to try taking a closer picture of that section for better visibility.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_3_5.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image still does not clearly show the nutritional details. However, it does show some preparation instructions on the side of the box. If you can take a closer picture of the nutritional information section, it would be easier to read.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_3_7.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image now shows the nutritional information on the side of the box, but it is still not clear enough to read the details. If possible, try to take a closer and more focused picture of the nutritional information section for better clarity.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_3_9.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image now provides a clearer view of the nutritional information on the box. Here is the information:\n\n- Serving Size: 1/4 envelope (1.5g)\n- Calories: 5\n- Total Fat: 0g (0% Daily Value)\n- Sodium: 610mg (27% Daily Value)\n- Total Carbohydrate: 1g (0% Daily Value)\n- Protein: 0g\n\nIt also lists Vitamin A, Vitamin C, Calcium, and Iron, but the percentages are not visible. If you need more detailed information, you might want to try another close-up shot focusing on the nutritional facts.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 11,
+                "text_usr": "User:What is the sodium amount for this item?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The sodium amount listed for this item is 610 milligrams per serving.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 13,
+                "text_usr": "User:I would like a low-fat item. Is this a good choice?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, this item is a good choice if you are looking for a low-fat option, as it contains 0 grams of total fat per serving. However, keep in mind that it has a relatively high sodium content. If you're watching your sodium intake, you might want to consider that as well.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a classroom or office space with various elements. On the right side, there are two computer stations with monitors and speakers on red desks. Above the desks, there are posters on the wall with colorful sticky notes arranged in a pattern. In the center of the wall, there is a large whiteboard with some faint writing or marks on it. To the left, there are several chairs, including orange ones, stacked or arranged in a row. The wall on the left side is covered with various papers and notes, some of which are colorful. The floor is carpeted, and there is a table with wheels partially visible in the foreground. The room is well-lit with overhead fluorescent lights.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:Is there a box of soup sitting somewhere?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a box on the table in the foreground that appears to be a box of soup. It is red and rectangular, resembling packaging for soup or a similar product.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "User:Is the box on the right or the left?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_4_6.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box is on the left side of the table in the foreground.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": "User:Where is the box of soup? Is it on the left and front on the right of the table?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_4_9.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box of soup is on the right side of the table in the foreground.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 11,
+                "text_usr": "User:I am looking for the soup box, and I don\u2019t need other details",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 12,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_4_12.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 13,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box of soup is on the table in the foreground, positioned towards the center-left of the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a conference room with a large rectangular table in the center. The table has a gray wood finish and is surrounded by orange chairs. On the table, there is a laptop displaying a video call with the name \"Yang (Ethan) Cao\" visible on the screen. Next to the laptop, there is a white and red paper bag. The room has a whiteboard or projector screen on one wall, and there are fluorescent lights on the ceiling. The walls are cream-colored, and there are framed certificates or posters on the wall near a wooden door with a glass panel. The glass panel has the letters \"HCIL\" and the words \"Hacker Space\" printed on it.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:I am looking for a keychain with a round key fob with three keys",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show a keychain with a round key fob and three keys. You might want to check other areas in the room or perhaps in bags or pockets that might not be visible in this image. If you need further assistance, you could try taking another picture from a different angle or location.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_5_5.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the keychain with a round key fob and three keys is visible on the table. It is located towards the center-right of the table, near the edge, and in front of the podium. The table also has a few items on it, including a Tropicana orange juice bottle, a white and red paper bag, a red box, and some napkins. The room setup is similar to the previous image, with the projector screen and orange chairs still visible.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_5_7.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the keychain with a round key fob and three keys is not visible on the table. The table has a laptop displaying a video call with the name \"Yang (Ethan) Cao,\" a pair of headphones, a black bag, and a white cup. The room setup is similar to the previous images, with the wooden door featuring the \"HCIL Hacker Space\" logo and framed items on the wall. If you are still looking for the keychain, you might want to check other areas or take another picture from a different angle.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_5_9.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the keychain with a round key fob and three keys is not visible on the table. The table has a few items on it, including a white and red paper bag, a red box, a closed laptop, a water bottle, and a laptop displaying a video call with the name \"Yang (Trista) Cao.\" There is also a wire basket and some other items on the table. If you are still searching for the keychain, you might want to check other areas or take another picture from a different angle.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P3_inlab_images/image_5_11.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the keychain with a round key fob and three keys is visible on the table. It is located towards the center-right of the table, near the edge, and in front of the orange chairs. The keychain has a round black fob and a yellow tag attached to it. The room setup is similar to the previous images, with the wooden door featuring the \"HCIL Hacker Space\" logo and framed items on the wall.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

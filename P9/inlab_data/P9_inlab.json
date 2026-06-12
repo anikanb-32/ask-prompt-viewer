@@ -1,0 +1,316 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop on a wooden table in what appears to be a public space, possibly a caf\u00e9 or a library. The laptop screen displays a login screen with an orange and red abstract background. In the center of the screen, there is a circular profile picture of a cartoon avatar with the name \"[PII removed]\" below it. Under the name, it says \"Touch ID or Enter Password.\" At the bottom of the screen, there is a \"Cancel\" button. The keyboard of the laptop is visible, and in the background, there is a green cup with a white lid and a pink object, possibly a phone, on the table. The setting has a ceiling with recessed lighting and a red accent wall.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a spacious room with a modern design. There is a circular arrangement of wooden slat benches in the foreground. To the left, there is a tall orange sign with the text \"Free Power Here\" and \"Energize\" along with a symbol of a plug. The room has a light gray carpet with a subtle pattern, and a portion of a red carpet is visible in the bottom right corner. Against the back wall, there are three cushioned chairs in different colors: two are a light tan color and one is red. Above the chairs, there is a large whiteboard mounted on the wall. The ceiling has recessed lighting and a visible ventilation system. There is a large window on the left side of the room. The overall atmosphere suggests a public or communal area, possibly in a library or a lounge.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:Do you see a door?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there is no visible door in the image. The walls and the window are visible, but no door can be seen.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_2_5.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a set of glass double doors with metal frames. There is a yellow and blue sign on the left door that reads \"AUTOMATIC CAUTION DOOR\" and \"ACTIVATE SWITCH TO OPERATE.\" The doors have horizontal push bars for opening. Through the glass, you can see a hallway with a shiny dark floor and stairs leading up. The walls inside the hallway are painted in a light color with red accents. The ceiling has recessed lighting, and there are reflections visible on the glass doors.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "User:Awesome.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found the information helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "User:How far away is the door? I'd like more detail",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is taken from a close distance to the door, likely just a few feet away. The camera is positioned directly in front of the doors, capturing them in full view. If you need more specific details or another perspective, you might consider taking another picture from a different angle.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 11,
+                "text_usr": "User:I don't need directions on camera angle",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:Understood! If you have any other questions or need more details about the image, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 13,
+                "text_usr": "User:I'd like more detail on how many people are on the other side of the door, or other obstailes in the way",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show any people or obstacles on the other side of the door. The view through the glass doors reveals an empty hallway with stairs, and there are no visible obstructions or individuals present.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the side of a food package with nutritional information and ingredients listed. \n\nThe Nutrition Facts section includes:\n- Serving Size: 1 envelope (17g) (makes 6 fl oz prepared)\n- Servings Per Container: 4\n- Calories: 70\n- Calories from Fat: 15\n\nNutritional values per serving include:\n- Total Fat: 1.5g (2% Daily Value)\n- Saturated Fat: 1.5g (8% Daily Value)\n- Trans Fat: 0g\n- Cholesterol: 0mg (0% Daily Value)\n- Sodium: 620mg (26% Daily Value)\n- Total Carbohydrate: 12g (4% Daily Value)\n- Dietary Fiber: 0g (0% Daily Value)\n- Sugars: 1g\n- Protein: 0g\n\nVitamins and minerals:\n- Vitamin A: 0%\n- Vitamin C: 0%\n- Calcium: 0%\n- Iron: 0%\n\nThe ingredients listed are:\nMaltodextrin, Potato Starch, Corn Syrup Solids, Palm Oil, Cornstarch, Salt, Monosodium Glutamate, Hydrolyzed Soy Protein, Yeast Extract, Onion Powder, Garlic Powder, Spices, Natural Flavors, Disodium Inosinate, Disodium Guanylate, and Paprika Extract (for color).\n\nThe package also states: \"May contain wheat and sulfites.\"\n\nThe manufacturer information at the bottom reads: \"Unilever, Englewood Cliffs, NJ 07632 USA.\"",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:Is this low-carb? I'm trying the ketogenic diet and want to know if this is a safe product",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:This product contains 12 grams of total carbohydrates per serving, with 0 grams of dietary fiber, resulting in 12 grams of net carbs. For a ketogenic diet, which typically limits daily carb intake to around 20-50 grams, this product might be considered relatively high in carbs for a single serving. It may not be the best choice if you're trying to keep your carb intake very low. You might want to consider other options or consult with a nutritionist for more personalized advice.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a wooden table with a smooth, polished surface. On the table, there are some items that appear to be menu holders or signs, but they are out of focus and difficult to identify clearly. The lighting creates a reflection on the table's surface. There is also a black mesh container on the right side of the image, possibly for holding utensils or napkins. The overall setting suggests a dining or meeting area.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:I left a box of soup mix somewhere near here. Do you see it?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not clearly show a box of soup mix. The items on the table are out of focus, so it's difficult to determine if one of them might be the box you're looking for. You might want to check nearby areas or take another picture from a different angle for better visibility.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_4_5.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there is a red box on the table that appears to be a box of soup mix. It is located towards the bottom left of the image. The box has nutritional information visible on one side.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": "User:What else is around the box?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Around the box, there are several items on the table:\n\n- A clear sign holder with a message that reads: \"SORC welcomes everyone and everything! Except trash.\"\n- A black mesh container that is empty.\n- A smartphone with a pink case and a black power bank next to it.\n- A laptop with the screen open, partially visible on the right side.\n- A green paper cup with a sleeve, likely containing a beverage, is near the laptop.\n- A person wearing a gray sweater is seated at the table, partially visible on the right side. \n\nThe setting appears to be a casual or work environment.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 9,
+                "text_usr": "User:I'd like to know where the soup is and what objects are around it.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box of soup mix is located towards the bottom left of the image. Around it, there are:\n\n- To the left: A clear sign holder with a message.\n- To the right: A black mesh container that is empty.\n- Above it: A smartphone with a pink case and a black power bank next to it, as well as a green paper cup with a sleeve.\n\nThese items are all on the same wooden table.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 11,
+                "text_usr": "User:I need to know what objects are around it because I'm blind and can't see what is framed in the photo",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:I apologize for any confusion. The box of soup mix is positioned on the wooden table. Here are the objects around it:\n\n- Directly to the left of the box is a clear sign holder.\n- Directly to the right of the box is an empty black mesh container.\n- Above the box, a bit further away, there is a smartphone with a pink case, a black power bank, and a green paper cup with a sleeve.\n\nThese items are all on the same table surface.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_5_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a long wooden table with several wooden chairs along its sides. On the table, there are a few items including a laptop on the right side, two small black mesh containers, and some informational signs in clear holders. The signs have text on them, but the image is not clear enough to read the text in detail. In the background, there are more chairs and a seating area with couches. The setting appears to be a communal or study area, possibly in a library or a student center.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:I have a keychain with three keys, a keyfob, and a bottle opener on it. Do you see it?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I don't see a keychain with keys, a keyfob, or a bottle opener on the table in the image. It might be out of the frame or obscured by other items. You might want to check around the area or take another picture from a different angle to help locate it.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_5_5.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, I still do not see a keychain with keys, a keyfob, or a bottle opener on the table. The table is mostly clear except for a sign in a clear holder and what appears to be a phone or a device with a pink cover on the right side. The keychain might be out of the frame or hidden from view. You might want to check other areas around the table or take another picture from a different angle.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P9_inlab_images/image_5_7.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the keychain you described is visible. It is placed on a smaller wooden table or surface near the larger table with chairs. The keychain includes three keys, a keyfob, and a bottle opener. The keys and keyfob are attached to a metal ring, and the bottle opener is also attached to the same ring.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 9,
+                "text_usr": "User:Is it another table, or is it a chair",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The keychain is placed on the seat of a wooden chair, not another table.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

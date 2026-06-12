@@ -1,0 +1,2668 @@
+{
+    "interaction_1": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "Unanswerable, Reading, Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "professional",
+            "interaction_length": "9",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_1_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A container of Friendly Farms Nonfat Greek Yogurt with Strawberry on the Bottom is placed on a dark wooden surface. The yogurt lid is red with images of strawberries and a spoon. The text on the lid reads \"Friendly Farms,\" \"Nonfat Greek Yogurt,\" \"Strawberry on the Bottom,\" and \"Net Wt 5.3 oz (150g).\" The surface is mostly empty except for the yogurt container. Below the table, part of a person's legs and feet, wearing black pants and shoes, are visible. The floor appears to be carpeted in a light gray color.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Tell me only about the yogurt container and not what is around it",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:A container of Friendly Farms Nonfat Greek Yogurt with Strawberry on the Bottom. The lid is red, featuring images of strawberries and a spoon. The text on the lid includes \"Friendly Farms,\" \"Nonfat Greek Yogurt,\" \"Strawberry on the Bottom,\" and \"Net Wt 5.3 oz (150g).\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What is the expiration date",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is not visible in the image. You might need to check the sides or bottom of the yogurt container for that information.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_1_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is not visible in this image either. It might be located on the bottom of the container or on another side that is not shown. You may need to check those areas for the expiration date.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_1_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is not visible in this image either. It might be located on another side of the container that is not shown. You may need to check those areas for the expiration date.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_1_11.jpg"
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_1_13.jpg"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is still not visible in this image. It might be located on the bottom of the container or another side that is not shown. You may need to check those areas for the expiration date.",
+                "local_image_path": null
+            },
+            {
+                "turn": 15,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_1_15.jpg"
+            },
+            {
+                "turn": 16,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is not visible in this image either. It might be located on the bottom of the container or another side that is not shown. You may need to check those areas for the expiration date.",
+                "local_image_path": null
+            },
+            {
+                "turn": 17,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_1_17.jpg"
+            },
+            {
+                "turn": 18,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date on the yogurt container is \"MAR 18\".",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "Description, Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "familiar",
+            "environment_setting": "professional",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_2_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A black table with several single-serve beverage pods. The visible pods include:\n\n- Apple Cider\n- Lady Grey Tea\n- Chai Cinnamon Tea\n- Chamomile Tea\n\nThere is a cable on the right side of the table. The lower part of the image shows a person's legs, wearing dark pants.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Tell me only about the tea pods and not anything around it",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The tea pods visible are:\n\n- Lady Grey Tea\n- Chai Cinnamon Tea\n- Chamomile Tea",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What is the flavor of the first pod on the left",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The flavor of the first pod on the left is Apple Cider.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_3_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Partially visible package of a food product on a wooden surface. The package is orange and features an image of a dish with vegetables and grains. The visible text on the package reads \"Seasoned Garden Blend\" and mentions \"Quinoa, Cherry, Sugar Snap Peas.\" There is also a small circular icon indicating \"MINUTES\" with a microwave symbol.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the vegetables in this package, just show me the package and not what it is sitting on",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The package shows a dish with a variety of vegetables, including cherry tomatoes, sugar snap peas, and possibly some leafy greens. The image suggests a mix of colorful vegetables typically found in a garden blend.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_4_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A navy blue and white striped garment, likely a sweater or sweatshirt, is draped over a piece of furniture. The stripes are horizontal and alternate between navy blue and white. There is a gold zipper at the top, suggesting it might be a pullover with a zippered collar. The background shows a carpeted floor and a window with curtains.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Does the shirt have long sleeves",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the shirt appears to have long sleeves. The way it is draped suggests that the sleeves are folded over the back of the furniture.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What does horizontal mean",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Horizontal refers to a direction or orientation that is parallel to the ground or the horizon. In the context of stripes on clothing, horizontal stripes run from side to side, as opposed to vertical stripes, which run up and down.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_5": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_5_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Close-up view of a fabric with a striped pattern. The stripes are in shades of gray and white, creating a soft, wavy design. The texture appears to be knitted or woven, suggesting it might be a piece of clothing like a sweater or a blanket.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color gray is in the sweater",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The gray in the sweater appears to be a medium shade, not too dark or too light. It has a soft, muted tone, which blends well with the white stripes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Could I wear this sweater with navy blue pants and gray boots",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, you could wear this sweater with navy blue pants and gray boots. The medium gray and white stripes in the sweater would complement the gray boots, while the navy blue pants would provide a nice contrast, creating a cohesive and stylish outfit.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_6": {
+        "annotations": {
+            "customization_technique_used": [
+                "style",
+                "grounding(correct)"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_6_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A gray t-shirt is draped over a surface. On the t-shirt, there is a white outline of a dog and the text reads: \"Big ears. Terrible Listener.\" The t-shirt appears to be laid out flat, and the background includes a carpeted floor and part of a textured fabric surface.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Just tell me about the T-shirt and nothing else around it",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Gray t-shirt with a white outline of a dog and the text \"Big ears. Terrible Listener.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What kind of dog is on the shirt",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The outline of the dog on the shirt resembles a hound, possibly a beagle or a similar breed, known for having large ears.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Are you sure the T-shirt is gray and not navy blue",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The t-shirt appears to be gray, but lighting can sometimes affect color perception. If you're unsure, you might want to check it in different lighting or ask someone nearby to confirm.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_6_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The t-shirt appears to be navy blue in this image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_7": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_7_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A dark blue baseball cap with a small embroidered patch on the front. The patch features a design of a dog and the text \"white flags apparel co.\" The cap is placed on a wooden table, and there are windows with blinds in the background.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What kind of a dog is on the patch",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog on the patch appears to be a beagle, characterized by its distinctive markings and body shape.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What shade of blue is the baseball hat",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The baseball cap is a dark navy blue shade.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Where is the patch located on the hat",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The patch is located on the front of the hat, just above the brim.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_8": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_8_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A backyard with a grassy lawn that has scattered fallen leaves. In the background, there is a white picket fence with a lattice design on top. Beyond the fence, there is a two-story house with a stone facade and beige siding. The house has a brown roof and a porch with white columns. Two cars are parked in the driveway in front of the house, and there are some trees and bushes around the property.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is it snowing",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, it is not snowing. The ground is covered with grass and scattered leaves, but there is no visible snow in the scene.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What type cars are in the driveway",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are two cars in the driveway. The one on the left appears to be a dark-colored SUV, while the one on the right looks like a silver sedan.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Can you tell what time of day it is",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:It's difficult to determine the exact time of day from the image, but the lighting suggests it might be during the daytime, possibly late morning or early afternoon, as the scene is well-lit with no visible shadows indicating a low sun position.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_9": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_9_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A dark-colored SUV is parked on a driveway next to a garage with a closed door. The vehicle's front right headlight is on, illuminating part of the driveway. A small section of grass is visible in the foreground, next to a concrete walkway. There is a black object, possibly a nail or a bolt, lying on the walkway. In the background, there is a wooden fence and a house with a porch. The scene is lit by an exterior light on the garage.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color is the SUV",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The SUV appears to be dark blue.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What brand is the SUV",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The SUV is a Ford, as indicated by the logo on the front grille.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Is anyone in the SUV",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:There doesn't appear to be anyone visible inside the SUV.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_10": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "at work",
+            "environment_setting": "professional",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_10_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A bag of popcorn is placed on a dark surface. The bag has a yellow label with nutritional information and ingredients listed. The label reads \"Graul's Signature Homemade Popcorn with Sea Salt\" and mentions \"Coconut Oil, Sea Salt\" as ingredients. There is a website mentioned: www.graulsmarket.com. To the right, a black cable is coiled on the surface. At the bottom of the image, part of a person's legs and feet are visible, wearing dark pants and shoes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What flavor is the popcorn",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The flavor of the popcorn is \"Homemade Popcorn with Sea Salt.\"",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_10_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The popcorn is labeled as \"Homemade Popcorn with Sea Salt.\" The label also mentions that it is made with gourmet popping corn, is gluten and nut-free, cholesterol and dairy-free, and contains zero trans fats. It is all-natural with no preservatives and has only 110 calories per serving.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_11": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "at work",
+            "environment_setting": "professional",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_11_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A close-up view of a control panel for an air conditioner. The panel has a series of black buttons arranged vertically. The buttons are labeled as follows from top to bottom: OFF, COOL, HEAT, HI FAN, and LO FAN. To the left of the buttons, there is a circular dial with a blue section labeled \"COOLER\" and a white section labeled \"WARMER,\" which is used for temperature control. The panel appears to be part of an older model air conditioning unit, as indicated by the worn and slightly discolored surface. The brand name \"American Standard\" is partially visible on the left side.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Can you tell what temperature it is set at",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The temperature dial is pointing towards the blue section labeled \"COOLER,\" specifically around the 72-degree mark.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_11_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The temperature dial is pointing towards the blue section labeled \"COOLER,\" specifically around the 68-degree mark.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_12": {
+        "annotations": {
+            "customization_technique_used": [
+                "intention",
+                "decomposition"
+            ],
+            "question_category": "Reading, Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "at work",
+            "environment_setting": "professional",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_12_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A laptop screen displays a webpage for a webinar titled \"What's New in RingEX, February 2025.\" The date and time for the webinar are February 25, 2025, at 11 a.m. PT / 2 p.m. ET. The text mentions that RingEX is a complete AI communications platform built for customer services and team collaboration, emphasizing innovation to help users work smarter, not harder. The bottom part of the screen shows the Windows taskbar with icons for search, Microsoft Edge, Microsoft Teams, and other applications.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Read a registration form",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show a registration form. It displays a webpage about a webinar titled \"What's New in RingEX, February 2025,\" along with some descriptive text about the platform. If you need further assistance or a specific part of the image described, please let me know!",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_12_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The right side of the screen shows a registration form for the webinar. The form includes the following fields filled in:\n\n- A dropdown or selection field with the value \"[PII removed]\"\n- A number field with the value \"[PII removed]\"\n- A text field with the value \"[PII removed]\"\n- A text field with the value \"[PII removed]\"\n\nBelow these fields, there is a blue button labeled \"Register now.\" There is also a note indicating that by clicking the button, you consent to receiving calls and emails from [PII removed] regarding their products and services.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Are the fields labeled? Does it say the information you should enter into each field",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not clearly show labels for each field in the registration form. It only displays the values entered into the fields. If you need more specific information about the labels or instructions for each field, you might need to check the webpage directly or seek assistance from someone who can view the screen.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_13": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_13_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A package of Raspberry Hot Cocoa from Alaska is on a wooden table. The packaging features an illustration of a person skiing, dressed in a winter outfit with a red scarf. The text on the package reads: \"Raspberry! Hot Cocoa Alaska\" and \"Made with Rich Chocolate and Real Raspberries.\" The brand name \"CocoAlaska\" is also visible. The net weight is 6 oz. (170 g).",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How much cocoa do you use for a cup of cocoa",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The packaging does not provide specific instructions on how much cocoa to use for a cup. You might want to check the back or sides of the package for preparation instructions, or consider calling a volunteer for assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_13_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The side of the package shown in the image does not provide specific instructions on how much cocoa to use for a cup. It contains a description of the product, highlighting the experience of enjoying the Raspberry Hot Cocoa. You may need to check another side of the package for preparation instructions or consider calling a volunteer for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_13_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:This side of the package shows part of the nutritional information, but it does not include preparation instructions for making a cup of cocoa. You might need to check another side of the package for the specific instructions or consider calling a volunteer for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_13_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:To prepare CocoAlaska Hot Cocoa, mix 2 heaping spoonfuls of the cocoa with a cup of hot (not boiling) water, milk, or milk substitute. Stir or whip vigorously. For an 8 oz. cup, use 3 spoonfuls. Slurping is optional, but encouraged.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_14": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable, Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_14_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A package of Marketside Taco Salad kit. The packaging is predominantly blue and green with images of tortilla chips and shredded cheese. The text on the package reads \"Taco Salad\" and mentions that it includes a vegetable blend, seasoned tortilla chips, taco cheese blend, crispy red bell peppers, and crispy onions with taco ranch dressing. It also notes that there are 130 calories per serving. The net weight is 7.6 ounces (215 grams) for the salad and toppings, with the dressing weighing 2.2 ounces (65 milliliters). The package is placed on a dark surface, and part of a person's clothing is visible at the bottom of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What is the expiration date",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is not visible in the image. You might want to check other parts of the package for the date or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_14_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date is not visible in this image either. It might be located on a different part of the package. You may need to check the top or bottom edges of the package or consider pressing the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_14_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The expiration date on the package is February 24, 2024.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_15": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_15_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A graphic of a dog with a pattern resembling the Maryland state flag, featuring black, orange, and purple colors. Below the dog, the text reads \"puppie love\" with a purple paw print replacing the dot over the \"i\" in \"puppie.\" The background is a gray fabric, likely a t-shirt.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What shade of gray is the shirt",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The shirt is a medium gray shade.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What breed of dog is on the shirt",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog on the shirt is depicted in a simplified, cartoon-like style and does not clearly represent a specific breed. It has a generic dog shape with floppy ears and a wagging tail.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_16": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(correct)"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_16_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A plush teddy bear with a white body and green accents. The bear has green shamrock patterns on its body and a green snout. It is wearing a yellow bow tie around its neck. The bear is sitting on a wooden surface with a visible wood grain pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there two bears",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there is only one teddy bear in the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_16_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there are two teddy bears in the image. Both bears have a white body with green shamrock patterns. They are placed on a wooden surface. In the lower part of the image, a person is standing on a multicolored braided rug, wearing gray sneakers and red shorts.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_17": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA"
+            ],
+            "question_category": "NO question",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "1",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_17_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A small, fluffy white dog with a black collar is lying on a red and white patterned rug. The dog has a gentle expression and is looking directly at the camera. In the background, there is a beige sofa. The Facebook post is from [PII removed], posted 3 hours ago. The phone's battery is at 47%, and the time is 5:52 PM.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_18": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "6",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_18_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Triangular cardboard boxes with illustrations of Winnie the Pooh characters, including Pooh, Tigger, and Eeyore. The boxes are arranged in a hexagonal pattern, and the illustrations are in a simple, sketch-like style. The background is a light brown color, and the boxes are partially covered by a clear plastic lid.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What's in the boxes",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I can't determine the contents of the boxes just by looking at the exterior. You might need to open them to find out what's inside. If you need assistance with that, you can press the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_18_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The boxes contain tea. One box is labeled \"Afternoon Tea\" and contains 8 teabags, weighing 16g or 0.56oz. The other box is labeled \"Chamomile & Lemongrass\" and also contains 8 teabags. Both boxes feature illustrations of Winnie the Pooh characters.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_18_7.jpg"
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Another box is labeled \"Moroccan Mint\" and contains 8 teabags, weighing 16g or 0.56oz. It also features an illustration of Winnie the Pooh characters, specifically Piglet and Eeyore.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_18_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Another box is labeled \"Earl Grey\" and contains 8 teabags, weighing 16g or 0.56oz. It features an illustration of Winnie the Pooh characters, specifically Pooh and Piglet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_18_11.jpg"
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The last box is labeled \"English Breakfast\" and contains 8 teabags, weighing 16g or 0.56oz. It features an illustration of Winnie the Pooh standing on a stool, reaching for something on a shelf.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_19": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_19_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Screen showing an online shopping app with item details. At the top, the time is 10:09 PM, and the battery is at 19%. The item is a piece of clothing with a partial view of a person wearing a sweater with a green design. Options to choose a color and size are available. The color selected is \"Snoopy,\" and the size selected is \"XS.\" The price is $14.96, with a note that prices may vary in club and online. Options for shipping, pickup, and delivery are shown at the bottom. Navigation icons for Home, Scan & Go, Reorder, Account, and More are also visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What does the Snoopy shirt look like",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The Snoopy shirt features a design with the word \"LUCKY\" in bold letters above an image of Snoopy. The design has a green color theme, fitting with the overall style of the shirt.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Are there shamrocks on the shirt",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the Snoopy shirt includes shamrocks as part of its design.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:What is Snoopy doing",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Snoopy is depicted lying down on his back with a relaxed posture.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_20": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_20_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A street scene with a paved road and a sidewalk in the foreground. Across the street, there is a chain-link fence enclosing a grassy area, possibly a park or sports field. Behind the fence, there are several houses and trees. A utility pole with wires is visible on the left side. There is a street sign on the right side of the image, which includes a \"Do Not Enter\" sign and another sign indicating \"One Way.\" An American flag is hanging on the fence. The sky is clear and blue.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there a dog in the park",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there is no dog visible in the park area.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Are there any people in the park",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there are no people visible in the park area.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_21": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Unanswerable, Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "7",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_21_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Box of Betty Crocker Gingerbread Cake & Cookie Mix. The packaging highlights that it is \"Ready in 3 easy steps\" and has a net weight of 14.5 oz (411g). The image on the box shows a piece of gingerbread with a dusting of powdered sugar on top.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the cooking instructions",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cooking instructions are not fully visible in the image. You might want to check the other sides of the box for the complete instructions. If you need further assistance, you can take another picture showing the cooking instructions clearly.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_21_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Here are the visible cooking instructions for the gingerbread mix:\n\n1. Heat oven to 375\u00b0F (or 350\u00b0F for nonstick cookie sheet).\n2. Stir Gingerbread Mix, water, and softened butter in a medium bowl until blended.\n3. Shape dough into 1-inch balls (about 1 tablespoon) and place 2 inches apart on an ungreased cookie sheet. If dough is too sticky to roll, cover and refrigerate for 15 minutes. Roll balls in sugar if desired.\n4. Bake 11 to 13 minutes or until edges are firm (do not overbake). Cool 1 minute before removing from cookie sheet. Cool completely; store in airtight container.\n\nBetty's Tip: To create gingerbread man cookies, use 3 tablespoons water and 2 tablespoons softened butter. Roll dough 1/4 inch thick and cut with cookie cutter. Bake 7-9 minutes.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Are there directions to make a cake",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not fully show the cake instructions. You might need to check the other sides of the box for the complete cake instructions. If you can provide another picture showing the full instructions, I can help transcribe them for you.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_21_9.jpg"
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Here are the cake instructions:\n\n1. Heat oven to 350\u00b0F for aluminum or glass pan or 325\u00b0F for nonstick pan.\n2. Stir Gingerbread Mix, water, and egg in a medium bowl until blended. Stir vigorously until well blended. Pour into pan.\n3. Bake as directed in the chart or until a toothpick inserted in the center of the pan comes out clean. Serve warm or cold.\n\nBaking times based on pan size:\n- 8\" x 8\": 32-37 minutes\n- 9\" x 9\": 28-33 minutes\n- 11\" x 7\": 24-29 minutes",
+                "local_image_path": null
+            },
+            {
+                "turn": 11,
+                "text_usr": "User:What are the ingredients and how much of them do I need to bake the cake",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image does not show the specific ingredient quantities needed for baking the cake. You might need to check the other sides of the box for the complete list of ingredients and their measurements. If you can provide another picture showing this information, I can help transcribe it for you.",
+                "local_image_path": null
+            },
+            {
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_21_13.jpg"
+            },
+            {
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:For baking the cake, you will need:\n\n- 1/4 cup water\n- 1 egg\n\nThese ingredients are to be mixed with the Gingerbread Mix as per the instructions.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_22": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_22_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a container of \"Supreme Butter Cream\" frosting. The container is blue and yellow, with the text \"Butter Cream\" prominently displayed. The net weight is 16 oz (1 lb) or 453 grams. The nutrition facts on the side indicate that there are about 13 servings per container, with each serving size being 2 tablespoons (34 grams) and containing 140 calories. The background shows a wooden floor and part of a kitchen setting.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What is the flavor of this frosting",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The flavor of the frosting is buttercream.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What color is the frosting",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The frosting is a light yellow color.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_23": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_23_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A dog with a brown, black, and white coat is lying on a carpeted floor, playing with a toy that is red and purple. The dog is holding the toy with its front paws and appears to be chewing on it. To the right, there is a torn plush toy with a yellow section exposed. In the background, there is a wooden shelf with several candles or small containers on it. The lighting is dim, casting shadows on the carpet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Tell me about the dog and his toy but nothing else around",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:A dog with a brown, black, and white coat is lying on the floor, playing with a toy. The toy is red and purple, and the dog is holding it with its front paws while chewing on it.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What kind of dog is it",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog appears to be a Beagle or a Beagle mix, characterized by its tricolor coat of brown, black, and white.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_24": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_24_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A pair of dark green pants is laid out on a red surface, possibly a bed. The pants appear to be casual or athletic in style. In the lower part of the image, a person is standing on a beige carpet, wearing gray sneakers. A wooden piece of furniture, possibly a dresser, is partially visible on the right side. There are some white specks or marks on the carpet near the person's feet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Just tell me about the pants and nothing else around it. What shade of green",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The pants are a dark green shade.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Are the pants and olive green or hunter green",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The pants are closer to a hunter green.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_25": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(correct)"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_25_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A pair of dark gray jeans is laid out on a red surface, possibly a bed. The jeans appear to be in good condition, with visible stitching along the seams. In the lower part of the image, a person's legs and feet are visible, wearing light-colored sneakers. The floor is carpeted, and there is a small part of a wooden piece of furniture visible on the right side.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are the pants dark gray or black",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The pants appear to be dark gray.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_25_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The pants still appear to be dark gray in this image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_26": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_26_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A bag of chips is resting on a wooden table. The bag is purple with a beige section that contains text and a barcode. The visible text includes nutritional facts, with the calorie count of 150 prominently displayed. The bag is partially crumpled, and the table has a natural wood grain pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What flavor are the chips",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The visible part of the bag does not clearly show the flavor of the chips. You might need to check another part of the bag or provide a different angle to see the flavor.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_26_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The chips are \"Applewood Smoked BBQ\" flavor from Miss Vickie's.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_27": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_27_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A beagle dog with a brown and black coat is sitting upright, resting its front paws on a light-colored surface. The dog is wearing a blue collar with a tag that reads \"Beagle Rescue of Southern Maryland\" followed by a phone number. The background includes a wooden cabinet and a table with a light wood finish. The floor is carpeted with a textured pattern.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color is the dog",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog has a brown and black coat with some white speckles on its chest and legs.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:How big is the dog",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog appears to be a medium-sized beagle, which is typical for the breed. Beagles generally stand about 13 to 15 inches tall at the shoulder and weigh between 20 to 30 pounds. This dog fits the typical size range for a beagle.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:What color are his eyes",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog's eyes are brown.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "User:Are the spots ticking",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the white speckles on the dog's chest and legs are an example of ticking, which is a pattern of small spots or flecks of color on a lighter background.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_28": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "at work",
+            "environment_setting": "professional",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_28_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:View of an urban courtyard surrounded by tall buildings. The buildings have a beige and brown color scheme with many windows. In the center of the courtyard, there is a landscaped area with a few leafless trees and a dome-shaped glass structure. There are benches and lamp posts around the courtyard. A person is walking across the open space, and there are some covered objects, possibly outdoor furniture, nearby. The sky is clear with a few clouds.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What is the dome shaped glass structure",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dome-shaped glass structure appears to be a skylight or an atrium cover, likely allowing natural light to enter the space below it. It is situated in the landscaped area of the courtyard.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_29": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_29_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Digital display showing the number \"3403\". To the right of the display, there are labels: \"DIST\", \"CAL\", and \"ODO\". Below the display, there are two circular buttons labeled \"MODE\" and \"SET\".",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is there any distance calculated",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The display shows the number \"3403\", but it is not clear from the image whether this number represents a distance or another measurement. You might need to check the device's settings or manual for clarification.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_29_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The display now shows the number \"1816\". The labels \"DIST\", \"CAL\", and \"ODO\" are still present to the right of the display. It is still unclear if this number represents a distance or another measurement. You may need to refer to the device's manual or settings for more information.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_30": {
+        "annotations": {
+            "customization_technique_used": [
+                "decomposition"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_30_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Black women's T-shirt with a design of green glitter shamrocks arranged diagonally across the front. The shirt is labeled as \"Crazy Dog\" and is described as a \"Womens Glitter Shamrocks T Shirt Funny St Saint Patricks Day Shamrock Clover Tee.\" It is available in size Medium. The image shows a 5-star rating with one review.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:How many clovers are on the shirt and what is the size of the clovers",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There are eight clovers on the shirt. The clovers vary in size, with the largest being at the bottom and gradually decreasing in size as they move upward. The largest clover is quite prominent, while the smallest ones are much smaller and scattered around the larger ones.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Are the clovers green",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the clovers are green and have a glittery appearance.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_31": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "Identification, Description, Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_31_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a remote control with a cable attached to it. The remote has several buttons, including a plus sign, a minus sign, and a power button. The background shows a fireplace mantel and a television in a living room setting. The person holding the remote is wearing a red sleeve.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Tell me only about the remote control",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The remote control is black and has a cable attached to it. It features several buttons: a plus sign, a minus sign, a power button, and another button with a circular symbol.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Which button is the power button",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The power button is the one with a circular symbol and a vertical line through the top, located near the bottom of the remote.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Is the power button the very bottom button",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the power button is the very bottom button on the remote control.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_32": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_32_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a round container with a clear lid. The label on the lid reads \"HOMEWORX BY HARRY SLATKIN\" and \"OATMEAL COOKIE\" with a description of the fragrance as \"SWEET RAISINS, TOASTED OATS, BROWN SUGAR, FRESH BAKED COOKIE.\" There is a warning about burning the candle within sight and keeping it away from things that catch fire. The net weight is listed as 18 oz (510 g). There is also a price sticker from Marshalls showing the price as $14.99.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_32_3.jpg"
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hand is holding a round container with a label on the bottom. The label includes a warning to prevent fire and serious injury, advising to burn the candle within sight, keep away from things that catch fire, and keep away from children. It also mentions trimming the wicks to 1/4 inch before relighting and keeping wax free of wick trimmings. The fragrance is \"CHAMPAGNE TOAST,\" described as having notes of bubbly champagne, sparkling berries, and juicy tangerine, made with natural essential oils. The net weight is 14.5 oz (411 g).",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What color is the candle",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The candle is pink.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_33": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_33_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A green teddy bear is lying on a crumpled, deep red blanket. The teddy bear has a small white clover emblem on its chest. The blanket appears soft and plush, with visible folds and creases.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What shade of green is the bear and is this a St. Patrick's Day decoration",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The teddy bear is a bright, vibrant shade of green, which is often associated with St. Patrick's Day. The small white clover emblem on its chest further suggests that it could be a St. Patrick's Day decoration.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_34": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_34_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A fabric with horizontal stripes in various colors, including shades of blue, beige, and white. The fabric has a button-up design with visible buttons down the center. The buttons are small and round, with a metallic appearance. The stripes vary in thickness and are evenly spaced across the fabric.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What shade of blue is in the shirt and would it go well with navy blue pants",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The shirt features light blue and aqua shades. These lighter blue tones would complement navy blue pants well, as the contrast between the light and dark blues can create a balanced and visually appealing outfit.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_34_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The shirt with light blue and aqua stripes is paired with dark blue pants. The pants have a denim-like texture and appear to be a deep navy blue. The combination of the light blue stripes on the shirt with the dark blue pants creates a harmonious and stylish look.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_35": {
+        "annotations": {
+            "customization_technique_used": [
+                "grounding(correct)"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "at work",
+            "environment_setting": "professional",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_35_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:Two boxes of Celestial Seasonings herbal tea are on a white surface. The box on the left is \"Country Peach Passion,\" which is orange and features images of peaches. The box on the right is \"Jammin' Lemon Ginger,\" which is yellow and has illustrations of lemons and ginger. Both teas are caffeine-free. Above the tea boxes, there is a package of instant noodles. A pen is visible on the right side of the surface. Below the surface, a person is standing on a gray carpet, wearing dark blue shoes and pants with patterned socks.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there three boxes of tea",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there are only two boxes of tea visible.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_35_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, there are three boxes of Celestial Seasonings herbal tea visible now. From left to right, the flavors are \"Raspberry Zinger,\" \"Country Peach Passion,\" and \"Jammin' Lemon Ginger.\" All three are caffeine-free. The person is still standing on a gray carpet, wearing dark blue shoes and pants with patterned socks, and a brown jacket is partially visible.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_36": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading, Unanswerable",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_36_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the side of a food package with nutritional information and some additional text. The nutritional facts are listed in a table format, indicating a serving size of 1 cup (200g) with 350 calories per serving. The table includes details such as total fat, cholesterol, sodium, total carbohydrates, dietary fiber, total sugars, and protein content, along with their respective daily value percentages.\n\nNext to the nutritional facts, there is a section with text that reads:\n\n\"Did you know? In this product:\n- No GMO ingredients\n- No artificial colors\n- No artificial flavors\n- No preservatives\"\n\nBelow this section, there is a handwritten-style note that talks about the uniqueness of the lasagna, mentioning that it is made with the best cheeses and love, and is a favorite to cook for family at home. The note emphasizes the use of mozzarella and ricotta cheeses.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What are the cooking instructions",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cooking instructions are partially visible at the top of the image. They mention:\n\n1. \"Microwave Instructions (1200 W):\"\n2. \"Follow cooking directions.\"\n\nUnfortunately, the rest of the instructions are cut off and not fully visible in the image. You might need to check the package again or press the \"Call a volunteer\" button for further assistance.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_36_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The cooking instructions are now more visible. They read:\n\n\"Preparation:\n1. Microwave Instructions (1200 W):\n- Remove tray from carton and place on a microwave-safe plate.\n- Cut a 1-inch slit in the film to vent.\n- Cook on high for 9-10 minutes.\n- Let stand for 1-2 minutes.\n- Carefully remove film and serve.\n\n2. Conventional Oven Instructions:\n- Preheat oven to 375\u00b0F.\n- Remove tray from carton and place on a baking sheet.\n- Cut a 1-inch slit in the film to vent.\n- Place baking sheet on center rack.\n- Cook for 50-55 minutes.\n- Let stand for 1-2 minutes.\n- Carefully remove film and serve.\"\n\nThese instructions provide guidance for both microwave and conventional oven preparation methods.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_37": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_37_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A sidewalk runs alongside a grassy area that appears dry and brown. To the right, there is a large sign with the text \"West Road\" at the top. Below that, the sign lists several businesses: \"Meridian Bank Mortgage,\" \"Northern Baltimore Surgery Center,\" and \"Lord Baltimore Capital Group.\" At the bottom of the sign, the name \"Mackenzie\" is displayed. In the background, there are some trees, parked cars, and buildings. The scene is well-lit, suggesting it is daytime.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the sidewalk clear",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the sidewalk appears to be clear. There are no visible obstacles or debris on it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_38": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Reading",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_38_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A street corner with a sidewalk and a grassy area. A black SUV is driving on the road, approaching an intersection. There is a traffic light with a street sign that reads \"Kenilworth Dr\" in the background. A utility pole on the right side of the image has several stickers on it. The area appears to be a suburban neighborhood with houses and trees in the background. The weather is clear and sunny.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Which street is this",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The street sign in the background indicates \"Kenilworth Dr.\"",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_39": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Locational/retrieval",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "no",
+            "familiarity_of_item": "no",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "No"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_39_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A concrete driveway or ramp slopes downward, bordered by a sidewalk on the left and a concrete wall with metal railings on the right. The area is well-lit by sunlight. In the background, there are trees, a building, and a road with vehicles. A drainage grate is embedded in the ground near the bottom of the slope.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Am I heading towards an intersection",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, you are heading towards an intersection. In the background, there are traffic lights and vehicles, indicating an intersection ahead.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Am I on the sidewalk heading towards the intersection",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, you are on the sidewalk heading towards the intersection. The sidewalk is on the left side of the concrete driveway or ramp.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_40": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Identification",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "outdoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_40_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A grassy mound with dry, brown grass and scattered fallen leaves. In the foreground, there is a small green and black rectangular object partially buried in the grass. A shadow of a person is visible on the right side of the image, and a crumpled white object, possibly a piece of paper or cloth, is on the ground nearby. In the background, there are leafless trees and a clear blue sky.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Are there any animals in the picture",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:No, there are no animals visible in the picture.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_41": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_41_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A pair of light blue pants is laid out on a surface. The fabric appears to be soft and slightly textured. The stitching is visible along the seams, and the pants have a casual style. In the background, part of a person's feet wearing white socks can be seen standing on a beige carpet.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:What color blue are the pants",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The pants are a light blue color.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What do you mean about the stitching",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The stitching refers to the visible lines of thread that are used to sew the fabric pieces of the pants together. These lines are typically found along the seams, such as the side of the pants, and they are slightly darker than the fabric, making them noticeable against the light blue material.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_42": {
+        "annotations": {
+            "customization_technique_used": [
+                "style"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "no",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "4",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_42_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A dog with a brown and black coat is lying on a red blanket. The dog has a white chest with brown spots and is looking towards the camera with a relaxed expression. The room has a beige carpet, and in the background, there is a wooden shelf with various items on it, including boxes and papers. A bed with a red and gray blanket is partially visible, and a pair of shoes is on the floor near the bed. Sunlight is streaming in, casting shadows on the blanket and the dog.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Just tell me about the dog and nothing around him",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:A dog with a brown and black coat is lying on a red blanket. It has a white chest with brown spots and is looking towards the camera with a relaxed expression. The dog's ears are floppy, and it has a black nose.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:What kind of dog",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog appears to be a Beagle or a Beagle mix, characterized by its floppy ears, tricolor coat, and medium size.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Is the dog sleeping",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The dog is not sleeping; it is lying down with its eyes open, looking towards the camera with a relaxed expression.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_43": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "5",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_43_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A piece of burgundy fabric, possibly a garment, is draped over a textured blue surface, which appears to be a blanket or throw on a couch. The fabric has a soft, slightly wrinkled appearance. In the background, there is a glimpse of a fluffy white object, possibly a pillow or rug, and a section of wooden flooring.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Could the shirt be black",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The shirt appears to be burgundy, which is a dark reddish-purple color. However, lighting can sometimes affect how colors appear in photos. If you're uncertain about the color, it might be helpful to check it in different lighting conditions or ask someone nearby for confirmation.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_43_5.jpg"
+            },
+            {
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:This fabric appears to be black and is draped over the same textured blue surface as before. The material looks soft and has some folds and wrinkles. In the background, there is a section of carpet and wooden flooring, with part of a braided rug visible. A shoe is partially visible at the bottom of the image.",
+                "local_image_path": null
+            },
+            {
+                "turn": 7,
+                "text_usr": "User:Is this shirt black",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, this shirt appears to be black.",
+                "local_image_path": null
+            },
+            {
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_43_9.jpg"
+            }
+        ]
+    },
+    "interaction_44": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Ask for advise",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "2",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_44_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A pair of pants with a black and white houndstooth pattern is partially covered by a black fabric, possibly a shirt or top. The houndstooth pattern consists of small, broken checks or abstract four-pointed shapes. The black fabric appears to be soft and slightly wrinkled.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Do these items match, shirt and pants",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The black shirt and the black and white houndstooth patterned pants can be considered a matching combination. The solid black top complements the bold pattern of the pants, creating a balanced and stylish look.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_45": {
+        "annotations": {
+            "customization_technique_used": [
+                "NA-w-text"
+            ],
+            "question_category": "Description, Ask for advise",
+            "in_a_hurry": "yes",
+            "indoor_outdoor": "indoor",
+            "familiarity_of_environment": "yes",
+            "familiarity_of_item": "yes",
+            "surrounding_environment": "alone",
+            "environment_setting": "leisure",
+            "interaction_length": "3",
+            "task_completed": "Yes"
+        },
+        "turns": [
+            {
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_45_1.jpg"
+            },
+            {
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A small cross pendant with a twisted design lies on a wooden surface. The wood has a natural grain pattern with varying shades of brown. The cross appears to be metallic, possibly silver or a similar material, and has a small loop at the top for attaching to a chain.",
+                "local_image_path": null
+            },
+            {
+                "turn": 3,
+                "text_usr": "User:Is the cross black and silver",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, the cross appears to be black and silver, with the twisted design alternating between the two colors.",
+                "local_image_path": null
+            },
+            {
+                "turn": 5,
+                "text_usr": "User:Which Cross would look nicer against a black shirt",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P10_images/image_45_6.jpg"
+            },
+            {
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The second cross, which is silver with a more intricate design and appears to have small stones or embellishments, would likely stand out more against a black shirt due to its reflective and detailed appearance. The contrast with the black background would highlight its features.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

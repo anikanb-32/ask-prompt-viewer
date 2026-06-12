@@ -1,0 +1,340 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows an indoor space that appears to be a lounge or waiting area. There are several chairs and couches arranged in the middle of the room, including an orange couch and some gray chairs. The floor is carpeted with a pattern, and there is a yellow strip running across it. The ceiling has multiple rectangular lights. There are partitions or dividers in the background, and some people are sitting at tables or desks. On the right side, there is a black trash bin. The overall image is slightly blurry.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:Great",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found the description helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:X where is the table?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:In the image, the tables are located in the background, beyond the orange couch and gray chairs. They are positioned near the partitions or dividers, where some people are seated.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "User:What color is the table?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image is slightly blurry, making it difficult to determine the exact color of the tables. However, they appear to be dark-colored, possibly black or dark brown.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_1_9.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hallway with a glass door on the left side, leading to an area with elevators. The elevator doors are white, and there is a small sign next to them. On the right side of the hallway, there is a large window with a white curtain behind it. The floor is carpeted with a brown pattern, similar to the previous image. The ceiling has rectangular lights.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 11,
+                "text_usr": "User:Give me less details where is the door?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:The door is on the left side of the image.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 3,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a box of Lipton Cup-a-Soup. The flavor is \"Cream of Chicken with other Natural Flavors.\" The box contains 4 envelopes of instant soup, with a net weight of 2.4 ounces (68 grams). The nutritional information per envelope is displayed: 70 calories, 1.5 grams of saturated fat (8% of daily value), 620 milligrams of sodium (26% of daily value), and 1 gram of sugars. There is a serving suggestion image of a bowl of creamy yellow soup with small green herbs on top.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 3,
+                "text_usr": "User:Is this a healthy snack flow in calories?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:This soup is relatively low in calories, with 70 calories per envelope. However, it is high in sodium, containing 620 milligrams per serving, which is 26% of the recommended daily value. While it might be low in calories, the high sodium content could be a concern if you're watching your sodium intake. It's always a good idea to consider your overall dietary needs and consult with a healthcare professional if you have specific health concerns.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 5,
+                "text_usr": "User:What are you doing?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm here to help you with any questions or information you might need. Let me know if there's anything else you'd like assistance with!",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 7,
+                "text_usr": "User:What is the daily intake of calories?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The recommended daily calorie intake varies depending on factors such as age, gender, activity level, and overall health. On average, adult women typically need about 1,800 to 2,400 calories per day, while adult men usually require about 2,200 to 3,000 calories per day. These are general guidelines, and individual needs can vary. It's best to consult with a healthcare professional or a nutritionist for personalized advice.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 9,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_2_9.jpg"
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 10,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows the nutrition facts and ingredients for the Lipton Cup-a-Soup Cream of Chicken. Here is the information:\n\nNutrition Facts:\n- Serving Size: 1 envelope (17g), makes 6 fl oz prepared\n- Servings Per Container: 4\n- Calories: 70\n- Calories from Fat: 15\n- Total Fat: 1.5g (2% Daily Value)\n- Saturated Fat: 1.5g (8% Daily Value)\n- Trans Fat: 0g\n- Cholesterol: 0mg (0% Daily Value)\n- Sodium: 620mg (26% Daily Value)\n- Total Carbohydrate: 12g (4% Daily Value)\n- Dietary Fiber: 0g (0% Daily Value)\n- Sugars: 1g\n- Protein: 0g\n- Vitamin A: 0%\n- Vitamin C: 0%\n- Calcium: 0%\n- Iron: 0%\n\nThe daily values are based on a 2,000 calorie diet.\n\nIngredients:\nMaltodextrin, Potato Starch, Creamer (Coconut Oil, Corn Syrup Solids, Sodium Caseinate [Milk]), Mono and Diglycerides, Disodium Phosphate, Silicon Dioxide, Salt, Sugar, Guar Gum, High Oleic Sunflower Oil, Yeast Extract, Onion Powder, Hydrolyzed Soy Protein, Chicken Broth, Turmeric and Paprika Oleoresin (for color), Parsley, Natural Flavors (Milk), Chicken Fat, Spices, Whey, Nonfat Milk, Caramel Color, Soy Lecithin, Dehydrated.\n\nIt may contain wheat and sulfites.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 11,
+                "text_usr": "User:What is Moto Daxon?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 12,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm not familiar with \"Moto Daxon.\" It's possible that it could be a specific product, brand, or term that isn't widely recognized or might be spelled differently. If you have more context or details, I might be able to help further. Alternatively, you might want to try searching online or asking someone who might have more specific knowledge about it.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 13,
+                "text_usr": "User:What is Maltodextrin,",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 3,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:Maltodextrin is a white powder made from starches such as corn, rice, potato, or wheat. It is commonly used as a food additive to improve texture, thicken products, or as a filler to increase the volume of processed foods. Maltodextrin is easily digestible and quickly absorbed by the body, providing a rapid source of energy. It is often found in products like snacks, desserts, and sports drinks. While generally considered safe, it can affect blood sugar levels, so individuals with diabetes or those monitoring their carbohydrate intake may want to be cautious.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room that appears to be a break room or a small office kitchen area. There are several tables with wheels and chairs around them. The chairs have orange seats and backs. In the background, there is a red refrigerator with the brand name \"Galanz\" on it. The fridge has green sticky notes arranged in a diamond pattern on the door. On top of the fridge, there is a red first aid kit and some plastic containers. Next to the fridge is a water cooler with a large water bottle on top. There is a white cabinet with a microwave, a coffee maker, and some other items on the counter. Above the cabinet, there are shelves with various items, including a few pictures and a stuffed animal. On the wall, there are some posters and a corkboard. A computer monitor is visible on the right side of the image. A small box of instant noodles is on one of the tables. The floor is carpeted.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:Find the box of soup",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_3_4.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box of soup is located on the left side of the table in the foreground. It is a small box with a red and yellow design.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": "User:How far is the table?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:The table is in the foreground of the image, taking up most of the lower half of the picture. It appears to be quite close to the viewer, suggesting it is directly in front of the camera.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": "User:what color is the box?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box is primarily red with some yellow on it.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a slightly blurry scene of a table with a laptop on it. The laptop screen is open and displaying some text. Next to the laptop, there is a small black case or pouch and a remote control with a pink sticky note on it. In the background, there is a person standing, wearing dark jeans and white sneakers. The table has a light wood grain finish, and the floor is carpeted. There is also a red chair partially visible to the left.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:Help me find the keys with the bunny on it",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_4_4.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 5,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a classroom or meeting room with several tables and chairs. There are no visible keys with a bunny on them in this image. The tables are surrounded by chairs in various colors, including green, orange, and white. There is a podium at the front of the room, a large red cabinet on the right, and a projection screen on the wall. A small black bowl is on one of the tables, but it does not appear to contain keys. You might want to check other areas or images for the keys.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_4_6.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, there is a table with several chairs around it, and on the table, there is a small pink object that resembles a bunny. This could be the keychain you are looking for. The room also contains a red cabinet, a kitchenette area with a microwave and coffee maker, and some shelves with various items. If the keys are attached to the pink bunny object on the table, then you have found them.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 8,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_4_8.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 9,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the table is mostly clear, with no visible keys or objects on it. The table has a light wood grain finish, and there are orange and gray chairs around it. If the keys with the bunny are not visible here, they might have been moved or could be in another location. You may want to check other areas or images for the keys.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 10,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P1_inlab_images/image_4_10.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:In this image, the keys with the bunny keychain are visible on the table. The keychain is pink and shaped like a bunny, and it is attached to a set of keys. The keys are placed near an orange chair on the table with a light wood grain finish.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

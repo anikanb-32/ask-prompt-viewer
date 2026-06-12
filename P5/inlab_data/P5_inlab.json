@@ -1,0 +1,172 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a laptop on a table. The screen displays a login page with a circular profile picture of a person and the name \"[PII removed]\" below it. The text \"Touch ID or Enter Password\" is visible under the name, with a \"Cancel\" option below that. The background of the screen is a gradient of orange and red colors. In the background, there are several boards on the wall covered with colorful sticky notes. A window and some hanging clothes are also visible in the room.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a hallway with a set of double glass doors. Above the doors, there is an illuminated red \"EXIT\" sign. The doors have metal frames and a push bar for opening. Through the glass doors, you can see another hallway with light-colored walls and a tiled floor. On the left side of the hallway beyond the doors, there is a wall with several signs, including one with the logo of the University of Maryland and the text \"College of Information Studies.\" The ceiling has fluorescent lights and a grid of ceiling tiles. The floor in the foreground is carpeted with a brown pattern. On the right side of the image, there is a window with a curtain behind it.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:What\u2019s the color of the carpet?",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The carpet is brown with a pattern.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:Helpful",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found it helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 7,
+                "text_usr": "User:More details More details",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The carpet has a brown base color with a subtle pattern that appears to be a darker shade of brown. The pattern consists of small, repeating geometric shapes or lines that add texture to the carpet. The overall look is neutral and blends well with the rest of the hallway's decor. If you need more specific information or have other questions, just let me know!",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room that appears to be a meeting or classroom setting. There is a wooden table with wheels in the foreground, and on it, there is a small box of what looks like candy or snacks. Behind the table, there are several orange chairs stacked together. The walls have many papers and documents pinned up, some with colorful sticky notes and dots, possibly indicating a brainstorming session or project planning. There is a whiteboard on the right side of the image, which seems to have some faint writing or drawings on it. The ceiling has fluorescent lights, and there is a fire alarm on the wall. The room has a carpeted floor.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:I\u2019m looking for a box",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is a small box on the table in the foreground of the image. It appears to be a box of candy or snacks. If this is not the box you are looking for, you might want to check other areas of the room or provide more details about the box you are searching for.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "User:I only care about finding a box of food. Do not tell me anything else.",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is a small box on the table in the foreground that appears to be a box of food, possibly candy or snacks.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 7,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_inlab_images/image_3_7.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 8,
+                "text_usr": null,
+                "text_ai": "Be My AI:The box of food is on the wooden table in the foreground. It appears to be a red box, likely containing some type of snack or candy.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P5_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:The image shows a room with a large table in the foreground. The table has a wooden top and black legs with wheels. On the table, there is a remote control, a set of keys, and a small red box. Behind the table, there are several orange chairs with black frames. The wall behind the chairs is covered with various papers and colorful charts pinned up. There is a large white projection screen above the papers. The room has a carpeted floor and a ceiling with white tiles and fluorescent lighting. There is also a glass window or partition reflecting some of the room's contents.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:I\u2019m looking for a set of two keys",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is a set of keys on the table in the image. They are located towards the right side of the table. If you need more assistance locating them, you might want to press the \"Call a volunteer\" button for guidance.",
+                "local_image_path": null
+            }
+        ]
+    }
+}

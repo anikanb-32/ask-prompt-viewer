@@ -1,0 +1,207 @@
+{
+    "interaction_1": {
+        "turns": [
+            {
+                "scenario_idx": 1,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_inlab_images/image_1_1.jpg"
+            },
+            {
+                "scenario_idx": 1,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A laptop with a silver body and black keyboard is open on a table. The screen displays a login page with an orange and blue gradient background. In the center of the screen, there is a circular profile picture of a person with long dark hair. Below the picture, the name \"[PII removed]\" is displayed. Underneath the name, it says \"Touch ID or Enter Password.\" At the bottom of the screen, there is a \"Cancel\" button.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_2": {
+        "turns": [
+            {
+                "scenario_idx": 2,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_inlab_images/image_2_1.jpg"
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A hallway with a brown patterned carpet and white walls. There is a large window with a white curtain on the right wall. The left side of the image shows a glass door leading to another room. The walls and ceiling are plain, with a small white thermostat or control panel on the right wall.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 3,
+                "text_usr": "User:Good, helpful",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:I'm glad you found it helpful! If you have any more questions or need further assistance, feel free to ask.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 5,
+                "text_usr": "User:Is it possible to actually read the thermostat setting",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 2,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The thermostat setting is not visible in the image. It appears too small and distant to read any specific details or settings.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_3": {
+        "turns": [
+            {
+                "scenario_idx": 4,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_inlab_images/image_3_1.jpg"
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A long conference table with a wood grain finish. On the left side, there is an open laptop displaying a video call with a person wearing a dark red shirt. Next to the laptop is a closed MacBook. On the table, there are a pair of headphones and a small red and white box, possibly a snack or candy. In the background, there are several orange chairs and some office equipment, including a cart and a stack of trays.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 3,
+                "text_usr": "User:Where is the small package relative to the laptop computer",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:The small package is located further down the table to the right of the laptop computer.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 5,
+                "text_usr": "User:Without any reference to the furnishings and other extra extra information just tell me where the package is relative to the laptop computer",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 4,
+                "turn": 6,
+                "text_usr": null,
+                "text_ai": "Be My AI:The package is to the right of the laptop computer.",
+                "local_image_path": null
+            }
+        ]
+    },
+    "interaction_4": {
+        "turns": [
+            {
+                "scenario_idx": 5,
+                "turn": 1,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_inlab_images/image_4_1.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 2,
+                "text_usr": null,
+                "text_ai": "Be My AI:A classroom setting with two orange chairs and a blue table. On the table, there are two computer monitors with speakers on either side. A white jacket is draped over one of the chairs. A person is sitting on the other chair, wearing glasses and holding a tablet with a stylus. The person is wearing a light blue sweater and jeans. On the wall behind the table, there are two large sheets of paper with colorful sticky notes arranged in a mind map format. The sheets are titled \"Gifts of the Head\" and \"Gifts of the Hands.\" A whiteboard is partially visible on the left side of the image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 3,
+                "text_usr": "User:Is there a cane in this image, particularly my cane is white with a black handle and it's used for a blind people",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 4,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is no visible white cane with a black handle in the image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 5,
+                "text_usr": "User:Do you see my cane in this image",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 6,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_inlab_images/image_4_6.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 7,
+                "text_usr": null,
+                "text_ai": "Be My AI:There is no visible white cane with a black handle in this image.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 8,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_inlab_images/image_4_8.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 10,
+                "text_usr": "User:How about how about this image",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 11,
+                "text_usr": null,
+                "text_ai": "Be My AI:I apologize, but I cannot see a white cane with a black handle in this image either.",
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 12,
+                "text_usr": "User:Is my cane in this image, again it is a white extended came with a black handle",
+                "text_ai": null,
+                "local_image_path": null
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 13,
+                "text_usr": "",
+                "text_ai": null,
+                "local_image_path": "P11_inlab_images/image_4_13.jpg"
+            },
+            {
+                "scenario_idx": 5,
+                "turn": 14,
+                "text_usr": null,
+                "text_ai": "Be My AI:Yes, your white cane with a black handle is visible in this image. It is leaning against the table on the right side.",
+                "local_image_path": null
+            }
+        ]
+    }
+}
